@@ -8,12 +8,8 @@ def get_all_airlines():
 
 
 def get_airline(airline_code):
-    airline = 'THY'  # Turkish Airlines
     fr = flightradar24.Api()
-    flights = fr.get_flights(airline)
-    print(flights)
+    flights = fr.get_flights(airline_code)
+    return flights
 
-    for key, value in flights.items():
-        if isinstance(value, list):
-            print(value)
 

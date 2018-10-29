@@ -2,8 +2,12 @@ import airlines as air
 
 
 def main():
-    airlines = air.get_all_airlines()
-    print(airlines)
+    #airlines = air.get_all_airlines()
+    #print(airlines)
+
+    # CPA=Cathay Pacific
+    flights = air.get_airline('CPA')
+    print(flights)
 
 
 if __name__ == '__main__':
