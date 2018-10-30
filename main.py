@@ -7,7 +7,7 @@ def main():
 
     # CPA=Cathay Pacific
     flights = air.get_airline_flights('CPA')
-    #print(flights)
+    print(flights)
 
 
 if __name__ == '__main__':
