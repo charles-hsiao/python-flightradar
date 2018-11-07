@@ -16,8 +16,12 @@ def get_airline_flights(airline_code):
         if isinstance(value, list):
             flight_dict = {"airline": airline_code, "from": value[11], "to": value[12]}
             flights.append(flight_dict)
-            #print(value)
 
     return flights
 
+
+def get_all_airports():
+    fr = flightradar24.Api()
+    airports = fr.get_airports()
+    return airports
 
