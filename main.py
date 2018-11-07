@@ -2,17 +2,12 @@ import airlines as air
 
 
 def main():
+
     airlines = air.get_all_airlines()
-    print(len(airlines))
-    #for item in airlines['rows']:
-    #    airline_code = item['ICAO']
-    #    print(airline_code)
-        #flights = air.get_airline_flights(airline_code)
-        #print(flights)
-
-        #print(value)
-
-    #print(airlines['rows'][0]['ICAO'])
+    for item in airlines:
+        airline_code = item['ICAO']
+        flights = air.get_airline_flights(airline_code)
+        print(flights)
 
     # CPA=Cathay Pacific
     #flights = air.get_airline_flights('CPA')
