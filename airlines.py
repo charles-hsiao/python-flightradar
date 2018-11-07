@@ -14,7 +14,7 @@ def get_airline_flights(airline_code):
 
     for key, value in flights_data.items():
         if isinstance(value, list):
-            flight_dict = {"airline": airline_code, "from": value[11], "to": value[12]}
+            flight_dict = {"airline": airline_code, "from": value[11], "to": value[12], "aircraft": value[8]}
             flights.append(flight_dict)
 
     return flights

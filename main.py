@@ -14,12 +14,12 @@ def main():
     #print(airlines['rows'][0]['ICAO'])
 
     # CPA=Cathay Pacific
-    #flights = air.get_airline_flights('CPA')
-    #print(flights)
+    flights = air.get_airline_flights('CPA')
+    print(flights)
 
     # Get all airports
-    airports = air.get_all_airports()
-    print(airports)
+    #airports = air.get_all_airports()
+    #print(airports)
 
 
 if __name__ == '__main__':
