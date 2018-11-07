@@ -4,7 +4,7 @@ import flightradar24
 def get_all_airlines():
     fr = flightradar24.Api()
     airlines = fr.get_airlines()
-    return airlines
+    return airlines['rows']
 
 
 def get_airline_flights(airline_code):
