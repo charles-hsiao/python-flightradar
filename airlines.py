@@ -23,5 +23,5 @@ def get_airline_flights(airline_code):
 def get_all_airports():
     fr = flightradar24.Api()
     airports = fr.get_airports()
-    return airports
+    return airports['rows']
 

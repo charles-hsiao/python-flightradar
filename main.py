@@ -19,7 +19,7 @@ def main():
 
     # Get all airports
     airports = air.get_all_airports()
-    print(len(airports['rows']))
+    print(airports)
 
 
 if __name__ == '__main__':
