@@ -41,8 +41,7 @@ def get_aircraft(model):
     # - B: Between 91 and 120 knots.
     # - C: Between 121 and 140 knots.
     # - D: Between 141 knots and 165 knots.
-    # - E: Speed 166 knots or more.
-    # - E is only assigned to certain Military Aircraft.
+    # - E: Speed 166 knots or more. Only assigned to certain Military Aircraft.
 
     res = requests.get('https://www.skybrary.aero/index.php/' + model)
     tree = html.fromstring(res.text)
@@ -54,16 +53,19 @@ def get_aircraft(model):
         if string_value != '':
             strip_list.append(string_value)
 
-    index_name = strip_list.index('Name') + 1
-    index_manufacturer = strip_list.index('Manufacturer') + 1
-    index_wtc = strip_list.index('WTC') + 1
-    index_apc = strip_list.index('APC') + 1
+    result_dict = {}
+    if 'Name' in strip_list and 'Manufacturer' in strip_list and 'WTC' in strip_list and 'APC' in strip_list:
+        index_name = strip_list.index('Name') + 1
+        index_manufacturer = strip_list.index('Manufacturer') + 1
+        index_wtc = strip_list.index('WTC') + 1
+        index_apc = strip_list.index('APC') + 1
 
-    result_dict = {
-        'name': strip_list[index_name],
-        'manufacturer': strip_list[index_manufacturer],
-        'capacity': strip_list[index_wtc],
-        'apc': strip_list[index_apc]
-    }
+        result_dict = {
+            'name': strip_list[index_name],
+            'manufacturer': strip_list[index_manufacturer],
+            'capacity': strip_list[index_wtc],
+            'apc': strip_list[index_apc]
+        }
+
     return result_dict
 
