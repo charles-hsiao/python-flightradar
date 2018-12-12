@@ -3,3 +3,6 @@
 
 # Pycharm project files & cache
 .idea
+
+# Ignore mac file metadata
+.DS_Store
