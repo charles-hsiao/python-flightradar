@@ -3,6 +3,7 @@ import csv
 
 
 def main():
+    
     csv_file_name = 'output.csv'
     aircraft_capacity_dict = {}
     counter = 0
@@ -35,9 +36,14 @@ def main():
                         if data_capacity:
                             print(data_airline, data_from, data_to, data_aircraft, data_capacity)
                             writer.writerow([data_airline, data_from, data_to, data_aircraft, data_capacity])
-
-
-
+    
+    #csv_file_name = 'nodes.csv'
+    #airports = air.get_all_airports()
+    #with open(csv_file_name, 'w', newline='') as csv_file:
+    #    writer = csv.writer(csv_file)
+    #    for airport_inf in airports:
+    #        airport = airport_inf['iata']
+    #        writer.writerow([airport, airport])
 
     # CPA=Cathay Pacific
     #flights = air.get_airline_flights('CPA')
