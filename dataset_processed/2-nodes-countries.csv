@@ -1,0 +1,186 @@
+id,label,continent
+CN,China,AS
+MM,Myanmar,AS
+US,United States of America,NA
+CR,Costa Rica,NA
+DE,Germany,EU
+ES,Spain,EU
+RO,Romania,EU
+SI,Slovenia,EU
+NO,Norway,EU
+SE,Sweden,EU
+MK,Macedonia (the former Yugoslav Republic of),EU
+AT,Austria,EU
+MD,Moldova (Republic of),EU
+AL,Albania,EU
+KS,Kyrgyz Respublikasy,EU
+CH,Switzerland,EU
+GR,Greece,EU
+FR,France,EU
+IT,Italy,EU
+CZ,Czechia,EU
+BE,Belgium,EU
+DK,Denmark,EU
+GB,United Kingdom of Great Britain and Northern Ireland,EU
+CY,Cyprus,AS
+NL,Netherlands,EU
+HR,Croatia,EU
+IE,Ireland,EU
+PT,Portugal,EU
+TH,Thailand,AS
+RU,Russian Federation,EU
+HK,Hong Kong,AS
+VN,Viet Nam,AS
+JP,Japan,AS
+CU,Cuba,NA
+KR,Korea (Republic of),AS
+MV,Maldives,AS
+AE,United Arab Emirates,AS
+TR,Turkey,EU
+IL,Israel,AS
+KZ,Kazakhstan,AS
+UA,Ukraine,EU
+UZ,Uzbekistan,AS
+BG,Bulgaria,EU
+KG,Kyrgyzstan,AS
+ME,Montenegro,EU
+HU,Hungary,EU
+RS,Serbia,EU
+BY,Belarus,EU
+PL,Poland,EU
+IN,India,AS
+AZ,Azerbaijan,AS
+AM,Armenia,AS
+AR,Argentina,SA
+CO,Colombia,SA
+BR,Brazil,SA
+BH,Bahrain,AS
+MX,Mexico,NA
+CA,Canada,NA
+DZ,Algeria,AF
+JO,Jordan,AS
+LB,Lebanon,AS
+GP,Guadeloupe,NA
+DO,Dominican Republic,NA
+BD,Bangladesh,AS
+SD,Sudan,AF
+LK,Sri Lanka,AS
+EG,Egypt,AF
+NP,Nepal,AS
+SA,Saudi Arabia,AS
+MA,Morocco,AF
+IR,Iran (Islamic Republic of),AS
+KE,Kenya,AF
+KW,Kuwait,AS
+IQ,Iraq,AS
+OM,Oman,AS
+PK,Pakistan,AS
+LV,Latvia,EU
+LT,Lithuania,EU
+FI,Finland,EU
+EE,Estonia,EU
+KH,Cambodia,AS
+PH,Philippines,AS
+AU,Australia,OC
+TW,"Taiwan, Province of China",AS
+PE,Peru,SA
+GD,Grenada,NA
+BS,Bahamas,NA
+MQ,Martinique,NA
+NZ,New Zealand,OC
+ID,Indonesia,AS
+SG,Singapore,AS
+MY,Malaysia,AS
+CI,Côte d'Ivoire,AF
+NE,Niger,AF
+SN,Senegal,AF
+CL,Chile,SA
+ML,Mali,AF
+CG,Congo,AF
+MG,Madagascar,AF
+GF,French Guiana,SA
+AN,Andorra,NA
+CD,Congo (Democratic Republic of the),AF
+GA,Gabon,AF
+CM,Cameroon,AF
+RE,Réunion,AF
+GL,Greenland,NA
+QA,Qatar,AS
+MO,Macao,AS
+MT,Malta,EU
+MU,Mauritius,AF
+NA,Namibia,AF
+ZA,South Africa,AF
+PG,Papua New Guinea,OC
+NG,Nigeria,AF
+GU,Guam,OC
+SC,Seychelles,AF
+PF,French Polynesia,OC
+TZ,"Tanzania, United Republic of",AF
+JM,Jamaica,NA
+NC,New Caledonia,OC
+ZW,Zimbabwe,AF
+BW,Botswana,AF
+HT,Haiti,NA
+EC,Ecuador,SA
+BB,Barbados,NA
+TT,Trinidad and Tobago,NA
+PR,Puerto Rico,NA
+KY,Cayman Islands,NA
+BM,Bermuda,NA
+NI,Nicaragua,NA
+IS,Iceland,EU
+AW,Aruba,NA
+FO,Faroe Islands,EU
+AF,Afghanistan,AS
+GG,Guernsey,EU
+BA,Bosnia and Herzegovina,EU
+SK,Slovakia,EU
+SV,El Salvador,NA
+UY,Uruguay,SA
+BO,Bolivia (Plurinational State of),SA
+PA,Panama,NA
+GT,Guatemala,NA
+HN,Honduras,NA
+VE,Venezuela (Bolivarian Republic of),SA
+EH,Western Sahara,AF
+AG,Antigua and Barbuda,NA
+LC,Saint Lucia,NA
+ZM,Zambia,AF
+JE,Jersey,EU
+GI,Gibraltar,EU
+CV,Cabo Verde,AF
+RW,Rwanda,AF
+AO,Angola,AF
+GH,Ghana,AF
+TN,Tunisia,AF
+LY,Libya,AF
+VI,Virgin Islands (U.S.),NA
+LU,Luxembourg,EU
+TM,Turkmenistan,AS
+BN,Brunei Darussalam,AS
+SY,Syrian Arab Republic,AS
+GE,Georgia,AS
+PY,Paraguay,SA
+GN,Guinea,AF
+DJ,Djibouti,AF
+ET,Ethiopia,AF
+TD,Chad,AF
+MW,Malawi,AF
+SO,Somalia,AF
+UG,Uganda,AF
+FJ,Fiji,OC
+LA,Lao People's Democratic Republic,AS
+SL,Sierra Leone,AF
+CF,Central African Republic,AF
+SR,Suriname,SA
+PW,Palau,OC
+FK,Falkland Islands (Malvinas),SA
+KN,Saint Kitts and Nevis,NA
+SB,Solomon Islands,OC
+WS,Samoa,OC
+MZ,Mozambique,AF
+TJ,Tajikistan,AS
+GM,Gambia,AF
+MR,Mauritania,AF
+YE,Yemen,AS

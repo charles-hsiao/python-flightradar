@@ -2,7 +2,7 @@ import json
 import csv
 
 
-def load_csv(file_path):
+def load_json(file_path):
     with open(file_path, encoding='utf-8') as data_file:
         data = json.load(data_file)
     return data
@@ -36,16 +36,16 @@ def process_airports(csv_file, airports_data, countries_data):
                     airport_continent_name = continent_name_dict[airport_continent]
                     writer.writerow([airport_iata, airport_country_iso, airport_country, airport_continent, airport_continent_name])
                 else:
-                    print('Unable to find continent: ' + airport_continent_name)
+                    print('Unable to find continent:' + airport_continent_name)
             else:
                 print('Unable to find country_iso: ' + airport_country_iso)
 
 
 airports_data_file = 'dataset/airports_data.json'
-air_data = load_csv(airports_data_file)
+air_data = load_json(airports_data_file)
 
 countries_data_file = 'dataset/countries_data.json'
-countries_data = load_csv(countries_data_file)
+countries_data = load_json(countries_data_file)
 
 csv_output_file = 'airports.csv'
 process_airports(csv_output_file, air_data, countries_data)
