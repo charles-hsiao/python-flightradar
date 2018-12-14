@@ -1,0 +1,6817 @@
+id,label,country_iso,country_name,continent
+TGZ,TGZ,MX,Mexico,NA
+GDC,GDC,US,United States of America,NA
+BDG,BDG,IQ,Iraq,AS
+SBO,SBO,US,United States of America,NA
+ZYI,ZYI,CN,China,AS
+BAR,BAR,CN,China,AS
+PGV,PGV,US,United States of America,NA
+SCK,SCK,US,United States of America,NA
+SUU,SUU,US,United States of America,NA
+SUS,SUS,US,United States of America,NA
+RKD,RKD,US,United States of America,NA
+MWA,MWA,US,United States of America,NA
+OGS,OGS,US,United States of America,NA
+FSZ,FSZ,JP,Japan,AS
+LCK,LCK,US,United States of America,NA
+XCM,XCM,CA,Canada,NA
+WMT,WMT,CN,China,AS
+WDS,WDS,CN,China,AS
+DSS,DSS,SN,Senegal,AF
+BGW,BGW,IQ,Iraq,AS
+TLN,TLN,FR,France,EU
+WUT,WUT,CN,China,AS
+KNO,KNO,ID,Indonesia,AS
+PGD,PGD,US,United States of America,NA
+SAG,SAG,IN,India,AS
+MBG,MBG,US,United States of America,NA
+XNA,XNA,US,United States of America,NA
+OAJ,OAJ,US,United States of America,NA
+XNA,XNA,US,United States of America,NA
+CWA,CWA,US,United States of America,NA
+SWO,SWO,SE,Sweden,EU
+RIV,RIV,US,United States of America,NA
+BSD,BSD,CN,China,AS
+XAI,XAI,TH,Thailand,AS
+WNH,WNH,CN,China,AS
+YKH,YKH,CN,China,AS
+LLV,LLV,CN,China,AS
+NZL,NZL,CN,China,AS
+LLF,LLF,CN,China,AS
+WGN,WGN,CN,China,AS
+LPF,LPF,CN,China,AS
+DOY,DOY,CN,China,AS
+RLK,RLK,CN,China,AS
+YIC,YIC,CN,China,AS
+BFJ,BFJ,CN,China,AS
+MQT,MQT,US,United States of America,NA
+DRT,DRT,US,United States of America,NA
+ISU,ISU,IQ,Iraq,AS
+NJF,NJF,IQ,Iraq,AS
+DRV,DRV,MV,Maldives,AS
+IMT,IMT,US,United States of America,NA
+FUG,FUG,CN,China,AS
+WUA,WUA,CN,China,AS
+TEN,TEN,CN,China,AS
+CDE,CDE,CN,China,AS
+TCR,TCR,IN,India,AS
+MWX,MWX,KR,Korea (Republic of),AS
+THD,THD,CN,China,AS
+JMJ,JMJ,CN,China,AS
+PGU,PGU,IR,Iran (Islamic Republic of),AS
+IFU,IFU,MV,Maldives,AS
+DDD,DDD,MV,Maldives,AS
+TBR,TBR,US,United States of America,NA
+BFM,BFM,US,United States of America,NA
+ESC,ESC,US,United States of America,NA
+TEB,TEB,US,United States of America,NA
+OWD,OWD,US,United States of America,NA
+MNZ,MNZ,US,United States of America,NA
+SBT,SBT,RU,Russian Federation,AS
+QQD,QQD,US,United States of America,NA
+WMI,WMI,PL,Poland,EU
+RGK,RGK,RU,Russian Federation,AS
+LZU,LZU,US,United States of America,NA
+KLF,KLF,RU,Russian Federation,AS
+WAE,WAE,SA,Saudi Arabia,AS
+YTY,YTY,CN,China,AS
+ZHY,ZHY,CN,China,AS
+HSI,HSI,US,United States of America,NA
+TVS,TVS,CN,China,AS
+ISL,ISL,TR,Turkey,AS
+IGD,IGD,TR,Turkey,AS
+YKO,YKO,TR,Turkey,AS
+NKT,NKT,TR,Turkey,AS
+FTY,FTY,US,United States of America,NA
+MHR,MHR,US,United States of America,NA
+SBD,SBD,US,United States of America,NA
+NUQ,NUQ,US,United States of America,NA
+YBS,YBS,CA,Canada,NA
+MPV,MPV,US,United States of America,NA
+TAT,TAT,SK,Slovakia,EU
+UTK,UTK,MH,Marshall Islands,OC
+FIV,FIV,US,United States of America,NA
+FAK,FAK,US,United States of America,NA
+BWS,BWS,US,United States of America,NA
+WKK,WKK,US,United States of America,NA
+TSS,TSS,US,United States of America,NA
+FOB,FOB,US,United States of America,NA
+ABP,ABP,PG,Papua New Guinea,OC
+ALV,ALV,AD,Andorra,EU
+ADC,ADC,PG,Papua New Guinea,OC
+TJP,TJP,PR,Puerto Rico,NA
+AEE,AEE,SS,South Sudan,AF
+AEI,AEI,ES,Spain,EU
+AEK,AEK,PG,Papua New Guinea,OC
+OLR,OLR,AF,Afghanistan,AS
+AFR,AFR,PG,Papua New Guinea,OC
+AFT,AFT,SB,Solomon Islands,OC
+ATD,ATD,SB,Solomon Islands,OC
+VEV,VEV,SB,Solomon Islands,OC
+GEF,GEF,SB,Solomon Islands,OC
+AGG,AGG,PG,Papua New Guinea,OC
+AKS,AKS,SB,Solomon Islands,OC
+BAS,BAS,SB,Solomon Islands,OC
+FRE,FRE,SB,Solomon Islands,OC
+HIR,HIR,SB,Solomon Islands,OC
+MBU,MBU,SB,Solomon Islands,OC
+IRA,IRA,SB,Solomon Islands,OC
+SCZ,SCZ,SB,Solomon Islands,OC
+MUA,MUA,SB,Solomon Islands,OC
+GZO,GZO,SB,Solomon Islands,OC
+MNY,MNY,SB,Solomon Islands,OC
+PRS,PRS,SB,Solomon Islands,OC
+OTV,OTV,SB,Solomon Islands,OC
+RNL,RNL,SB,Solomon Islands,OC
+EGM,EGM,SB,Solomon Islands,OC
+RUS,RUS,SB,Solomon Islands,OC
+VAO,VAO,SB,Solomon Islands,OC
+AGK,AGK,PG,Papua New Guinea,OC
+KGE,KGE,SB,Solomon Islands,OC
+AGL,AGL,PG,Papua New Guinea,OC
+RIN,RIN,SB,Solomon Islands,OC
+RBV,RBV,SB,Solomon Islands,OC
+AHT,AHT,US,United States of America,NA
+AHY,AHY,MG,Madagascar,AF
+AIE,AIE,PG,Papua New Guinea,OC
+AIH,AIH,PG,Papua New Guinea,OC
+AIP,AIP,MH,Marshall Islands,OC
+AOS,AOS,US,United States of America,NA
+AKM,AKM,TD,Chad,AF
+ALZ,ALZ,US,United States of America,NA
+AMC,AMC,MX,Mexico,NA
+AME,AME,MZ,Mozambique,AF
+AMF,AMF,PG,Papua New Guinea,OC
+AMU,AMU,PG,Papua New Guinea,OC
+AMY,AMY,MG,Madagascar,AF
+ANH,ANH,SB,Solomon Islands,OC
+INU,INU,NR,Nauru,OC
+ANL,ANL,AO,Angola,AF
+CNZ,CNZ,AO,Angola,AF
+DRC,DRC,AO,Angola,AF
+GGC,GGC,AO,Angola,AF
+JMB,JMB,AO,Angola,AF
+KNP,KNP,AO,Angola,AF
+NDF,NDF,AO,Angola,AF
+AOB,AOB,PG,Papua New Guinea,OC
+APP,APP,PG,Papua New Guinea,OC
+APR,APR,PG,Papua New Guinea,OC
+AQY,AQY,US,United States of America,NA
+QRF,QRF,AR,Argentina,SA
+CSZ,CSZ,AR,Argentina,SA
+CVI,CVI,AR,Argentina,SA
+CNT,CNT,AR,Argentina,SA
+VGS,VGS,AR,Argentina,SA
+LMD,LMD,AR,Argentina,SA
+SZQ,SZQ,AR,Argentina,SA
+VCF,VCF,AR,Argentina,SA
+VME,VME,AR,Argentina,SA
+NCJ,NCJ,AR,Argentina,SA
+CPG,CPG,AR,Argentina,SA
+PRQ,PRQ,AR,Argentina,SA
+ARP,ARP,PG,Papua New Guinea,OC
+TAV,TAV,AS,American Samoa,OC
+ASZ,ASZ,PG,Papua New Guinea,OC
+ATP,ATP,PG,Papua New Guinea,OC
+AGW,AGW,AU,Australia,OC
+AYD,AYD,AU,Australia,OC
+BCK,BCK,AU,Australia,OC
+BFC,BFC,AU,Australia,OC
+BVW,BVW,AU,Australia,OC
+BYX,BYX,AU,Australia,OC
+COB,COB,AU,Australia,OC
+CQP,CQP,AU,Australia,OC
+CRJ,CRJ,AU,Australia,OC
+CRY,CRY,AU,Australia,OC
+CSD,CSD,AU,Australia,OC
+CTR,CTR,AU,Australia,OC
+DYM,DYM,AU,Australia,OC
+EDD,EDD,AU,Australia,OC
+EKD,EKD,AU,Australia,OC
+HAT,HAT,AU,Australia,OC
+HIG,HIG,AU,Australia,OC
+HIS,HIS,AU,Australia,OC
+HLV,HLV,AU,Australia,OC
+KBD,KBD,AU,Australia,OC
+KGR,KGR,AU,Australia,OC
+KOH,KOH,AU,Australia,OC
+KYF,KYF,AU,Australia,OC
+LIB,LIB,AU,Australia,OC
+MNW,MNW,AU,Australia,OC
+MUP,MUP,AU,Australia,OC
+MWY,MWY,AU,Australia,OC
+MYO,MYO,AU,Australia,OC
+NKB,NKB,AU,Australia,OC
+OKB,OKB,AU,Australia,OC
+PEP,PEP,AU,Australia,OC
+RDA,RDA,AU,Australia,OC
+SSK,SSK,AU,Australia,OC
+SWB,SWB,AU,Australia,OC
+TPR,TPR,AU,Australia,OC
+TWP,TWP,AU,Australia,OC
+WRW,WRW,AU,Australia,OC
+WSY,WSY,AU,Australia,OC
+ZVG,ZVG,AU,Australia,OC
+AUI,AUI,PG,Papua New Guinea,OC
+AUJ,AUJ,PG,Papua New Guinea,OC
+AUP,AUP,PG,Papua New Guinea,OC
+AUV,AUV,PG,Papua New Guinea,OC
+BUA,BUA,PG,Papua New Guinea,OC
+CMU,CMU,PG,Papua New Guinea,OC
+DAU,DAU,PG,Papua New Guinea,OC
+GKA,GKA,PG,Papua New Guinea,OC
+GUR,GUR,PG,Papua New Guinea,OC
+PNP,PNP,PG,Papua New Guinea,OC
+HKN,HKN,PG,Papua New Guinea,OC
+LSA,LSA,PG,Papua New Guinea,OC
+UNG,UNG,PG,Papua New Guinea,OC
+KRI,KRI,PG,Papua New Guinea,OC
+KMA,KMA,PG,Papua New Guinea,OC
+KVG,KVG,PG,Papua New Guinea,OC
+LNV,LNV,PG,Papua New Guinea,OC
+MAG,MAG,PG,Papua New Guinea,OC
+HGU,HGU,PG,Papua New Guinea,OC
+MDU,MDU,PG,Papua New Guinea,OC
+MAS,MAS,PG,Papua New Guinea,OC
+MXH,MXH,PG,Papua New Guinea,OC
+MIS,MIS,PG,Papua New Guinea,OC
+LAE,LAE,PG,Papua New Guinea,OC
+POM,POM,PG,Papua New Guinea,OC
+TIZ,TIZ,PG,Papua New Guinea,OC
+TBG,TBG,PG,Papua New Guinea,OC
+RAB,RAB,PG,Papua New Guinea,OC
+AYU,AYU,PG,Papua New Guinea,OC
+VAI,VAI,PG,Papua New Guinea,OC
+WBM,WBM,PG,Papua New Guinea,OC
+WWK,WWK,PG,Papua New Guinea,OC
+AYY,AYY,LK,Sri Lanka,AS
+AYZ,AYZ,US,United States of America,NA
+AZB,AZB,PG,Papua New Guinea,OC
+BCW,BCW,MZ,Mozambique,AF
+HKV,HKV,BG,Bulgaria,EU
+JAM,JAM,BG,Bulgaria,EU
+SZR,SZR,BG,Bulgaria,EU
+JEG,JEG,GL,Greenland,NA
+AAP,AAP,GL,Greenland,NA
+AGM,AGM,GL,Greenland,NA
+LLU,LLU,GL,Greenland,NA
+QUV,QUV,GL,Greenland,NA
+QUW,QUW,GL,Greenland,NA
+QGQ,QGQ,GL,Greenland,NA
+UAK,UAK,GL,Greenland,NA
+JCH,JCH,GL,Greenland,NA
+CNP,CNP,GL,Greenland,NA
+QFG,QFG,GL,Greenland,NA
+QFN,QFN,GL,Greenland,NA
+JFR,JFR,GL,Greenland,NA
+GOH,GOH,GL,Greenland,NA
+JGO,JGO,GL,Greenland,NA
+IKE,IKE,GL,Greenland,NA
+QFI,QFI,GL,Greenland,NA
+XIQ,XIQ,GL,Greenland,NA
+INN,INN,GL,Greenland,NA
+ISO,ISO,GL,Greenland,NA
+QJI,QJI,GL,Greenland,NA
+JJU,JJU,GL,Greenland,NA
+JAV,JAV,GL,Greenland,NA
+QPW,QPW,GL,Greenland,NA
+KUS,KUS,GL,Greenland,NA
+UPK,UPK,GL,Greenland,NA
+KMT,KMT,GL,Greenland,NA
+KLQ,KLQ,GL,Greenland,NA
+KAQ,KAQ,GL,Greenland,NA
+QJE,QJE,GL,Greenland,NA
+ILL,ILL,GL,Greenland,NA
+MOR,MOR,GL,Greenland,NA
+JSU,JSU,GL,Greenland,NA
+QMK,QMK,GL,Greenland,NA
+JNN,JNN,GL,Greenland,NA
+NUG,NUG,GL,Greenland,NA
+JNS,JNS,GL,Greenland,NA
+NIA,NIA,GL,Greenland,NA
+NUS,NUS,GL,Greenland,NA
+JFR,JFR,GL,Greenland,NA
+QQT,QQT,GL,Greenland,NA
+NAQ,NAQ,GL,Greenland,NA
+OBY,OBY,GL,Greenland,NA
+SFJ,SFJ,GL,Greenland,NA
+SMG,SMG,GL,Greenland,NA
+SIO,SIO,GL,Greenland,NA
+QUP,QUP,GL,Greenland,NA
+JHS,JHS,GL,Greenland,NA
+SAA,SAA,GL,Greenland,NA
+SAV,SAV,GL,Greenland,NA
+THU,THU,GL,Greenland,NA
+TNT,TNT,GL,Greenland,NA
+JUV,JUV,GL,Greenland,NA
+UMD,UMD,GL,Greenland,NA
+JQA,JQA,GL,Greenland,NA
+UKK,UKK,GL,Greenland,NA
+BHL,BHL,MX,Mexico,NA
+AEY,AEY,IS,Iceland,EU
+BIU,BIU,IS,Iceland,EU
+BGJ,BGJ,IS,Iceland,EU
+BJD,BJD,IS,Iceland,EU
+BLO,BLO,IS,Iceland,EU
+BQD,BQD,IS,Iceland,EU
+BXV,BXV,IS,Iceland,EU
+DJU,DJU,IS,Iceland,EU
+EGS,EGS,IS,Iceland,EU
+FAS,FAS,IS,Iceland,EU
+FAG,FAG,IS,Iceland,EU
+GUU,GUU,IS,Iceland,EU
+GJR,GJR,IS,Iceland,EU
+GRY,GRY,IS,Iceland,EU
+HVK,HVK,IS,Iceland,EU
+HFN,HFN,IS,Iceland,EU
+FLI,FLI,IS,Iceland,EU
+HZK,HZK,IS,Iceland,EU
+HVM,HVM,IS,Iceland,EU
+HLO,HLO,IS,Iceland,EU
+IFJ,IFJ,IS,Iceland,EU
+KEF,KEF,IS,Iceland,EU
+OPA,OPA,IS,Iceland,EU
+SAK,SAK,IS,Iceland,EU
+NOR,NOR,IS,Iceland,EU
+OFJ,OFJ,IS,Iceland,EU
+PFJ,PFJ,IS,Iceland,EU
+RHA,RHA,IS,Iceland,EU
+OLI,OLI,IS,Iceland,EU
+RFN,RFN,IS,Iceland,EU
+REK,REK,IS,Iceland,EU
+MVA,MVA,IS,Iceland,EU
+SIJ,SIJ,IS,Iceland,EU
+SYK,SYK,IS,Iceland,EU
+TEY,TEY,IS,Iceland,EU
+THO,THO,IS,Iceland,EU
+THO,THO,IS,Iceland,EU
+VEY,VEY,IS,Iceland,EU
+VPN,VPN,IS,Iceland,EU
+BJE,BJE,SD,Sudan,AF
+BJQ,BJQ,OM,Oman,AS
+PRN,PRN,KS,Kyrgyz Respublikasy,EU
+BLM,BLM,MX,Mexico,NA
+BMQ,BMQ,KE,Kenya,AF
+RBQ,RBQ,BO,Bolivia (Plurinational State of),SA
+BVL,BVL,BO,Bolivia (Plurinational State of),SA
+TUZ,TUZ,BR,Brazil,SA
+ALT,ALT,BR,Brazil,SA
+SWM,SWM,BR,Brazil,SA
+NSB,NSB,BS,Bahamas,NA
+HUK,HUK,BW,Botswana,AF
+BYV,BYV,LK,Sri Lanka,AS
+BCV,BCV,BZ,Belize,NA
+BGK,BGK,BZ,Belize,NA
+CUK,CUK,BZ,Belize,NA
+CYC,CYC,BZ,Belize,NA
+CZH,CZH,BZ,Belize,NA
+DGA,DGA,BZ,Belize,NA
+INB,INB,BZ,Belize,NA
+MDB,MDB,BZ,Belize,NA
+ORZ,ORZ,BZ,Belize,NA
+PLJ,PLJ,BZ,Belize,NA
+PND,PND,BZ,Belize,NA
+SJX,SJX,BZ,Belize,NA
+SPR,SPR,BZ,Belize,NA
+SQS,SQS,BZ,Belize,NA
+STU,STU,BZ,Belize,NA
+SVK,SVK,BZ,Belize,NA
+TZA,TZA,BZ,Belize,NA
+BZB,BZB,MZ,Mozambique,AF
+YUJ,YUJ,CA,Canada,NA
+YWO,YWO,CA,Canada,NA
+YTJ,YTJ,CA,Canada,NA
+YMV,YMV,CA,Canada,NA
+YBW,YBW,CA,Canada,NA
+ZNA,ZNA,CA,Canada,NA
+YZZ,YZZ,CA,Canada,NA
+YWS,YWS,CA,Canada,NA
+YPT,YPT,CA,Canada,NA
+YAA,YAA,CA,Canada,NA
+JHL,JHL,CA,Canada,NA
+YMU,YMU,CA,Canada,NA
+YWM,YWM,CA,Canada,NA
+YFX,YFX,CA,Canada,NA
+YHA,YHA,CA,Canada,NA
+YRG,YRG,CA,Canada,NA
+CDK,CDK,US,United States of America,NA
+YCK,YCK,CA,Canada,NA
+EE7,EE7,CA,Canada,NA
+YLE,YLE,CA,Canada,NA
+NML,NML,CA,Canada,NA
+DAS,DAS,CA,Canada,NA
+YFI,YFI,CA,Canada,NA
+OKG,OKG,CG,Congo,AF
+CGA,CGA,US,United States of America,NA
+SUR,SUR,CA,Canada,NA
+YAX,YAX,CA,Canada,NA
+WNN,WNN,CA,Canada,NA
+YNO,YNO,CA,Canada,NA
+CLG,CLG,US,United States of America,NA
+OHE,OHE,CN,China,AS
+FUO,FUO,CN,China,AS
+HUZ,HUZ,CN,China,AS
+JGS,JGS,CN,China,AS
+AEB,AEB,CN,China,AS
+AAT,AAT,CN,China,AS
+YZY,YZY,CN,China,AS
+DDG,DDG,CN,China,AS
+NTG,NTG,CN,China,AS
+XBE,XBE,CA,Canada,NA
+KIF,KIF,CA,Canada,NA
+YOG,YOG,CA,Canada,NA
+PRM,PRM,CO,Colombia,SA
+ISG,ISG,CO,Colombia,SA
+API,API,CO,Colombia,SA
+APO,APO,CO,Colombia,SA
+ARQ,ARQ,CO,Colombia,SA
+LCR,LCR,CO,Colombia,SA
+SNT,SNT,CO,Colombia,SA
+TCD,TCD,CO,Colombia,SA
+YEB,YEB,CA,Canada,NA
+YHP,YHP,CA,Canada,NA
+YNX,YNX,CA,Canada,NA
+YKU,YKU,CA,Canada,NA
+ZTB,ZTB,CA,Canada,NA
+YAU,YAU,CA,Canada,NA
+TR7,TR7,CA,Canada,NA
+ZLT,ZLT,CA,Canada,NA
+PST,PST,CU,Cuba,NA
+GEC,GEC,CY,Cyprus,AS
+NIC,NIC,CY,Cyprus,AS
+YAC,YAC,CA,Canada,NA
+YAG,YAG,CA,Canada,NA
+YAH,YAH,CA,Canada,NA
+YAL,YAL,CA,Canada,NA
+YAM,YAM,CA,Canada,NA
+XKS,XKS,CA,Canada,NA
+YKG,YKG,CA,Canada,NA
+YAT,YAT,CA,Canada,NA
+YAV,YAV,CA,Canada,NA
+YAW,YAW,CA,Canada,NA
+YAX,YAX,CA,Canada,NA
+YAY,YAY,CA,Canada,NA
+YAZ,YAZ,CA,Canada,NA
+YBB,YBB,CA,Canada,NA
+YBC,YBC,CA,Canada,NA
+QBC,QBC,CA,Canada,NA
+YBE,YBE,CA,Canada,NA
+YBY,YBY,CA,Canada,NA
+YBG,YBG,CA,Canada,NA
+YBK,YBK,CA,Canada,NA
+YBL,YBL,CA,Canada,NA
+YBN,YBN,CA,Canada,NA
+XTL,XTL,CA,Canada,NA
+YBR,YBR,CA,Canada,NA
+YBT,YBT,CA,Canada,NA
+YBV,YBV,CA,Canada,NA
+YBX,YBX,CA,Canada,NA
+YRF,YRF,CA,Canada,NA
+YCB,YCB,CA,Canada,NA
+YCC,YCC,CA,Canada,NA
+YCD,YCD,CA,Canada,NA
+YCE,YCE,CA,Canada,NA
+YCG,YCG,CA,Canada,NA
+YCH,YCH,CA,Canada,NA
+YCL,YCL,CA,Canada,NA
+YCN,YCN,CA,Canada,NA
+YCO,YCO,CA,Canada,NA
+YCQ,YCQ,CA,Canada,NA
+YCR,YCR,CA,Canada,NA
+YCS,YCS,CA,Canada,NA
+YCV,YCV,CA,Canada,NA
+YCX,YCX,CA,Canada,NA
+YCY,YCY,CA,Canada,NA
+YCZ,YCZ,CA,Canada,NA
+YDA,YDA,CA,Canada,NA
+YDB,YDB,CA,Canada,NA
+YDF,YDF,CA,Canada,NA
+YDM,YDM,CA,Canada,NA
+YDN,YDN,CA,Canada,NA
+YDO,YDO,CA,Canada,NA
+YDP,YDP,CA,Canada,NA
+YDQ,YDQ,CA,Canada,NA
+YED,YED,CA,Canada,NA
+YEG,YEG,CA,Canada,NA
+YEK,YEK,CA,Canada,NA
+YEL,YEL,CA,Canada,NA
+YEM,YEM,CA,Canada,NA
+YEN,YEN,CA,Canada,NA
+YER,YER,CA,Canada,NA
+YET,YET,CA,Canada,NA
+YEU,YEU,CA,Canada,NA
+YEV,YEV,CA,Canada,NA
+YEY,YEY,CA,Canada,NA
+YFA,YFA,CA,Canada,NA
+YFB,YFB,CA,Canada,NA
+YFC,YFC,CA,Canada,NA
+YFE,YFE,CA,Canada,NA
+YFH,YFH,CA,Canada,NA
+YTM,YTM,CA,Canada,NA
+YFO,YFO,CA,Canada,NA
+YFR,YFR,CA,Canada,NA
+YFS,YFS,CA,Canada,NA
+YMN,YMN,CA,Canada,NA
+YGB,YGB,CA,Canada,NA
+YGD,YGD,CA,Canada,NA
+YGH,YGH,CA,Canada,NA
+YGK,YGK,CA,Canada,NA
+YGL,YGL,CA,Canada,NA
+YGM,YGM,CA,Canada,NA
+YGO,YGO,CA,Canada,NA
+YGP,YGP,CA,Canada,NA
+YGQ,YGQ,CA,Canada,NA
+YGR,YGR,CA,Canada,NA
+YGT,YGT,CA,Canada,NA
+YGV,YGV,CA,Canada,NA
+YGW,YGW,CA,Canada,NA
+YGX,YGX,CA,Canada,NA
+YGZ,YGZ,CA,Canada,NA
+YQC,YQC,CA,Canada,NA
+CXH,CXH,CA,Canada,NA
+YHD,YHD,CA,Canada,NA
+YHE,YHE,CA,Canada,NA
+YHF,YHF,CA,Canada,NA
+YNS,YNS,CA,Canada,NA
+YHI,YHI,CA,Canada,NA
+YHK,YHK,CA,Canada,NA
+YHM,YHM,CA,Canada,NA
+YHN,YHN,CA,Canada,NA
+YHO,YHO,CA,Canada,NA
+YHR,YHR,CA,Canada,NA
+YHT,YHT,CA,Canada,NA
+YHU,YHU,CA,Canada,NA
+YHY,YHY,CA,Canada,NA
+YHZ,YHZ,CA,Canada,NA
+YIB,YIB,CA,Canada,NA
+YDG,YDG,CA,Canada,NA
+YIF,YIF,CA,Canada,NA
+YIK,YIK,CA,Canada,NA
+YIO,YIO,CA,Canada,NA
+YIV,YIV,CA,Canada,NA
+YJF,YJF,CA,Canada,NA
+YJN,YJN,CA,Canada,NA
+YJT,YJT,CA,Canada,NA
+YKA,YKA,CA,Canada,NA
+LAK,LAK,CA,Canada,NA
+YKF,YKF,CA,Canada,NA
+YKJ,YKJ,CA,Canada,NA
+YKL,YKL,CA,Canada,NA
+AKV,AKV,CA,Canada,NA
+YKQ,YKQ,CA,Canada,NA
+YKX,YKX,CA,Canada,NA
+YKY,YKY,CA,Canada,NA
+YKZ,YKZ,CA,Canada,NA
+YPJ,YPJ,CA,Canada,NA
+YLC,YLC,CA,Canada,NA
+YLD,YLD,CA,Canada,NA
+YLH,YLH,CA,Canada,NA
+YLJ,YLJ,CA,Canada,NA
+YSG,YSG,CA,Canada,NA
+YLL,YLL,CA,Canada,NA
+YLR,YLR,CA,Canada,NA
+YLT,YLT,CA,Canada,NA
+XGR,XGR,CA,Canada,NA
+YLW,YLW,CA,Canada,NA
+YMA,YMA,CA,Canada,NA
+YME,YME,CA,Canada,NA
+YMG,YMG,CA,Canada,NA
+YMH,YMH,CA,Canada,NA
+YMJ,YMJ,CA,Canada,NA
+YML,YML,CA,Canada,NA
+YMM,YMM,CA,Canada,NA
+YMO,YMO,CA,Canada,NA
+YMT,YMT,CA,Canada,NA
+YUD,YUD,CA,Canada,NA
+YMX,YMX,CA,Canada,NA
+YNA,YNA,CA,Canada,NA
+YNC,YNC,CA,Canada,NA
+YND,YND,CA,Canada,NA
+YNE,YNE,CA,Canada,NA
+YNL,YNL,CA,Canada,NA
+YNM,YNM,CA,Canada,NA
+YNN,YNN,CA,Canada,NA
+HZP,HZP,CA,Canada,NA
+YOA,YOA,CA,Canada,NA
+YOC,YOC,CA,Canada,NA
+YOD,YOD,CA,Canada,NA
+YOH,YOH,CA,Canada,NA
+YOJ,YOJ,CA,Canada,NA
+YOO,YOO,CA,Canada,NA
+YOP,YOP,CA,Canada,NA
+YOS,YOS,CA,Canada,NA
+YOW,YOW,CA,Canada,NA
+YOY,YOY,CA,Canada,NA
+YPA,YPA,CA,Canada,NA
+YPC,YPC,CA,Canada,NA
+YPS,YPS,CA,Canada,NA
+YPE,YPE,CA,Canada,NA
+YPG,YPG,CA,Canada,NA
+YPH,YPH,CA,Canada,NA
+YPL,YPL,CA,Canada,NA
+YPM,YPM,CA,Canada,NA
+YPN,YPN,CA,Canada,NA
+YPO,YPO,CA,Canada,NA
+YPQ,YPQ,CA,Canada,NA
+YPR,YPR,CA,Canada,NA
+YPW,YPW,CA,Canada,NA
+YPX,YPX,CA,Canada,NA
+YPY,YPY,CA,Canada,NA
+YQA,YQA,CA,Canada,NA
+YQB,YQB,CA,Canada,NA
+YQD,YQD,CA,Canada,NA
+YQF,YQF,CA,Canada,NA
+YQG,YQG,CA,Canada,NA
+YQH,YQH,CA,Canada,NA
+YQI,YQI,CA,Canada,NA
+YQK,YQK,CA,Canada,NA
+YQL,YQL,CA,Canada,NA
+YQM,YQM,CA,Canada,NA
+YQN,YQN,CA,Canada,NA
+YQQ,YQQ,CA,Canada,NA
+YQR,YQR,CA,Canada,NA
+YQS,YQS,CA,Canada,NA
+YQT,YQT,CA,Canada,NA
+YQU,YQU,CA,Canada,NA
+YQV,YQV,CA,Canada,NA
+YQW,YQW,CA,Canada,NA
+YQX,YQX,CA,Canada,NA
+YQY,YQY,CA,Canada,NA
+YQZ,YQZ,CA,Canada,NA
+YRA,YRA,CA,Canada,NA
+YRB,YRB,CA,Canada,NA
+YRI,YRI,CA,Canada,NA
+YRJ,YRJ,CA,Canada,NA
+YRL,YRL,CA,Canada,NA
+YRO,YRO,CA,Canada,NA
+YRP,YRP,CA,Canada,NA
+YRQ,YRQ,CA,Canada,NA
+YRS,YRS,CA,Canada,NA
+YRT,YRT,CA,Canada,NA
+YRV,YRV,CA,Canada,NA
+YSB,YSB,CA,Canada,NA
+YSC,YSC,CA,Canada,NA
+YSD,YSD,CA,Canada,NA
+YSF,YSF,CA,Canada,NA
+YSH,YSH,CA,Canada,NA
+YSJ,YSJ,CA,Canada,NA
+YSK,YSK,CA,Canada,NA
+YSL,YSL,CA,Canada,NA
+YSM,YSM,CA,Canada,NA
+YCM,YCM,CA,Canada,NA
+YSP,YSP,CA,Canada,NA
+YSR,YSR,CA,Canada,NA
+YST,YST,CA,Canada,NA
+YSU,YSU,CA,Canada,NA
+YSY,YSY,CA,Canada,NA
+YTA,YTA,CA,Canada,NA
+YTE,YTE,CA,Canada,NA
+YTF,YTF,CA,Canada,NA
+YTH,YTH,CA,Canada,NA
+YTL,YTL,CA,Canada,NA
+YTQ,YTQ,CA,Canada,NA
+YTR,YTR,CA,Canada,NA
+YTS,YTS,CA,Canada,NA
+YTZ,YTZ,CA,Canada,NA
+YUB,YUB,CA,Canada,NA
+YUL,YUL,CA,Canada,NA
+YUT,YUT,CA,Canada,NA
+YUX,YUX,CA,Canada,NA
+YUY,YUY,CA,Canada,NA
+YVB,YVB,CA,Canada,NA
+YVC,YVC,CA,Canada,NA
+YVD,YVD,CA,Canada,NA
+YVE,YVE,CA,Canada,NA
+YVM,YVM,CA,Canada,NA
+YVO,YVO,CA,Canada,NA
+YVP,YVP,CA,Canada,NA
+YVQ,YVQ,CA,Canada,NA
+YVR,YVR,CA,Canada,NA
+YVT,YVT,CA,Canada,NA
+YVV,YVV,CA,Canada,NA
+YVZ,YVZ,CA,Canada,NA
+YWA,YWA,CA,Canada,NA
+YWG,YWG,CA,Canada,NA
+YWH,YWH,CA,Canada,NA
+YWJ,YWJ,CA,Canada,NA
+YWK,YWK,CA,Canada,NA
+YWL,YWL,CA,Canada,NA
+YWP,YWP,CA,Canada,NA
+YWY,YWY,CA,Canada,NA
+YXC,YXC,CA,Canada,NA
+YXD,YXD,CA,Canada,NA
+YXE,YXE,CA,Canada,NA
+YXH,YXH,CA,Canada,NA
+YXI,YXI,CA,Canada,NA
+YXJ,YXJ,CA,Canada,NA
+YXK,YXK,CA,Canada,NA
+YXL,YXL,CA,Canada,NA
+YXN,YXN,CA,Canada,NA
+YXP,YXP,CA,Canada,NA
+YXQ,YXQ,CA,Canada,NA
+YXR,YXR,CA,Canada,NA
+YXS,YXS,CA,Canada,NA
+YXT,YXT,CA,Canada,NA
+YXU,YXU,CA,Canada,NA
+YXX,YXX,CA,Canada,NA
+YXY,YXY,CA,Canada,NA
+YXZ,YXZ,CA,Canada,NA
+YYB,YYB,CA,Canada,NA
+YYC,YYC,CA,Canada,NA
+YYD,YYD,CA,Canada,NA
+YYE,YYE,CA,Canada,NA
+YYF,YYF,CA,Canada,NA
+YYG,YYG,CA,Canada,NA
+YYH,YYH,CA,Canada,NA
+YYJ,YYJ,CA,Canada,NA
+YYL,YYL,CA,Canada,NA
+YYN,YYN,CA,Canada,NA
+YYQ,YYQ,CA,Canada,NA
+YYR,YYR,CA,Canada,NA
+YYT,YYT,CA,Canada,NA
+YYU,YYU,CA,Canada,NA
+YYW,YYW,CA,Canada,NA
+YYY,YYY,CA,Canada,NA
+YYZ,YYZ,CA,Canada,NA
+YZD,YZD,CA,Canada,NA
+YZE,YZE,CA,Canada,NA
+YZF,YZF,CA,Canada,NA
+YZG,YZG,CA,Canada,NA
+YZH,YZH,CA,Canada,NA
+YZP,YZP,CA,Canada,NA
+YZR,YZR,CA,Canada,NA
+YZS,YZS,CA,Canada,NA
+YZT,YZT,CA,Canada,NA
+YZU,YZU,CA,Canada,NA
+YZV,YZV,CA,Canada,NA
+YZW,YZW,CA,Canada,NA
+YZX,YZX,CA,Canada,NA
+YZY,YZY,CA,Canada,NA
+ZAC,ZAC,CA,Canada,NA
+YSN,YSN,CA,Canada,NA
+YDT,YDT,CA,Canada,NA
+ZBD,ZBD,CA,Canada,NA
+ZBF,ZBF,CA,Canada,NA
+ZBF,ZBF,CA,Canada,NA
+ZBM,ZBM,CA,Canada,NA
+ZEE,ZEE,CA,Canada,NA
+ZEM,ZEM,CA,Canada,NA
+ZFA,ZFA,CA,Canada,NA
+ZFD,ZFD,CA,Canada,NA
+ZFG,ZFG,CA,Canada,NA
+ZFM,ZFM,CA,Canada,NA
+ZFN,ZFN,CA,Canada,NA
+ZGF,ZGF,CA,Canada,NA
+ZGI,ZGI,CA,Canada,NA
+ZGR,ZGR,CA,Canada,NA
+ZJG,ZJG,CA,Canada,NA
+ZJN,ZJN,CA,Canada,NA
+ZKE,ZKE,CA,Canada,NA
+YTD,YTD,CA,Canada,NA
+MSA,MSA,CA,Canada,NA
+PIW,PIW,CA,Canada,NA
+ZMT,ZMT,CA,Canada,NA
+ZNG,ZNG,CA,Canada,NA
+ZPB,ZPB,CA,Canada,NA
+ZRJ,ZRJ,CA,Canada,NA
+ZSJ,ZSJ,CA,Canada,NA
+ZSN,ZSN,CA,Canada,NA
+ZSW,ZSW,CA,Canada,NA
+ZTM,ZTM,CA,Canada,NA
+ZUC,ZUC,CA,Canada,NA
+ZUM,ZUM,CA,Canada,NA
+ZWH,ZWH,CA,Canada,NA
+ZWL,ZWL,CA,Canada,NA
+QLD,QLD,DZ,Algeria,AF
+BUJ,BUJ,DZ,Algeria,AF
+BJA,BJA,DZ,Algeria,AF
+ALG,ALG,DZ,Algeria,AF
+DJG,DJG,DZ,Algeria,AF
+QFD,QFD,DZ,Algeria,AF
+VVZ,VVZ,DZ,Algeria,AF
+QSF,QSF,DZ,Algeria,AF
+TMR,TMR,DZ,Algeria,AF
+GJL,GJL,DZ,Algeria,AF
+MZW,MZW,DZ,Algeria,AF
+QZN,QZN,DZ,Algeria,AF
+AAE,AAE,DZ,Algeria,AF
+CZL,CZL,DZ,Algeria,AF
+TEE,TEE,DZ,Algeria,AF
+BLJ,BLJ,DZ,Algeria,AF
+HRM,HRM,DZ,Algeria,AF
+TID,TID,DZ,Algeria,AF
+TIN,TIN,DZ,Algeria,AF
+QAS,QAS,DZ,Algeria,AF
+TAF,TAF,DZ,Algeria,AF
+TLM,TLM,DZ,Algeria,AF
+ORN,ORN,DZ,Algeria,AF
+CBH,CBH,DZ,Algeria,AF
+MUW,MUW,DZ,Algeria,AF
+EBH,EBH,DZ,Algeria,AF
+INF,INF,DZ,Algeria,AF
+BMW,BMW,DZ,Algeria,AF
+AZR,AZR,DZ,Algeria,AF
+BSK,BSK,DZ,Algeria,AF
+ELG,ELG,DZ,Algeria,AF
+GHA,GHA,DZ,Algeria,AF
+HME,HME,DZ,Algeria,AF
+INZ,INZ,DZ,Algeria,AF
+TGR,TGR,DZ,Algeria,AF
+LOO,LOO,DZ,Algeria,AF
+ELU,ELU,DZ,Algeria,AF
+TMX,TMX,DZ,Algeria,AF
+OGX,OGX,DZ,Algeria,AF
+IAM,IAM,DZ,Algeria,AF
+COO,COO,BJ,Benin,AF
+KDC,KDC,BJ,Benin,AF
+NAE,NAE,BJ,Benin,AF
+PKO,PKO,BJ,Benin,AF
+SVF,SVF,BJ,Benin,AF
+DCG,DCG,AE,United Arab Emirates,AS
+XKY,XKY,BF,Burkina Faso,AF
+OUG,OUG,BF,Burkina Faso,AF
+XDJ,XDJ,BF,Burkina Faso,AF
+XLU,XLU,BF,Burkina Faso,AF
+PUP,PUP,BF,Burkina Faso,AF
+XBO,XBO,BF,Burkina Faso,AF
+XBG,XBG,BF,Burkina Faso,AF
+DIP,DIP,BF,Burkina Faso,AF
+DOR,DOR,BF,Burkina Faso,AF
+FNG,FNG,BF,Burkina Faso,AF
+XGG,XGG,BF,Burkina Faso,AF
+XKA,XKA,BF,Burkina Faso,AF
+TMQ,TMQ,BF,Burkina Faso,AF
+XPA,XPA,BF,Burkina Faso,AF
+ARL,ARL,BF,Burkina Faso,AF
+XSE,XSE,BF,Burkina Faso,AF
+TEG,TEG,BF,Burkina Faso,AF
+XZA,XZA,BF,Burkina Faso,AF
+OUA,OUA,BF,Burkina Faso,AF
+BNR,BNR,BF,Burkina Faso,AF
+DGU,DGU,BF,Burkina Faso,AF
+XGA,XGA,BF,Burkina Faso,AF
+XNU,XNU,BF,Burkina Faso,AF
+BOY,BOY,BF,Burkina Faso,AF
+TUQ,TUQ,BF,Burkina Faso,AF
+XDE,XDE,BF,Burkina Faso,AF
+XAR,XAR,BF,Burkina Faso,AF
+ACC,ACC,GH,Ghana,AF
+TML,TML,GH,Ghana,AF
+KMS,KMS,GH,Ghana,AF
+NYI,NYI,GH,Ghana,AF
+TKD,TKD,GH,Ghana,AF
+DHB,DHB,US,United States of America,NA
+ABJ,ABJ,CI,Côte d'Ivoire,AF
+OGO,OGO,CI,Côte d'Ivoire,AF
+BXI,BXI,CI,Côte d'Ivoire,AF
+BYK,BYK,CI,Côte d'Ivoire,AF
+BQO,BQO,CI,Côte d'Ivoire,AF
+BDK,BDK,CI,Côte d'Ivoire,AF
+DIM,DIM,CI,Côte d'Ivoire,AF
+DJO,DJO,CI,Côte d'Ivoire,AF
+FEK,FEK,CI,Côte d'Ivoire,AF
+GGN,GGN,CI,Côte d'Ivoire,AF
+GGO,GGO,CI,Côte d'Ivoire,AF
+HGO,HGO,CI,Côte d'Ivoire,AF
+MJC,MJC,CI,Côte d'Ivoire,AF
+KEO,KEO,CI,Côte d'Ivoire,AF
+OFI,OFI,CI,Côte d'Ivoire,AF
+SEO,SEO,CI,Côte d'Ivoire,AF
+SPY,SPY,CI,Côte d'Ivoire,AF
+ZSS,ZSS,CI,Côte d'Ivoire,AF
+TXU,TXU,CI,Côte d'Ivoire,AF
+ASK,ASK,CI,Côte d'Ivoire,AF
+DKA,DKA,NG,Nigeria,AF
+ABV,ABV,NG,Nigeria,AF
+AKR,AKR,NG,Nigeria,AF
+ABB,ABB,NG,Nigeria,AF
+BNI,BNI,NG,Nigeria,AF
+CBQ,CBQ,NG,Nigeria,AF
+ENU,ENU,NG,Nigeria,AF
+QUS,QUS,NG,Nigeria,AF
+IBA,IBA,NG,Nigeria,AF
+ILR,ILR,NG,Nigeria,AF
+QOW,QOW,NG,Nigeria,AF
+JOS,JOS,NG,Nigeria,AF
+KAD,KAD,NG,Nigeria,AF
+KAN,KAN,NG,Nigeria,AF
+MIU,MIU,NG,Nigeria,AF
+MDI,MDI,NG,Nigeria,AF
+LOS,LOS,NG,Nigeria,AF
+MXJ,MXJ,NG,Nigeria,AF
+PHC,PHC,NG,Nigeria,AF
+SKO,SKO,NG,Nigeria,AF
+YOL,YOL,NG,Nigeria,AF
+ZAR,ZAR,NG,Nigeria,AF
+STI,STI,DO,Dominican Republic,NA
+DQA,DQA,CN,China,AS
+MFQ,MFQ,NE,Niger,AF
+NIM,NIM,NE,Niger,AF
+THZ,THZ,NE,Niger,AF
+AJY,AJY,NE,Niger,AF
+ZND,ZND,NE,Niger,AF
+TBJ,TBJ,TN,Tunisia,AF
+MIR,MIR,TN,Tunisia,AF
+TUN,TUN,TN,Tunisia,AF
+OIZ,OIZ,TN,Tunisia,AF
+GAF,GAF,TN,Tunisia,AF
+GAE,GAE,TN,Tunisia,AF
+DJE,DJE,TN,Tunisia,AF
+EBM,EBM,TN,Tunisia,AF
+SFA,SFA,TN,Tunisia,AF
+TOE,TOE,TN,Tunisia,AF
+DWR,DWR,AF,Afghanistan,AS
+LRL,LRL,TG,Togo,AF
+LFW,LFW,TG,Togo,AF
+ANR,ANR,BE,Belgium,EU
+BRU,BRU,BE,Belgium,EU
+CRL,CRL,BE,Belgium,EU
+KJK,KJK,BE,Belgium,EU
+LGG,LGG,BE,Belgium,EU
+QNM,QNM,BE,Belgium,EU
+OST,OST,BE,Belgium,EU
+QHA,QHA,BE,Belgium,EU
+OBL,OBL,BE,Belgium,EU
+MZD,MZD,EC,Ecuador,SA
+AOC,AOC,DE,Germany,EU
+HDF,HDF,DE,Germany,EU
+BBH,BBH,DE,Germany,EU
+ZMG,ZMG,DE,Germany,EU
+CBU,CBU,DE,Germany,EU
+SXF,SXF,DE,Germany,EU
+DRS,DRS,DE,Germany,EU
+ERF,ERF,DE,Germany,EU
+FRA,FRA,DE,Germany,EU
+FMO,FMO,DE,Germany,EU
+HAM,HAM,DE,Germany,EU
+THF,THF,DE,Germany,EU
+CGN,CGN,DE,Germany,EU
+DUS,DUS,DE,Germany,EU
+MUC,MUC,DE,Germany,EU
+NUE,NUE,DE,Germany,EU
+LEJ,LEJ,DE,Germany,EU
+SCN,SCN,DE,Germany,EU
+STR,STR,DE,Germany,EU
+TXL,TXL,DE,Germany,EU
+HAJ,HAJ,DE,Germany,EU
+BRE,BRE,DE,Germany,EU
+QEF,QEF,DE,Germany,EU
+HHN,HHN,DE,Germany,EU
+MHG,MHG,DE,Germany,EU
+ZQV,ZQV,DE,Germany,EU
+QMZ,QMZ,DE,Germany,EU
+SGE,SGE,DE,Germany,EU
+XFW,XFW,DE,Germany,EU
+KEL,KEL,DE,Germany,EU
+LBC,LBC,DE,Germany,EU
+EUM,EUM,DE,Germany,EU
+FMM,FMM,DE,Germany,EU
+AAH,AAH,DE,Germany,EU
+ESS,ESS,DE,Germany,EU
+BFE,BFE,DE,Germany,EU
+MGL,MGL,DE,Germany,EU
+PAD,PAD,DE,Germany,EU
+NRN,NRN,DE,Germany,EU
+DTM,DTM,DE,Germany,EU
+AGB,AGB,DE,Germany,EU
+OBF,OBF,DE,Germany,EU
+RBM,RBM,DE,Germany,EU
+FDH,FDH,DE,Germany,EU
+FRF,FRF,DE,Germany,EU
+SZW,SZW,DE,Germany,EU
+BYU,BYU,DE,Germany,EU
+QOB,QOB,DE,Germany,EU
+HOQ,HOQ,DE,Germany,EU
+BBJ,BBJ,DE,Germany,EU
+ZQW,ZQW,DE,Germany,EU
+FKB,FKB,DE,Germany,EU
+ZQL,ZQL,DE,Germany,EU
+LHA,LHA,DE,Germany,EU
+BWE,BWE,DE,Germany,EU
+KSF,KSF,DE,Germany,EU
+BRV,BRV,DE,Germany,EU
+XLW,XLW,DE,Germany,EU
+EME,EME,DE,Germany,EU
+AGE,AGE,DE,Germany,EU
+WVN,WVN,DE,Germany,EU
+JUI,JUI,DE,Germany,EU
+LGO,LGO,DE,Germany,EU
+ZOW,ZOW,DE,Germany,EU
+BMK,BMK,DE,Germany,EU
+NOD,NOD,DE,Germany,EU
+VAC,VAC,DE,Germany,EU
+NRD,NRD,DE,Germany,EU
+BMR,BMR,DE,Germany,EU
+HEI,HEI,DE,Germany,EU
+FLF,FLF,DE,Germany,EU
+HGL,HGL,DE,Germany,EU
+PSH,PSH,DE,Germany,EU
+GWT,GWT,DE,Germany,EU
+OHR,OHR,DE,Germany,EU
+KDL,KDL,EE,Estonia,EU
+URE,URE,EE,Estonia,EU
+EPU,EPU,EE,Estonia,EU
+TLL,TLL,EE,Estonia,EU
+TAY,TAY,EE,Estonia,EU
+ENF,ENF,FI,Finland,EU
+QVE,QVE,FI,Finland,EU
+KEV,KEV,FI,Finland,EU
+HEM,HEM,FI,Finland,EU
+HEL,HEL,FI,Finland,EU
+HYV,HYV,FI,Finland,EU
+KTQ,KTQ,FI,Finland,EU
+IVL,IVL,FI,Finland,EU
+JOE,JOE,FI,Finland,EU
+JYV,JYV,FI,Finland,EU
+KAU,KAU,FI,Finland,EU
+KEM,KEM,FI,Finland,EU
+KAJ,KAJ,FI,Finland,EU
+KHJ,KHJ,FI,Finland,EU
+KOK,KOK,FI,Finland,EU
+KAO,KAO,FI,Finland,EU
+KTT,KTT,FI,Finland,EU
+KUO,KUO,FI,Finland,EU
+QLF,QLF,FI,Finland,EU
+LPP,LPP,FI,Finland,EU
+MHQ,MHQ,FI,Finland,EU
+MIK,MIK,FI,Finland,EU
+OUL,OUL,FI,Finland,EU
+POR,POR,FI,Finland,EU
+RVN,RVN,FI,Finland,EU
+SVL,SVL,FI,Finland,EU
+SJY,SJY,FI,Finland,EU
+SOT,SOT,FI,Finland,EU
+TMP,TMP,FI,Finland,EU
+TKU,TKU,FI,Finland,EU
+UTI,UTI,FI,Finland,EU
+VAA,VAA,FI,Finland,EU
+VRK,VRK,FI,Finland,EU
+YLI,YLI,FI,Finland,EU
+AUE,AUE,EG,Egypt,AS
+BFS,BFS,GB,United Kingdom of Great Britain and Northern Ireland,EU
+ENK,ENK,GB,United Kingdom of Great Britain and Northern Ireland,EU
+BHD,BHD,GB,United Kingdom of Great Britain and Northern Ireland,EU
+LDY,LDY,GB,United Kingdom of Great Britain and Northern Ireland,EU
+BHX,BHX,GB,United Kingdom of Great Britain and Northern Ireland,EU
+CVT,CVT,GB,United Kingdom of Great Britain and Northern Ireland,EU
+GLO,GLO,GB,United Kingdom of Great Britain and Northern Ireland,EU
+ORM,ORM,GB,United Kingdom of Great Britain and Northern Ireland,EU
+NQT,NQT,GB,United Kingdom of Great Britain and Northern Ireland,EU
+MAN,MAN,GB,United Kingdom of Great Britain and Northern Ireland,EU
+XXB,XXB,GB,United Kingdom of Great Britain and Northern Ireland,EU
+DSA,DSA,GB,United Kingdom of Great Britain and Northern Ireland,EU
+LYE,LYE,GB,United Kingdom of Great Britain and Northern Ireland,EU
+DGX,DGX,GB,United Kingdom of Great Britain and Northern Ireland,EU
+YEO,YEO,GB,United Kingdom of Great Britain and Northern Ireland,EU
+CAL,CAL,GB,United Kingdom of Great Britain and Northern Ireland,EU
+EOI,EOI,GB,United Kingdom of Great Britain and Northern Ireland,EU
+FIE,FIE,GB,United Kingdom of Great Britain and Northern Ireland,EU
+WHS,WHS,GB,United Kingdom of Great Britain and Northern Ireland,EU
+COL,COL,GB,United Kingdom of Great Britain and Northern Ireland,EU
+NRL,NRL,GB,United Kingdom of Great Britain and Northern Ireland,EU
+OBN,OBN,GB,United Kingdom of Great Britain and Northern Ireland,EU
+PPW,PPW,GB,United Kingdom of Great Britain and Northern Ireland,EU
+SOY,SOY,GB,United Kingdom of Great Britain and Northern Ireland,EU
+NDY,NDY,GB,United Kingdom of Great Britain and Northern Ireland,EU
+LWK,LWK,GB,United Kingdom of Great Britain and Northern Ireland,EU
+WRY,WRY,GB,United Kingdom of Great Britain and Northern Ireland,EU
+CSA,CSA,GB,United Kingdom of Great Britain and Northern Ireland,EU
+HAW,HAW,GB,United Kingdom of Great Britain and Northern Ireland,EU
+CWL,CWL,GB,United Kingdom of Great Britain and Northern Ireland,EU
+SWS,SWS,GB,United Kingdom of Great Britain and Northern Ireland,EU
+BRS,BRS,GB,United Kingdom of Great Britain and Northern Ireland,EU
+LPL,LPL,GB,United Kingdom of Great Britain and Northern Ireland,EU
+LTN,LTN,GB,United Kingdom of Great Britain and Northern Ireland,EU
+LEQ,LEQ,GB,United Kingdom of Great Britain and Northern Ireland,EU
+PLH,PLH,GB,United Kingdom of Great Britain and Northern Ireland,EU
+ISC,ISC,GB,United Kingdom of Great Britain and Northern Ireland,EU
+BOH,BOH,GB,United Kingdom of Great Britain and Northern Ireland,EU
+SOU,SOU,GB,United Kingdom of Great Britain and Northern Ireland,EU
+BBP,BBP,GB,United Kingdom of Great Britain and Northern Ireland,EU
+PZE,PZE,GB,United Kingdom of Great Britain and Northern Ireland,EU
+QLA,QLA,GB,United Kingdom of Great Britain and Northern Ireland,EU
+NQY,NQY,GB,United Kingdom of Great Britain and Northern Ireland,EU
+QUG,QUG,GB,United Kingdom of Great Britain and Northern Ireland,EU
+ACI,ACI,GG,Guernsey,EU
+GCI,GCI,GG,Guernsey,EU
+JER,JER,JE,Jersey,EU
+ESH,ESH,GB,United Kingdom of Great Britain and Northern Ireland,EU
+BQH,BQH,GB,United Kingdom of Great Britain and Northern Ireland,EU
+LGW,LGW,GB,United Kingdom of Great Britain and Northern Ireland,EU
+KRH,KRH,GB,United Kingdom of Great Britain and Northern Ireland,EU
+LCY,LCY,GB,United Kingdom of Great Britain and Northern Ireland,EU
+FAB,FAB,GB,United Kingdom of Great Britain and Northern Ireland,EU
+BBS,BBS,GB,United Kingdom of Great Britain and Northern Ireland,EU
+LHR,LHR,GB,United Kingdom of Great Britain and Northern Ireland,EU
+SEN,SEN,GB,United Kingdom of Great Britain and Northern Ireland,EU
+LYX,LYX,GB,United Kingdom of Great Britain and Northern Ireland,EU
+MSE,MSE,GB,United Kingdom of Great Britain and Northern Ireland,EU
+CAX,CAX,GB,United Kingdom of Great Britain and Northern Ireland,EU
+BLK,BLK,GB,United Kingdom of Great Britain and Northern Ireland,EU
+HUY,HUY,GB,United Kingdom of Great Britain and Northern Ireland,EU
+BWF,BWF,GB,United Kingdom of Great Britain and Northern Ireland,EU
+LBA,LBA,GB,United Kingdom of Great Britain and Northern Ireland,EU
+CEG,CEG,GB,United Kingdom of Great Britain and Northern Ireland,EU
+IOM,IOM,IM,Isle of Man,EU
+NCL,NCL,GB,United Kingdom of Great Britain and Northern Ireland,EU
+MME,MME,GB,United Kingdom of Great Britain and Northern Ireland,EU
+EMA,EMA,GB,United Kingdom of Great Britain and Northern Ireland,EU
+HLY,HLY,GB,United Kingdom of Great Britain and Northern Ireland,EU
+KOI,KOI,GB,United Kingdom of Great Britain and Northern Ireland,EU
+LSI,LSI,GB,United Kingdom of Great Britain and Northern Ireland,EU
+WIC,WIC,GB,United Kingdom of Great Britain and Northern Ireland,EU
+ABZ,ABZ,GB,United Kingdom of Great Britain and Northern Ireland,EU
+INV,INV,GB,United Kingdom of Great Britain and Northern Ireland,EU
+GLA,GLA,GB,United Kingdom of Great Britain and Northern Ireland,EU
+EDI,EDI,GB,United Kingdom of Great Britain and Northern Ireland,EU
+ILY,ILY,GB,United Kingdom of Great Britain and Northern Ireland,EU
+PIK,PIK,GB,United Kingdom of Great Britain and Northern Ireland,EU
+BEB,BEB,GB,United Kingdom of Great Britain and Northern Ireland,EU
+SCS,SCS,GB,United Kingdom of Great Britain and Northern Ireland,EU
+DND,DND,GB,United Kingdom of Great Britain and Northern Ireland,EU
+SYY,SYY,GB,United Kingdom of Great Britain and Northern Ireland,EU
+BRR,BRR,GB,United Kingdom of Great Britain and Northern Ireland,EU
+PSL,PSL,GB,United Kingdom of Great Britain and Northern Ireland,EU
+TRE,TRE,GB,United Kingdom of Great Britain and Northern Ireland,EU
+UNT,UNT,GB,United Kingdom of Great Britain and Northern Ireland,EU
+BOL,BOL,GB,United Kingdom of Great Britain and Northern Ireland,EU
+FSS,FSS,GB,United Kingdom of Great Britain and Northern Ireland,EU
+ADX,ADX,GB,United Kingdom of Great Britain and Northern Ireland,EU
+LMO,LMO,GB,United Kingdom of Great Britain and Northern Ireland,EU
+CBG,CBG,GB,United Kingdom of Great Britain and Northern Ireland,EU
+NWI,NWI,GB,United Kingdom of Great Britain and Northern Ireland,EU
+STN,STN,GB,United Kingdom of Great Britain and Northern Ireland,EU
+QFO,QFO,GB,United Kingdom of Great Britain and Northern Ireland,EU
+SZE,SZE,GB,United Kingdom of Great Britain and Northern Ireland,EU
+EXT,EXT,GB,United Kingdom of Great Britain and Northern Ireland,EU
+FRK,FRK,GB,United Kingdom of Great Britain and Northern Ireland,EU
+FZO,FZO,GB,United Kingdom of Great Britain and Northern Ireland,EU
+OXF,OXF,GB,United Kingdom of Great Britain and Northern Ireland,EU
+RCS,RCS,GB,United Kingdom of Great Britain and Northern Ireland,EU
+BEX,BEX,GB,United Kingdom of Great Britain and Northern Ireland,EU
+LKZ,LKZ,GB,United Kingdom of Great Britain and Northern Ireland,EU
+MHZ,MHZ,GB,United Kingdom of Great Britain and Northern Ireland,EU
+QUY,QUY,GB,United Kingdom of Great Britain and Northern Ireland,EU
+FFD,FFD,GB,United Kingdom of Great Britain and Northern Ireland,EU
+BZZ,BZZ,GB,United Kingdom of Great Britain and Northern Ireland,EU
+ODH,ODH,GB,United Kingdom of Great Britain and Northern Ireland,EU
+WXF,WXF,GB,United Kingdom of Great Britain and Northern Ireland,EU
+ADV,ADV,GB,United Kingdom of Great Britain and Northern Ireland,EU
+NHT,NHT,GB,United Kingdom of Great Britain and Northern Ireland,EU
+GSY,GSY,GB,United Kingdom of Great Britain and Northern Ireland,EU
+QCY,QCY,GB,United Kingdom of Great Britain and Northern Ireland,EU
+BEQ,BEQ,GB,United Kingdom of Great Britain and Northern Ireland,EU
+OKH,OKH,GB,United Kingdom of Great Britain and Northern Ireland,EU
+SQZ,SQZ,GB,United Kingdom of Great Britain and Northern Ireland,EU
+HRT,HRT,GB,United Kingdom of Great Britain and Northern Ireland,EU
+WTN,WTN,GB,United Kingdom of Great Britain and Northern Ireland,EU
+MRH,MRH,GB,United Kingdom of Great Britain and Northern Ireland,EU
+MPN,MPN,FK,Falkland Islands (Malvinas),SA
+AMS,AMS,NL,Netherlands,EU
+MST,MST,NL,Netherlands,EU
+QAR,QAR,NL,Netherlands,EU
+EIN,EIN,NL,Netherlands,EU
+GRQ,GRQ,NL,Netherlands,EU
+GLZ,GLZ,NL,Netherlands,EU
+DHR,DHR,NL,Netherlands,EU
+LEY,LEY,NL,Netherlands,EU
+LWR,LWR,NL,Netherlands,EU
+RTM,RTM,NL,Netherlands,EU
+UTC,UTC,NL,Netherlands,EU
+ENS,ENS,NL,Netherlands,EU
+LID,LID,NL,Netherlands,EU
+UDE,UDE,NL,Netherlands,EU
+WOE,WOE,NL,Netherlands,EU
+BYT,BYT,IE,Ireland,EU
+BLY,BLY,IE,Ireland,EU
+NNR,NNR,IE,Ireland,EU
+CLB,CLB,IE,Ireland,EU
+WEX,WEX,IE,Ireland,EU
+ORK,ORK,IE,Ireland,EU
+GWY,GWY,IE,Ireland,EU
+CFN,CFN,IE,Ireland,EU
+DUB,DUB,IE,Ireland,EU
+IOR,IOR,IE,Ireland,EU
+INQ,INQ,IE,Ireland,EU
+KKY,KKY,IE,Ireland,EU
+NOC,NOC,IE,Ireland,EU
+KIR,KIR,IE,Ireland,EU
+LTR,LTR,IE,Ireland,EU
+IIA,IIA,IE,Ireland,EU
+SNN,SNN,IE,Ireland,EU
+SXL,SXL,IE,Ireland,EU
+WAT,WAT,IE,Ireland,EU
+AAR,AAR,DK,Denmark,EU
+BLL,BLL,DK,Denmark,EU
+CPH,CPH,DK,Denmark,EU
+EBJ,EBJ,DK,Denmark,EU
+KRP,KRP,DK,Denmark,EU
+BYR,BYR,DK,Denmark,EU
+MRW,MRW,DK,Denmark,EU
+ODE,ODE,DK,Denmark,EU
+RKE,RKE,DK,Denmark,EU
+RNN,RNN,DK,Denmark,EU
+SGD,SGD,DK,Denmark,EU
+CNL,CNL,DK,Denmark,EU
+SKS,SKS,DK,Denmark,EU
+SQW,SQW,DK,Denmark,EU
+TED,TED,DK,Denmark,EU
+VDP,VDP,DK,Denmark,EU
+FAE,FAE,FO,Faroe Islands,EU
+STA,STA,DK,Denmark,EU
+AAL,AAL,DK,Denmark,EU
+LUX,LUX,LU,Luxembourg,EU
+AES,AES,NO,Norway,EU
+ANX,ANX,NO,Norway,EU
+ALF,ALF,NO,Norway,EU
+FDE,FDE,NO,Norway,EU
+BNN,BNN,NO,Norway,EU
+BOO,BOO,NO,Norway,EU
+BGO,BGO,NO,Norway,EU
+BJF,BJF,NO,Norway,EU
+BVG,BVG,NO,Norway,EU
+KRS,KRS,NO,Norway,EU
+DLD,DLD,NO,Norway,EU
+BDU,BDU,NO,Norway,EU
+EVE,EVE,NO,Norway,EU
+FBU,FBU,NO,Norway,EU
+VDB,VDB,NO,Norway,EU
+FRO,FRO,NO,Norway,EU
+OSL,OSL,NO,Norway,EU
+HMR,HMR,NO,Norway,EU
+HAU,HAU,NO,Norway,EU
+HFT,HFT,NO,Norway,EU
+HAA,HAA,NO,Norway,EU
+HVG,HVG,NO,Norway,EU
+QKX,QKX,NO,Norway,EU
+KSU,KSU,NO,Norway,EU
+GLL,GLL,NO,Norway,EU
+KKN,KKN,NO,Norway,EU
+FAN,FAN,NO,Norway,EU
+LKN,LKN,NO,Norway,EU
+MEH,MEH,NO,Norway,EU
+MOL,MOL,NO,Norway,EU
+MJF,MJF,NO,Norway,EU
+LKL,LKL,NO,Norway,EU
+NVK,NVK,NO,Norway,EU
+OSY,OSY,NO,Norway,EU
+NTB,NTB,NO,Norway,EU
+OLA,OLA,NO,Norway,EU
+HOV,HOV,NO,Norway,EU
+MQN,MQN,NO,Norway,EU
+RVK,RVK,NO,Norway,EU
+RRS,RRS,NO,Norway,EU
+RET,RET,NO,Norway,EU
+RYG,RYG,NO,Norway,EU
+LYR,LYR,NO,Norway,EU
+SDN,SDN,NO,Norway,EU
+SOG,SOG,NO,Norway,EU
+SVJ,SVJ,NO,Norway,EU
+SKN,SKN,NO,Norway,EU
+SKE,SKE,NO,Norway,EU
+SRP,SRP,NO,Norway,EU
+SOJ,SOJ,NO,Norway,EU
+VAW,VAW,NO,Norway,EU
+SSJ,SSJ,NO,Norway,EU
+TOS,TOS,NO,Norway,EU
+TRF,TRF,NO,Norway,EU
+TRD,TRD,NO,Norway,EU
+VDS,VDS,NO,Norway,EU
+VRY,VRY,NO,Norway,EU
+SVG,SVG,NO,Norway,EU
+QYY,QYY,PL,Poland,EU
+BZG,BZG,PL,Poland,EU
+CZW,CZW,PL,Poland,EU
+GDN,GDN,PL,Poland,EU
+QLC,QLC,PL,Poland,EU
+KRK,KRK,PL,Poland,EU
+OSZ,OSZ,PL,Poland,EU
+KTW,KTW,PL,Poland,EU
+QEO,QEO,PL,Poland,EU
+LCJ,LCJ,PL,Poland,EU
+QLU,QLU,PL,Poland,EU
+QWS,QWS,PL,Poland,EU
+QYD,QYD,PL,Poland,EU
+QPM,QPM,PL,Poland,EU
+POZ,POZ,PL,Poland,EU
+RZE,RZE,PL,Poland,EU
+SZZ,SZZ,PL,Poland,EU
+OSP,OSP,PL,Poland,EU
+SZY,SZY,PL,Poland,EU
+WAW,WAW,PL,Poland,EU
+WRO,WRO,PL,Poland,EU
+IEG,IEG,PL,Poland,EU
+RNB,RNB,SE,Sweden,EU
+XWP,XWP,SE,Sweden,EU
+GOT,GOT,SE,Sweden,EU
+JKG,JKG,SE,Sweden,EU
+LDK,LDK,SE,Sweden,EU
+GSE,GSE,SE,Sweden,EU
+KVB,KVB,SE,Sweden,EU
+THN,THN,SE,Sweden,EU
+KSK,KSK,SE,Sweden,EU
+MXX,MXX,SE,Sweden,EU
+NYO,NYO,SE,Sweden,EU
+KID,KID,SE,Sweden,EU
+OSK,OSK,SE,Sweden,EU
+KLR,KLR,SE,Sweden,EU
+MMX,MMX,SE,Sweden,EU
+HAD,HAD,SE,Sweden,EU
+VXO,VXO,SE,Sweden,EU
+EVG,EVG,SE,Sweden,EU
+GEV,GEV,SE,Sweden,EU
+HUV,HUV,SE,Sweden,EU
+KRF,KRF,SE,Sweden,EU
+LYC,LYC,SE,Sweden,EU
+SDL,SDL,SE,Sweden,EU
+OER,OER,SE,Sweden,EU
+KRN,KRN,SE,Sweden,EU
+SFT,SFT,SE,Sweden,EU
+UME,UME,SE,Sweden,EU
+VHM,VHM,SE,Sweden,EU
+AJR,AJR,SE,Sweden,EU
+SOO,SOO,SE,Sweden,EU
+OSD,OSD,SE,Sweden,EU
+ORB,ORB,SE,Sweden,EU
+HFS,HFS,SE,Sweden,EU
+KSD,KSD,SE,Sweden,EU
+VST,VST,SE,Sweden,EU
+LLA,LLA,SE,Sweden,EU
+ARN,ARN,SE,Sweden,EU
+BMA,BMA,SE,Sweden,EU
+BLE,BLE,SE,Sweden,EU
+HLF,HLF,SE,Sweden,EU
+GVX,GVX,SE,Sweden,EU
+LPI,LPI,SE,Sweden,EU
+NRK,NRK,SE,Sweden,EU
+TYF,TYF,SE,Sweden,EU
+EKT,EKT,SE,Sweden,EU
+VBY,VBY,SE,Sweden,EU
+VVK,VVK,SE,Sweden,EU
+AGH,AGH,SE,Sweden,EU
+SQO,SQO,SE,Sweden,EU
+IDB,IDB,SE,Sweden,EU
+PJA,PJA,SE,Sweden,EU
+HMV,HMV,SE,Sweden,EU
+GLC,GLC,ET,Ethiopia,AF
+SHC,SHC,ET,Ethiopia,AF
+SPM,SPM,DE,Germany,EU
+RMS,RMS,DE,Germany,EU
+ZCD,ZCD,DE,Germany,EU
+ZCN,ZCN,DE,Germany,EU
+ZPQ,ZPQ,DE,Germany,EU
+FRZ,FRZ,DE,Germany,EU
+ZNF,ZNF,DE,Germany,EU
+QHD,QHD,DE,Germany,EU
+NDZ,NDZ,DE,Germany,EU
+GKE,GKE,DE,Germany,EU
+RLG,RLG,DE,Germany,EU
+QOE,QOE,DE,Germany,EU
+WBG,WBG,DE,Germany,EU
+FNB,FNB,DE,Germany,EU
+WIE,WIE,DE,Germany,EU
+FEL,FEL,DE,Germany,EU
+IGS,IGS,DE,Germany,EU
+GUT,GUT,DE,Germany,EU
+BGN,BGN,DE,Germany,EU
+LPX,LPX,LV,Latvia,EU
+RIX,RIX,LV,Latvia,EU
+VNT,VNT,LV,Latvia,EU
+EXI,EXI,US,United States of America,NA
+KUN,KUN,LT,Lithuania,EU
+KLJ,KLJ,LT,Lithuania,EU
+PLQ,PLQ,LT,Lithuania,EU
+PNV,PNV,LT,Lithuania,EU
+SQQ,SQQ,LT,Lithuania,EU
+HLJ,HLJ,LT,Lithuania,EU
+VNO,VNO,LT,Lithuania,EU
+ALJ,ALJ,ZA,South Africa,AF
+AGZ,AGZ,ZA,South Africa,AF
+ADY,ADY,ZA,South Africa,AF
+BIY,BIY,ZA,South Africa,AF
+BFN,BFN,ZA,South Africa,AF
+UTE,UTE,ZA,South Africa,AF
+CDO,CDO,ZA,South Africa,AF
+CPT,CPT,ZA,South Africa,AF
+DUK,DUK,ZA,South Africa,AF
+PZL,PZL,ZA,South Africa,AF
+ELS,ELS,ZA,South Africa,AF
+EMG,EMG,ZA,South Africa,AF
+ELL,ELL,ZA,South Africa,AF
+FCB,FCB,ZA,South Africa,AF
+GCJ,GCJ,ZA,South Africa,AF
+GRJ,GRJ,ZA,South Africa,AF
+GIY,GIY,ZA,South Africa,AF
+QRA,QRA,ZA,South Africa,AF
+HLW,HLW,ZA,South Africa,AF
+HRS,HRS,ZA,South Africa,AF
+HDS,HDS,ZA,South Africa,AF
+JNB,JNB,ZA,South Africa,AF
+KXE,KXE,ZA,South Africa,AF
+KIM,KIM,ZA,South Africa,AF
+MQP,MQP,ZA,South Africa,AF
+KOF,KOF,ZA,South Africa,AF
+KMH,KMH,ZA,South Africa,AF
+KLZ,KLZ,ZA,South Africa,AF
+HLA,HLA,ZA,South Africa,AF
+LMR,LMR,ZA,South Africa,AF
+LDZ,LDZ,ZA,South Africa,AF
+DUR,DUR,ZA,South Africa,AF
+LUJ,LUJ,ZA,South Africa,AF
+LCD,LCD,ZA,South Africa,AF
+LGE,LGE,ZA,South Africa,AF
+LAY,LAY,ZA,South Africa,AF
+AAM,AAM,ZA,South Africa,AF
+MGH,MGH,ZA,South Africa,AF
+MBD,MBD,ZA,South Africa,AF
+LLE,LLE,ZA,South Africa,AF
+MZY,MZY,ZA,South Africa,AF
+MEZ,MEZ,ZA,South Africa,AF
+MZQ,MZQ,ZA,South Africa,AF
+NCS,NCS,ZA,South Africa,AF
+NGL,NGL,ZA,South Africa,AF
+NLP,NLP,ZA,South Africa,AF
+OVG,OVG,ZA,South Africa,AF
+OUH,OUH,ZA,South Africa,AF
+AFD,AFD,ZA,South Africa,AF
+PLZ,PLZ,ZA,South Africa,AF
+PBZ,PBZ,ZA,South Africa,AF
+PHW,PHW,ZA,South Africa,AF
+PTG,PTG,ZA,South Africa,AF
+JOH,JOH,ZA,South Africa,AF
+PRK,PRK,ZA,South Africa,AF
+PZB,PZB,ZA,South Africa,AF
+NTY,NTY,ZA,South Africa,AF
+PTG,PTG,ZA,South Africa,AF
+PCF,PCF,ZA,South Africa,AF
+UTW,UTW,ZA,South Africa,AF
+RCB,RCB,ZA,South Africa,AF
+RVO,RVO,ZA,South Africa,AF
+ROD,ROD,ZA,South Africa,AF
+SBU,SBU,ZA,South Africa,AF
+ZEC,ZEC,ZA,South Africa,AF
+SDB,SDB,ZA,South Africa,AF
+GSS,GSS,ZA,South Africa,AF
+SIS,SIS,ZA,South Africa,AF
+SZK,SZK,ZA,South Africa,AF
+THY,THY,ZA,South Africa,AF
+TCU,TCU,ZA,South Africa,AF
+LTA,LTA,ZA,South Africa,AF
+ULD,ULD,ZA,South Africa,AF
+UTN,UTN,ZA,South Africa,AF
+UTT,UTT,ZA,South Africa,AF
+VRU,VRU,ZA,South Africa,AF
+VIR,VIR,ZA,South Africa,AF
+VRE,VRE,ZA,South Africa,AF
+VYD,VYD,ZA,South Africa,AF
+PRY,PRY,ZA,South Africa,AF
+AFB,AFB,ZA,South Africa,AF
+WEL,WEL,ZA,South Africa,AF
+FRW,FRW,BW,Botswana,AF
+GNZ,GNZ,BW,Botswana,AF
+JWA,JWA,BW,Botswana,AF
+BBK,BBK,BW,Botswana,AF
+KHW,KHW,BW,Botswana,AF
+MUB,MUB,BW,Botswana,AF
+ORP,ORP,BW,Botswana,AF
+QPH,QPH,BW,Botswana,AF
+GBE,GBE,BW,Botswana,AF
+SXN,SXN,BW,Botswana,AF
+PKW,PKW,BW,Botswana,AF
+SWX,SWX,BW,Botswana,AF
+TLD,TLD,BW,Botswana,AF
+TBY,TBY,BW,Botswana,AF
+BZV,BZV,CG,Congo,AF
+DJM,DJM,CG,Congo,AF
+KNJ,KNJ,CG,Congo,AF
+LCO,LCO,CG,Congo,AF
+MUY,MUY,CG,Congo,AF
+SIB,SIB,CG,Congo,AF
+NKY,NKY,CG,Congo,AF
+ANJ,ANJ,CG,Congo,AF
+MSX,MSX,CG,Congo,AF
+BOE,BOE,CG,Congo,AF
+EWO,EWO,CG,Congo,AF
+GMM,GMM,CG,Congo,AF
+ION,ION,CG,Congo,AF
+KEE,KEE,CG,Congo,AF
+MKJ,MKJ,CG,Congo,AF
+FTX,FTX,CG,Congo,AF
+SOE,SOE,CG,Congo,AF
+BTB,BTB,CG,Congo,AF
+OUE,OUE,CG,Congo,AF
+KMK,KMK,CG,Congo,AF
+DIS,DIS,CG,Congo,AF
+PNR,PNR,CG,Congo,AF
+MTS,MTS,SZ,Eswatini,AF
+FEA,FEA,GB,United Kingdom of Great Britain and Northern Ireland,EU
+CRF,CRF,CF,Central African Republic,AF
+BGF,BGF,CF,Central African Republic,AF
+BGU,BGU,CF,Central African Republic,AF
+IRO,IRO,CF,Central African Republic,AF
+BEM,BEM,CF,Central African Republic,AF
+BBY,BBY,CF,Central African Republic,AF
+NDL,NDL,CF,Central African Republic,AF
+BOP,BOP,CF,Central African Republic,AF
+BIV,BIV,CF,Central African Republic,AF
+BSN,BSN,CF,Central African Republic,AF
+BBT,BBT,CF,Central African Republic,AF
+ODA,ODA,CF,Central African Republic,AF
+AIG,AIG,CF,Central African Republic,AF
+IMO,IMO,CF,Central African Republic,AF
+MKI,MKI,CF,Central African Republic,AF
+BTG,BTG,CF,Central African Republic,AF
+GDI,GDI,CF,Central African Republic,AF
+BMF,BMF,CF,Central African Republic,AF
+ODJ,ODJ,CF,Central African Republic,AF
+RFA,RFA,CF,Central African Republic,AF
+BCF,BCF,CF,Central African Republic,AF
+BOZ,BOZ,CF,Central African Republic,AF
+FEW,FEW,US,United States of America,NA
+BSG,BSG,GQ,Equatorial Guinea,AF
+SSG,SSG,GQ,Equatorial Guinea,AF
+ASI,ASI,SH,"Saint Helena, Ascension and Tristan da Cunha",AF
+MRU,MRU,MU,Mauritius,AF
+RRG,RRG,MU,Mauritius,AF
+FIN,FIN,PG,Papua New Guinea,OC
+NKW,NKW,IO,British Indian Ocean Territory,AS
+NKS,NKS,CM,Cameroon,AF
+KBI,KBI,CM,Cameroon,AF
+TKC,TKC,CM,Cameroon,AF
+DLA,DLA,CM,Cameroon,AF
+MMF,MMF,CM,Cameroon,AF
+KLE,KLE,CM,Cameroon,AF
+OUR,OUR,CM,Cameroon,AF
+GXX,GXX,CM,Cameroon,AF
+MVR,MVR,CM,Cameroon,AF
+FOM,FOM,CM,Cameroon,AF
+NGE,NGE,CM,Cameroon,AF
+BTA,BTA,CM,Cameroon,AF
+GOU,GOU,CM,Cameroon,AF
+DSC,DSC,CM,Cameroon,AF
+BFX,BFX,CM,Cameroon,AF
+BPC,BPC,CM,Cameroon,AF
+EBW,EBW,CM,Cameroon,AF
+YAO,YAO,CM,Cameroon,AF
+NSI,NSI,CM,Cameroon,AF
+MMQ,MMQ,ZM,Zambia,AF
+CIP,CIP,ZM,Zambia,AF
+ZKP,ZKP,ZM,Zambia,AF
+KLB,KLB,ZM,Zambia,AF
+KMZ,KMZ,ZM,Zambia,AF
+KAA,KAA,ZM,Zambia,AF
+ZKB,ZKB,ZM,Zambia,AF
+LVI,LVI,ZM,Zambia,AF
+LXU,LXU,ZM,Zambia,AF
+LUN,LUN,ZM,Zambia,AF
+MNS,MNS,ZM,Zambia,AF
+MFU,MFU,ZM,Zambia,AF
+MNR,MNR,ZM,Zambia,AF
+ZGM,ZGM,ZM,Zambia,AF
+NLA,NLA,ZM,Zambia,AF
+SXG,SXG,ZM,Zambia,AF
+KIW,KIW,ZM,Zambia,AF
+SJQ,SJQ,ZM,Zambia,AF
+SLI,SLI,ZM,Zambia,AF
+BBZ,BBZ,ZM,Zambia,AF
+ULI,ULI,FM,Micronesia (Federated States of),OC
+HAH,HAH,KM,Comoros,AF
+NWA,NWA,KM,Comoros,AF
+YVA,YVA,KM,Comoros,AF
+AJN,AJN,KM,Comoros,AF
+DZA,DZA,YT,Mayotte,AF
+RUN,RUN,RE,Réunion,AF
+ZSE,ZSE,RE,Réunion,AF
+WML,WML,MG,Madagascar,AF
+ATJ,ATJ,MG,Madagascar,AF
+WAQ,WAQ,MG,Madagascar,AF
+VVB,VVB,MG,Madagascar,AF
+TNR,TNR,MG,Madagascar,AF
+JVA,JVA,MG,Madagascar,AF
+BMD,BMD,MG,Madagascar,AF
+ZVA,ZVA,MG,Madagascar,AF
+MXT,MXT,MG,Madagascar,AF
+ILK,ILK,MG,Madagascar,AF
+TVA,TVA,MG,Madagascar,AF
+SMS,SMS,MG,Madagascar,AF
+TMM,TMM,MG,Madagascar,AF
+WTA,WTA,MG,Madagascar,AF
+MOQ,MOQ,MG,Madagascar,AF
+WTS,WTS,MG,Madagascar,AF
+VAT,VAT,MG,Madagascar,AF
+WAM,WAM,MG,Madagascar,AF
+DIE,DIE,MG,Madagascar,AF
+WMR,WMR,MG,Madagascar,AF
+ZWA,ZWA,MG,Madagascar,AF
+AMB,AMB,MG,Madagascar,AF
+WBD,WBD,MG,Madagascar,AF
+WPB,WPB,MG,Madagascar,AF
+ANM,ANM,MG,Madagascar,AF
+IVA,IVA,MG,Madagascar,AF
+HVA,HVA,MG,Madagascar,AF
+MJN,MJN,MG,Madagascar,AF
+NOS,NOS,MG,Madagascar,AF
+DWB,DWB,MG,Madagascar,AF
+WMP,WMP,MG,Madagascar,AF
+BPY,BPY,MG,Madagascar,AF
+WMN,WMN,MG,Madagascar,AF
+SVB,SVB,MG,Madagascar,AF
+TTS,TTS,MG,Madagascar,AF
+VOH,VOH,MG,Madagascar,AF
+WAI,WAI,MG,Madagascar,AF
+WMA,WMA,MG,Madagascar,AF
+WBO,WBO,MG,Madagascar,AF
+WMD,WMD,MG,Madagascar,AF
+FTU,FTU,MG,Madagascar,AF
+WFI,WFI,MG,Madagascar,AF
+RVA,RVA,MG,Madagascar,AF
+IHO,IHO,MG,Madagascar,AF
+MJA,MJA,MG,Madagascar,AF
+WVK,WVK,MG,Madagascar,AF
+OVA,OVA,MG,Madagascar,AF
+MNJ,MNJ,MG,Madagascar,AF
+TDV,TDV,MG,Madagascar,AF
+MXM,MXM,MG,Madagascar,AF
+TLE,TLE,MG,Madagascar,AF
+BKU,BKU,MG,Madagascar,AF
+AMP,AMP,MG,Madagascar,AF
+WAK,WAK,MG,Madagascar,AF
+AZZ,AZZ,AO,Angola,AF
+SSY,SSY,AO,Angola,AF
+BUG,BUG,AO,Angola,AF
+CAB,CAB,AO,Angola,AF
+CFF,CFF,AO,Angola,AF
+PGI,PGI,AO,Angola,AF
+CBT,CBT,AO,Angola,AF
+CTI,CTI,AO,Angola,AF
+CXM,CXM,AO,Angola,AF
+CAV,CAV,AO,Angola,AF
+DUE,DUE,AO,Angola,AF
+VPE,VPE,AO,Angola,AF
+NOV,NOV,AO,Angola,AF
+SVP,SVP,AO,Angola,AF
+LAD,LAD,AO,Angola,AF
+MEG,MEG,AO,Angola,AF
+SPP,SPP,AO,Angola,AF
+MSZ,MSZ,AO,Angola,AF
+GXG,GXG,AO,Angola,AF
+PBN,PBN,AO,Angola,AF
+VHC,VHC,AO,Angola,AF
+SZA,SZA,AO,Angola,AF
+NDD,NDD,AO,Angola,AF
+UAL,UAL,AO,Angola,AF
+SDD,SDD,AO,Angola,AF
+LUO,LUO,AO,Angola,AF
+UGO,UGO,AO,Angola,AF
+CEO,CEO,AO,Angola,AF
+XGN,XGN,AO,Angola,AF
+ARZ,ARZ,AO,Angola,AF
+BGB,BGB,GA,Gabon,AF
+KDN,KDN,GA,Gabon,AF
+FOU,FOU,GA,Gabon,AF
+MBC,MBC,GA,Gabon,AF
+MGX,MGX,GA,Gabon,AF
+KDJ,KDJ,GA,Gabon,AF
+KOU,KOU,GA,Gabon,AF
+MJL,MJL,GA,Gabon,AF
+OYE,OYE,GA,Gabon,AF
+OKN,OKN,GA,Gabon,AF
+LBQ,LBQ,GA,Gabon,AF
+MVX,MVX,GA,Gabon,AF
+BMM,BMM,GA,Gabon,AF
+MFF,MFF,GA,Gabon,AF
+MKB,MKB,GA,Gabon,AF
+POG,POG,GA,Gabon,AF
+OMB,OMB,GA,Gabon,AF
+MKU,MKU,GA,Gabon,AF
+LBV,LBV,GA,Gabon,AF
+MZC,MZC,GA,Gabon,AF
+MVB,MVB,GA,Gabon,AF
+LTL,LTL,GA,Gabon,AF
+ZKM,ZKM,GA,Gabon,AF
+TCH,TCH,GA,Gabon,AF
+MYB,MYB,GA,Gabon,AF
+PCP,PCP,ST,Sao Tome and Principe,AF
+TMS,TMS,ST,Sao Tome and Principe,AF
+ANO,ANO,MZ,Mozambique,AF
+BEW,BEW,MZ,Mozambique,AF
+FXO,FXO,MZ,Mozambique,AF
+VPY,VPY,MZ,Mozambique,AF
+IHC,IHC,MZ,Mozambique,AF
+INH,INH,MZ,Mozambique,AF
+VXC,VXC,MZ,Mozambique,AF
+MPM,MPM,MZ,Mozambique,AF
+MUD,MUD,MZ,Mozambique,AF
+MZB,MZB,MZ,Mozambique,AF
+MNC,MNC,MZ,Mozambique,AF
+APL,APL,MZ,Mozambique,AF
+POL,POL,MZ,Mozambique,AF
+UEL,UEL,MZ,Mozambique,AF
+TET,TET,MZ,Mozambique,AF
+VNX,VNX,MZ,Mozambique,AF
+VJB,VJB,MZ,Mozambique,AF
+JCA,JCA,FR,France,EU
+DES,DES,SC,Seychelles,AF
+SEZ,SEZ,SC,Seychelles,AF
+PRI,PRI,SC,Seychelles,AF
+BDI,BDI,SC,Seychelles,AF
+DEI,DEI,SC,Seychelles,AF
+FRK,FRK,SC,Seychelles,AF
+SRH,SRH,TD,Chad,AF
+OGR,OGR,TD,Chad,AF
+AEH,AEH,TD,Chad,AF
+MQQ,MQQ,TD,Chad,AF
+LTC,LTC,TD,Chad,AF
+ATV,ATV,TD,Chad,AF
+NDJ,NDJ,TD,Chad,AF
+BKR,BKR,TD,Chad,AF
+OTC,OTC,TD,Chad,AF
+MVO,MVO,TD,Chad,AF
+AMC,AMC,TD,Chad,AF
+PLF,PLF,TD,Chad,AF
+OUT,OUT,TD,Chad,AF
+AMO,AMO,TD,Chad,AF
+FYT,FYT,TD,Chad,AF
+BUQ,BUQ,ZW,Zimbabwe,AF
+CHJ,CHJ,ZW,Zimbabwe,AF
+BFO,BFO,ZW,Zimbabwe,AF
+VFA,VFA,ZW,Zimbabwe,AF
+HRE,HRE,ZW,Zimbabwe,AF
+KAB,KAB,ZW,Zimbabwe,AF
+UTA,UTA,ZW,Zimbabwe,AF
+MVZ,MVZ,ZW,Zimbabwe,AF
+GWE,GWE,ZW,Zimbabwe,AF
+HWN,HWN,ZW,Zimbabwe,AF
+WKI,WKI,ZW,Zimbabwe,AF
+CEH,CEH,MW,Malawi,AF
+BLZ,BLZ,MW,Malawi,AF
+CMK,CMK,MW,Malawi,AF
+DWA,DWA,MW,Malawi,AF
+KGJ,KGJ,MW,Malawi,AF
+KBQ,KBQ,MW,Malawi,AF
+LLW,LLW,MW,Malawi,AF
+LIX,LIX,MW,Malawi,AF
+MAI,MAI,MW,Malawi,AF
+MYZ,MYZ,MW,Malawi,AF
+LMB,LMB,MW,Malawi,AF
+ZZU,ZZU,MW,Malawi,AF
+LEF,LEF,LS,Lesotho,AF
+LRB,LRB,LS,Lesotho,AF
+LES,LES,LS,Lesotho,AF
+MFC,MFC,LS,Lesotho,AF
+MKH,MKH,LS,Lesotho,AF
+MSU,MSU,LS,Lesotho,AF
+NKU,NKU,LS,Lesotho,AF
+PEL,PEL,LS,Lesotho,AF
+UTG,UTG,LS,Lesotho,AF
+UNE,UNE,LS,Lesotho,AF
+SHK,SHK,LS,Lesotho,AF
+SKQ,SKQ,LS,Lesotho,AF
+SOK,SOK,LS,Lesotho,AF
+SHZ,SHZ,LS,Lesotho,AF
+THB,THB,LS,Lesotho,AF
+TKO,TKO,LS,Lesotho,AF
+ADI,ADI,NA,Namibia,AF
+GOG,GOG,NA,Namibia,AF
+GFY,GFY,NA,Namibia,AF
+MPA,MPA,NA,Namibia,AF
+KMP,KMP,NA,Namibia,AF
+LUD,LUD,NA,Namibia,AF
+OKU,OKU,NA,Namibia,AF
+NNI,NNI,NA,Namibia,AF
+OND,OND,NA,Namibia,AF
+OMG,OMG,NA,Namibia,AF
+OMD,OMD,NA,Namibia,AF
+OKF,OKF,NA,Namibia,AF
+NDU,NDU,NA,Namibia,AF
+SWP,SWP,NA,Namibia,AF
+TSB,TSB,NA,Namibia,AF
+WVB,WVB,NA,Namibia,AF
+ERS,ERS,NA,Namibia,AF
+WDH,WDH,NA,Namibia,AF
+FIH,FIH,CD,Congo (Democratic Republic of the),AF
+NLO,NLO,CD,Congo (Democratic Republic of the),AF
+MNB,MNB,CD,Congo (Democratic Republic of the),AF
+BOA,BOA,CD,Congo (Democratic Republic of the),AF
+LZI,LZI,CD,Congo (Democratic Republic of the),AF
+MAT,MAT,CD,Congo (Democratic Republic of the),AF
+NKL,NKL,CD,Congo (Democratic Republic of the),AF
+INO,INO,CD,Congo (Democratic Republic of the),AF
+NIO,NIO,CD,Congo (Democratic Republic of the),AF
+FDU,FDU,CD,Congo (Democratic Republic of the),AF
+KRZ,KRZ,CD,Congo (Democratic Republic of the),AF
+KKW,KKW,CD,Congo (Democratic Republic of the),AF
+IDF,IDF,CD,Congo (Democratic Republic of the),AF
+LUS,LUS,CD,Congo (Democratic Republic of the),AF
+MSM,MSM,CD,Congo (Democratic Republic of the),AF
+MDK,MDK,CD,Congo (Democratic Republic of the),AF
+BSU,BSU,CD,Congo (Democratic Republic of the),AF
+LIE,LIE,CD,Congo (Democratic Republic of the),AF
+BDT,BDT,CD,Congo (Democratic Republic of the),AF
+GMA,GMA,CD,Congo (Democratic Republic of the),AF
+KLI,KLI,CD,Congo (Democratic Republic of the),AF
+BMB,BMB,CD,Congo (Democratic Republic of the),AF
+LIQ,LIQ,CD,Congo (Democratic Republic of the),AF
+BNB,BNB,CD,Congo (Democratic Republic of the),AF
+IKL,IKL,CD,Congo (Democratic Republic of the),AF
+FKI,FKI,CD,Congo (Democratic Republic of the),AF
+YAN,YAN,CD,Congo (Democratic Republic of the),AF
+IRP,IRP,CD,Congo (Democratic Republic of the),AF
+BUX,BUX,CD,Congo (Democratic Republic of the),AF
+BZU,BZU,CD,Congo (Democratic Republic of the),AF
+BKY,BKY,CD,Congo (Democratic Republic of the),AF
+GOM,GOM,CD,Congo (Democratic Republic of the),AF
+BNC,BNC,CD,Congo (Democratic Republic of the),AF
+KND,KND,CD,Congo (Democratic Republic of the),AF
+KLY,KLY,CD,Congo (Democratic Republic of the),AF
+PUN,PUN,CD,Congo (Democratic Republic of the),AF
+FBM,FBM,CD,Congo (Democratic Republic of the),AF
+PWO,PWO,CD,Congo (Democratic Republic of the),AF
+KEC,KEC,CD,Congo (Democratic Republic of the),AF
+KWZ,KWZ,CD,Congo (Democratic Republic of the),AF
+MNO,MNO,CD,Congo (Democratic Republic of the),AF
+BDV,BDV,CD,Congo (Democratic Republic of the),AF
+FMI,FMI,CD,Congo (Democratic Republic of the),AF
+KBO,KBO,CD,Congo (Democratic Republic of the),AF
+KOO,KOO,CD,Congo (Democratic Republic of the),AF
+KMN,KMN,CD,Congo (Democratic Republic of the),AF
+KAP,KAP,CD,Congo (Democratic Republic of the),AF
+KNM,KNM,CD,Congo (Democratic Republic of the),AF
+KGA,KGA,CD,Congo (Democratic Republic of the),AF
+LZA,LZA,CD,Congo (Democratic Republic of the),AF
+TSH,TSH,CD,Congo (Democratic Republic of the),AF
+LJA,LJA,CD,Congo (Democratic Republic of the),AF
+LBO,LBO,CD,Congo (Democratic Republic of the),AF
+MEW,MEW,CD,Congo (Democratic Republic of the),AF
+BAN,BAN,CD,Congo (Democratic Republic of the),AF
+PFR,PFR,CD,Congo (Democratic Republic of the),AF
+MJM,MJM,CD,Congo (Democratic Republic of the),AF
+GDJ,GDJ,CD,Congo (Democratic Republic of the),AF
+KBN,KBN,CD,Congo (Democratic Republic of the),AF
+AKE,AKE,GA,Gabon,AF
+GAX,GAX,GA,Gabon,AF
+BKO,BKO,ML,Mali,AF
+GUD,GUD,ML,Mali,AF
+GAQ,GAQ,ML,Mali,AF
+KNZ,KNZ,ML,Mali,AF
+KTX,KTX,ML,Mali,AF
+KYS,KYS,ML,Mali,AF
+MZI,MZI,ML,Mali,AF
+NRM,NRM,ML,Mali,AF
+NIX,NIX,ML,Mali,AF
+KSS,KSS,ML,Mali,AF
+TOM,TOM,ML,Mali,AF
+EYL,EYL,ML,Mali,AF
+DOC,DOC,GB,United Kingdom of Great Britain and Northern Ireland,EU
+FLH,FLH,GB,United Kingdom of Great Britain and Northern Ireland,EU
+FOA,FOA,GB,United Kingdom of Great Britain and Northern Ireland,EU
+OUK,OUK,GB,United Kingdom of Great Britain and Northern Ireland,EU
+PSV,PSV,GB,United Kingdom of Great Britain and Northern Ireland,EU
+ULL,ULL,GB,United Kingdom of Great Britain and Northern Ireland,EU
+BJL,BJL,GM,Gambia,AF
+FUE,FUE,ES,Spain,EU
+GMZ,GMZ,ES,Spain,EU
+VDE,VDE,ES,Spain,EU
+SPC,SPC,ES,Spain,EU
+LPA,LPA,ES,Spain,EU
+ACE,ACE,ES,Spain,EU
+TFS,TFS,ES,Spain,EU
+TFN,TFN,ES,Spain,EU
+JCU,JCU,ES,Spain,EU
+MLN,MLN,ES,Spain,EU
+BTE,BTE,SL,Sierra Leone,AF
+KBS,KBS,SL,Sierra Leone,AF
+GBK,GBK,SL,Sierra Leone,AF
+HGS,HGS,SL,Sierra Leone,AF
+KBA,KBA,SL,Sierra Leone,AF
+KEN,KEN,SL,Sierra Leone,AF
+FNA,FNA,SL,Sierra Leone,AF
+WYE,WYE,SL,Sierra Leone,AF
+BQE,BQE,GW,Guinea-Bissau,AF
+OXB,OXB,GW,Guinea-Bissau,AF
+JGR,JGR,GL,Greenland,NA
+QCU,QCU,GL,Greenland,NA
+UCN,UCN,LR,Liberia,AF
+CPA,CPA,LR,Liberia,AF
+SNI,SNI,LR,Liberia,AF
+UCN,UCN,LR,Liberia,AF
+MLW,MLW,LR,Liberia,AF
+NIA,NIA,LR,Liberia,AF
+ROB,ROB,LR,Liberia,AF
+SAZ,SAZ,LR,Liberia,AF
+THC,THC,LR,Liberia,AF
+VOI,VOI,LR,Liberia,AF
+AGA,AGA,MA,Morocco,AF
+TTA,TTA,MA,Morocco,AF
+OZG,OZG,MA,Morocco,AF
+UAR,UAR,MA,Morocco,AF
+FEZ,FEZ,MA,Morocco,AF
+ERH,ERH,MA,Morocco,AF
+MEK,MEK,MA,Morocco,AF
+OUD,OUD,MA,Morocco,AF
+SMW,SMW,EH,Western Sahara,AF
+GMD,GMD,MA,Morocco,AF
+CAS,CAS,MA,Morocco,AF
+RBA,RBA,MA,Morocco,AF
+SII,SII,MA,Morocco,AF
+VIL,VIL,EH,Western Sahara,AF
+ESU,ESU,MA,Morocco,AF
+EUN,EUN,EH,Western Sahara,AF
+CMN,CMN,MA,Morocco,AF
+SFI,SFI,MA,Morocco,AF
+NDR,NDR,MA,Morocco,AF
+RAK,RAK,MA,Morocco,AF
+NNA,NNA,MA,Morocco,AF
+OZZ,OZZ,MA,Morocco,AF
+AHU,AHU,MA,Morocco,AF
+TTU,TTU,MA,Morocco,AF
+TNG,TNG,MA,Morocco,AF
+GNU,GNU,US,United States of America,NA
+KDA,KDA,SN,Senegal,AF
+ZIG,ZIG,SN,Senegal,AF
+CSK,CSK,SN,Senegal,AF
+KLC,KLC,SN,Senegal,AF
+DKR,DKR,SN,Senegal,AF
+MAX,MAX,SN,Senegal,AF
+POD,POD,SN,Senegal,AF
+RDT,RDT,SN,Senegal,AF
+XLS,XLS,SN,Senegal,AF
+BXE,BXE,SN,Senegal,AF
+KGG,KGG,SN,Senegal,AF
+SMY,SMY,SN,Senegal,AF
+TUD,TUD,SN,Senegal,AF
+AEO,AEO,MR,Mauritania,AF
+OTL,OTL,MR,Mauritania,AF
+THI,THI,MR,Mauritania,AF
+TIY,TIY,MR,Mauritania,AF
+BGH,BGH,MR,Mauritania,AF
+KFA,KFA,MR,Mauritania,AF
+TMD,TMD,MR,Mauritania,AF
+EMN,EMN,MR,Mauritania,AF
+AJJ,AJJ,MR,Mauritania,AF
+KED,KED,MR,Mauritania,AF
+MOM,MOM,MR,Mauritania,AF
+NKC,NKC,MR,Mauritania,AF
+SEY,SEY,MR,Mauritania,AF
+THT,THT,MR,Mauritania,AF
+ATR,ATR,MR,Mauritania,AF
+FGD,FGD,MR,Mauritania,AF
+NDB,NDB,MR,Mauritania,AF
+OUZ,OUZ,MR,Mauritania,AF
+JSS,JSS,GR,Greece,EU
+CIQ,CIQ,GT,Guatemala,NA
+DON,DON,GT,Guatemala,NA
+ENJ,ENJ,GT,Guatemala,NA
+PCG,PCG,GT,Guatemala,NA
+LCF,LCF,GT,Guatemala,NA
+TKM,TKM,GT,Guatemala,NA
+UAX,UAX,GT,Guatemala,NA
+PKJ,PKJ,GT,Guatemala,NA
+GTZ,GTZ,TZ,"Tanzania, United Republic of",AF
+CKY,CKY,GN,Guinea,AF
+FIG,FIG,GN,Guinea,AF
+FAA,FAA,GN,Guinea,AF
+KSI,KSI,GN,Guinea,AF
+LEK,LEK,GN,Guinea,AF
+MCA,MCA,GN,Guinea,AF
+NZE,NZE,GN,Guinea,AF
+BKJ,BKJ,GN,Guinea,AF
+SBI,SBI,GN,Guinea,AF
+GII,GII,GN,Guinea,AF
+KNN,KNN,GN,Guinea,AF
+SID,SID,CV,Cabo Verde,AF
+NTO,NTO,CV,Cabo Verde,AF
+BVC,BVC,CV,Cabo Verde,AF
+MMO,MMO,CV,Cabo Verde,AF
+MTI,MTI,CV,Cabo Verde,AF
+RAI,RAI,CV,Cabo Verde,AF
+SFL,SFL,CV,Cabo Verde,AF
+SNE,SNE,CV,Cabo Verde,AF
+VXE,VXE,CV,Cabo Verde,AF
+EDG,EDG,DE,Germany,EU
+BCG,BCG,GY,Guyana,SA
+BTO,BTO,SR,Suriname,SA
+DOE,DOE,SR,Suriname,SA
+LDO,LDO,SR,Suriname,SA
+WSO,WSO,SR,Suriname,SA
+ADD,ADD,ET,Ethiopia,AF
+AMH,AMH,ET,Ethiopia,AF
+AXU,AXU,ET,Ethiopia,AF
+BCO,BCO,ET,Ethiopia,AF
+BJR,BJR,ET,Ethiopia,AF
+BEI,BEI,ET,Ethiopia,AF
+DSE,DSE,ET,Ethiopia,AF
+DEM,DEM,ET,Ethiopia,AF
+DBM,DBM,ET,Ethiopia,AF
+DIR,DIR,ET,Ethiopia,AF
+DBT,DBT,ET,Ethiopia,AF
+FNH,FNH,ET,Ethiopia,AF
+GOB,GOB,ET,Ethiopia,AF
+GNN,GNN,ET,Ethiopia,AF
+GMB,GMB,ET,Ethiopia,AF
+GDQ,GDQ,ET,Ethiopia,AF
+GDE,GDE,ET,Ethiopia,AF
+GOR,GOR,ET,Ethiopia,AF
+QHR,QHR,ET,Ethiopia,AF
+HUE,HUE,ET,Ethiopia,AF
+JIM,JIM,ET,Ethiopia,AF
+ABK,ABK,ET,Ethiopia,AF
+LFO,LFO,ET,Ethiopia,AF
+AWA,AWA,ET,Ethiopia,AF
+LLI,LLI,ET,Ethiopia,AF
+MQX,MQX,ET,Ethiopia,AF
+NDM,NDM,ET,Ethiopia,AF
+MTF,MTF,ET,Ethiopia,AF
+NEJ,NEJ,ET,Ethiopia,AF
+NEK,NEK,ET,Ethiopia,AF
+SXU,SXU,ET,Ethiopia,AF
+ASO,ASO,ET,Ethiopia,AF
+TIE,TIE,ET,Ethiopia,AF
+WAC,WAC,ET,Ethiopia,AF
+BJM,BJM,BI,Burundi,AF
+GID,GID,BI,Burundi,AF
+ALU,ALU,SO,Somalia,AF
+BIB,BIB,SO,Somalia,AF
+CXN,CXN,SO,Somalia,AF
+HCM,HCM,SO,Somalia,AF
+BSA,BSA,SO,Somalia,AF
+GSR,GSR,SO,Somalia,AF
+HGA,HGA,SO,Somalia,AF
+BBO,BBO,SO,Somalia,AF
+KMU,KMU,SO,Somalia,AF
+MGQ,MGQ,SO,Somalia,AF
+CMO,CMO,SO,Somalia,AF
+GLK,GLK,SO,Somalia,AF
+CMS,CMS,SO,Somalia,AF
+ERA,ERA,SO,Somalia,AF
+BUO,BUO,SO,Somalia,AF
+JIB,JIB,DJ,Djibouti,AF
+AII,AII,DJ,Djibouti,AF
+MHI,MHI,DJ,Djibouti,AF
+OBC,OBC,DJ,Djibouti,AF
+TDJ,TDJ,DJ,Djibouti,AF
+SEW,SEW,EG,Egypt,AF
+DBB,DBB,EG,Egypt,AF
+AAC,AAC,EG,Egypt,AS
+ATZ,ATZ,EG,Egypt,AF
+ALY,ALY,EG,Egypt,AF
+HBE,HBE,EG,Egypt,AF
+ABS,ABS,EG,Egypt,AF
+CAI,CAI,EG,Egypt,AF
+CWE,CWE,EG,Egypt,AF
+DAK,DAK,EG,Egypt,AF
+HRG,HRG,EG,Egypt,AF
+EGH,EGH,EG,Egypt,AS
+UVL,UVL,EG,Egypt,AF
+LXR,LXR,EG,Egypt,AF
+RMF,RMF,EG,Egypt,AF
+HMB,HMB,EG,Egypt,AF
+MUH,MUH,EG,Egypt,AF
+GSQ,GSQ,EG,Egypt,AF
+PSD,PSD,EG,Egypt,AF
+SKV,SKV,EG,Egypt,AS
+SSH,SSH,EG,Egypt,AS
+ASW,ASW,EG,Egypt,AF
+TCP,TCP,EG,Egypt,AS
+ELT,ELT,EG,Egypt,AS
+HGI,HGI,SS,South Sudan,AF
+ASM,ASM,ER,Eritrea,AF
+MSW,MSW,ER,Eritrea,AF
+ASA,ASA,ER,Eritrea,AF
+TES,TES,ER,Eritrea,AF
+HIA,HIA,CN,China,AS
+HIL,HIL,ET,Ethiopia,AF
+ASV,ASV,KE,Kenya,AF
+EDL,EDL,KE,Kenya,AF
+EYS,EYS,KE,Kenya,AF
+KLK,KLK,KE,Kenya,AF
+GAS,GAS,KE,Kenya,AF
+HOA,HOA,KE,Kenya,AF
+NBO,NBO,KE,Kenya,AF
+GGM,GGM,KE,Kenya,AF
+KIS,KIS,KE,Kenya,AF
+ILU,ILU,KE,Kenya,AF
+KEY,KEY,KE,Kenya,AF
+KTL,KTL,KE,Kenya,AF
+LKG,LKG,KE,Kenya,AF
+LOK,LOK,KE,Kenya,AF
+LAU,LAU,KE,Kenya,AF
+LOY,LOY,KE,Kenya,AF
+NDE,NDE,KE,Kenya,AF
+RBT,RBT,KE,Kenya,AF
+MYD,MYD,KE,Kenya,AF
+MBA,MBA,KE,Kenya,AF
+MRE,MRE,KE,Kenya,AF
+OYL,OYL,KE,Kenya,AF
+NYE,NYE,KE,Kenya,AF
+NUU,NUU,KE,Kenya,AF
+WIL,WIL,KE,Kenya,AF
+NYK,NYK,KE,Kenya,AF
+UAS,UAS,KE,Kenya,AF
+UKA,UKA,KE,Kenya,AF
+WJR,WJR,KE,Kenya,AF
+SRX,SRX,LY,Libya,AF
+TOB,TOB,LY,Libya,AF
+GHT,GHT,LY,Libya,AF
+AKF,AKF,LY,Libya,AF
+BEN,BEN,LY,Libya,AF
+MJI,MJI,LY,Libya,AF
+LAQ,LAQ,LY,Libya,AF
+SEB,SEB,LY,Libya,AF
+TIP,TIP,LY,Libya,AF
+LMQ,LMQ,LY,Libya,AF
+HUQ,HUQ,LY,Libya,AF
+LTD,LTD,LY,Libya,AF
+WAX,WAX,LY,Libya,AF
+GYI,GYI,RW,Rwanda,AF
+BTQ,BTQ,RW,Rwanda,AF
+KGL,KGL,RW,Rwanda,AF
+RHG,RHG,RW,Rwanda,AF
+KME,KME,RW,Rwanda,AF
+ATB,ATB,SD,Sudan,AF
+EDB,EDB,SD,Sudan,AF
+DOG,DOG,SD,Sudan,AF
+ELF,ELF,SD,Sudan,AF
+GSU,GSU,SD,Sudan,AF
+DNX,DNX,SD,Sudan,AF
+EGN,EGN,SD,Sudan,AF
+KSL,KSL,SD,Sudan,AF
+GBU,GBU,SD,Sudan,AF
+KST,KST,SD,Sudan,AF
+KDX,KDX,SD,Sudan,AF
+MWE,MWE,SD,Sudan,AF
+NUD,NUD,SD,Sudan,AF
+UYL,UYL,SD,Sudan,AF
+NHF,NHF,SD,Sudan,AF
+EBD,EBD,SD,Sudan,AF
+PZU,PZU,SD,Sudan,AF
+JUB,JUB,SS,South Sudan,AF
+MAK,MAK,SS,South Sudan,AF
+KRT,KRT,SD,Sudan,AF
+WHF,WHF,SD,Sudan,AF
+WUU,WUU,SS,South Sudan,AF
+ARK,ARK,TZ,"Tanzania, United Republic of",AF
+BKZ,BKZ,TZ,"Tanzania, United Republic of",AF
+DAR,DAR,TZ,"Tanzania, United Republic of",AF
+DOD,DOD,TZ,"Tanzania, United Republic of",AF
+IRI,IRI,TZ,"Tanzania, United Republic of",AF
+TKQ,TKQ,TZ,"Tanzania, United Republic of",AF
+KIY,KIY,TZ,"Tanzania, United Republic of",AF
+JRO,JRO,TZ,"Tanzania, United Republic of",AF
+LDI,LDI,TZ,"Tanzania, United Republic of",AF
+LKY,LKY,TZ,"Tanzania, United Republic of",AF
+MFA,MFA,TZ,"Tanzania, United Republic of",AF
+MBI,MBI,TZ,"Tanzania, United Republic of",AF
+MWN,MWN,TZ,"Tanzania, United Republic of",AF
+XMI,XMI,TZ,"Tanzania, United Republic of",AF
+QSI,QSI,TZ,"Tanzania, United Republic of",AF
+MYW,MYW,TZ,"Tanzania, United Republic of",AF
+MUZ,MUZ,TZ,"Tanzania, United Republic of",AF
+MWZ,MWZ,TZ,"Tanzania, United Republic of",AF
+NCH,NCH,TZ,"Tanzania, United Republic of",AF
+JOM,JOM,TZ,"Tanzania, United Republic of",AF
+PMA,PMA,TZ,"Tanzania, United Republic of",AF
+SEU,SEU,TZ,"Tanzania, United Republic of",AF
+SGX,SGX,TZ,"Tanzania, United Republic of",AF
+SUT,SUT,TZ,"Tanzania, United Republic of",AF
+SHY,SHY,TZ,"Tanzania, United Republic of",AF
+TBO,TBO,TZ,"Tanzania, United Republic of",AF
+TGT,TGT,TZ,"Tanzania, United Republic of",AF
+ZNZ,ZNZ,TZ,"Tanzania, United Republic of",AF
+RUA,RUA,UG,Uganda,AF
+EBB,EBB,UG,Uganda,AF
+ULU,ULU,UG,Uganda,AF
+JIN,JIN,UG,Uganda,AF
+KBG,KBG,UG,Uganda,AF
+KSE,KSE,UG,Uganda,AF
+MBQ,MBQ,UG,Uganda,AF
+KCU,KCU,UG,Uganda,AF
+SRT,SRT,UG,Uganda,AF
+TRY,TRY,UG,Uganda,AF
+IBL,IBL,MZ,Mozambique,AF
+PPJ,PPJ,ID,Indonesia,AS
+AAS,AAS,ID,Indonesia,AS
+AGD,AGD,ID,Indonesia,AS
+AKQ,AKQ,ID,Indonesia,AS
+AYW,AYW,ID,Indonesia,AS
+BJG,BJG,ID,Indonesia,AS
+BXM,BXM,ID,Indonesia,AS
+DRH,DRH,ID,Indonesia,AS
+ELR,ELR,ID,Indonesia,AS
+EWE,EWE,ID,Indonesia,AS
+FOO,FOO,ID,Indonesia,AS
+GAV,GAV,ID,Indonesia,AS
+IUL,IUL,ID,Indonesia,AS
+KBF,KBF,ID,Indonesia,AS
+KBX,KBX,ID,Indonesia,AS
+KCD,KCD,ID,Indonesia,AS
+KCI,KCI,TL,Timor-Leste,AS
+KEA,KEA,ID,Indonesia,AS
+KMM,KMM,ID,Indonesia,AS
+KOD,KOD,ID,Indonesia,AS
+KRC,KRC,ID,Indonesia,AS
+KWB,KWB,ID,Indonesia,AS
+LLN,LLN,ID,Indonesia,AS
+LWE,LWE,ID,Indonesia,AS
+LYK,LYK,ID,Indonesia,AS
+MJY,MJY,ID,Indonesia,AS
+MPT,MPT,ID,Indonesia,AS
+MSI,MSI,ID,Indonesia,AS
+MUF,MUF,ID,Indonesia,AS
+NAF,NAF,ID,Indonesia,AS
+NDA,NDA,ID,Indonesia,AS
+OBD,OBD,ID,Indonesia,AS
+PPJ,PPJ,ID,Indonesia,AS
+PUM,PUM,ID,Indonesia,AS
+PWL,PWL,ID,Indonesia,AS
+RAQ,RAQ,ID,Indonesia,AS
+RKI,RKI,ID,Indonesia,AS
+RTI,RTI,ID,Indonesia,AS
+RUF,RUF,ID,Indonesia,AS
+RZS,RZS,ID,Indonesia,AS
+SAE,SAE,ID,Indonesia,AS
+TBM,TBM,ID,Indonesia,AS
+TMY,TMY,ID,Indonesia,AS
+ZEG,ZEG,ID,Indonesia,AS
+ZGP,ZGP,ID,Indonesia,AS
+IOR,IOR,IE,Ireland,EU
+CHE,CHE,IE,Ireland,EU
+VDY,VDY,IN,India,AS
+JGB,JGB,IN,India,AS
+NVY,NVY,IN,India,AS
+RJI,RJI,IN,India,AS
+TEI,TEI,IN,India,AS
+KHA,KHA,IR,Iran (Islamic Republic of),AS
+GSM,GSM,IR,Iran (Islamic Republic of),AS
+TQR,TQR,IT,Italy,EU
+JGD,JGD,CN,China,AS
+JIC,JIC,CN,China,AS
+JIQ,JIQ,CN,China,AS
+JMC,JMC,US,United States of America,NA
+JRA,JRA,US,United States of America,NA
+AMK,AMK,US,United States of America,NA
+RLA,RLA,US,United States of America,NA
+FID,FID,US,United States of America,NA
+AHD,AHD,US,United States of America,NA
+GCW,GCW,US,United States of America,NA
+RKC,RKC,US,United States of America,NA
+GNF,GNF,US,United States of America,NA
+AHF,AHF,US,United States of America,NA
+GTP,GTP,US,United States of America,NA
+GCD,GCD,US,United States of America,NA
+FPY,FPY,US,United States of America,NA
+FHB,FHB,US,United States of America,NA
+BLD,BLD,US,United States of America,NA
+AAF,AAF,US,United States of America,NA
+ABE,ABE,US,United States of America,NA
+ABI,ABI,US,United States of America,NA
+ABQ,ABQ,US,United States of America,NA
+ABR,ABR,US,United States of America,NA
+ABY,ABY,US,United States of America,NA
+ACB,ACB,US,United States of America,NA
+ACK,ACK,US,United States of America,NA
+ACT,ACT,US,United States of America,NA
+ACV,ACV,US,United States of America,NA
+ACY,ACY,US,United States of America,NA
+ADG,ADG,US,United States of America,NA
+ADT,ADT,US,United States of America,NA
+ADM,ADM,US,United States of America,NA
+ADS,ADS,US,United States of America,NA
+ADW,ADW,US,United States of America,NA
+KAE,KAE,US,United States of America,NA
+AEL,AEL,US,United States of America,NA
+AEX,AEX,US,United States of America,NA
+AFF,AFF,US,United States of America,NA
+WSG,WSG,US,United States of America,NA
+AFN,AFN,US,United States of America,NA
+AFO,AFO,US,United States of America,NA
+AFW,AFW,US,United States of America,NA
+AGC,AGC,US,United States of America,NA
+AGO,AGO,US,United States of America,NA
+AGS,AGS,US,United States of America,NA
+AHC,AHC,US,United States of America,NA
+AHH,AHH,US,United States of America,NA
+AHN,AHN,US,United States of America,NA
+AIA,AIA,US,United States of America,NA
+AID,AID,US,United States of America,NA
+AIK,AIK,US,United States of America,NA
+AIO,AIO,US,United States of America,NA
+AIV,AIV,US,United States of America,NA
+AIY,AIY,US,United States of America,NA
+AIZ,AIZ,US,United States of America,NA
+AKO,AKO,US,United States of America,NA
+AKC,AKC,US,United States of America,NA
+ALB,ALB,US,United States of America,NA
+ALI,ALI,US,United States of America,NA
+ALM,ALM,US,United States of America,NA
+ALN,ALN,US,United States of America,NA
+ALO,ALO,US,United States of America,NA
+ALS,ALS,US,United States of America,NA
+ALW,ALW,US,United States of America,NA
+ALX,ALX,US,United States of America,NA
+AMA,AMA,US,United States of America,NA
+AMN,AMN,US,United States of America,NA
+AMW,AMW,US,United States of America,NA
+ANB,ANB,US,United States of America,NA
+AND,AND,US,United States of America,NA
+ANP,ANP,US,United States of America,NA
+ANQ,ANQ,US,United States of America,NA
+ANW,ANW,US,United States of America,NA
+ANY,ANY,US,United States of America,NA
+AOH,AOH,US,United States of America,NA
+AOO,AOO,US,United States of America,NA
+APA,APA,US,United States of America,NA
+APC,APC,US,United States of America,NA
+APF,APF,US,United States of America,NA
+APG,APG,US,United States of America,NA
+APH,APH,US,United States of America,NA
+APN,APN,US,United States of America,NA
+APT,APT,US,United States of America,NA
+APV,APV,US,United States of America,NA
+ARA,ARA,US,United States of America,NA
+ARB,ARB,US,United States of America,NA
+ARG,ARG,US,United States of America,NA
+ART,ART,US,United States of America,NA
+ATL,ATL,US,United States of America,NA
+ATW,ATW,US,United States of America,NA
+ATY,ATY,US,United States of America,NA
+AUG,AUG,US,United States of America,NA
+AUS,AUS,US,United States of America,NA
+AVL,AVL,US,United States of America,NA
+AVO,AVO,US,United States of America,NA
+AVP,AVP,US,United States of America,NA
+AWM,AWM,US,United States of America,NA
+AXN,AXN,US,United States of America,NA
+AXS,AXS,US,United States of America,NA
+AXV,AXV,US,United States of America,NA
+AXX,AXX,US,United States of America,NA
+AYE,AYE,US,United States of America,NA
+AYS,AYS,US,United States of America,NA
+AZO,AZO,US,United States of America,NA
+BAB,BAB,US,United States of America,NA
+BAD,BAD,US,United States of America,NA
+BAF,BAF,US,United States of America,NA
+BDL,BDL,US,United States of America,NA
+BDR,BDR,US,United States of America,NA
+BED,BED,US,United States of America,NA
+BFD,BFD,US,United States of America,NA
+BFF,BFF,US,United States of America,NA
+BFI,BFI,US,United States of America,NA
+BFL,BFL,US,United States of America,NA
+BGM,BGM,US,United States of America,NA
+BGR,BGR,US,United States of America,NA
+BHB,BHB,US,United States of America,NA
+BHM,BHM,US,United States of America,NA
+BIL,BIL,US,United States of America,NA
+BIS,BIS,US,United States of America,NA
+BKL,BKL,US,United States of America,NA
+BKW,BKW,US,United States of America,NA
+BKX,BKX,US,United States of America,NA
+BLF,BLF,US,United States of America,NA
+BLI,BLI,US,United States of America,NA
+BMG,BMG,US,United States of America,NA
+BMI,BMI,US,United States of America,NA
+BMT,BMT,US,United States of America,NA
+BNA,BNA,US,United States of America,NA
+BOI,BOI,US,United States of America,NA
+BOS,BOS,US,United States of America,NA
+BPT,BPT,US,United States of America,NA
+BQK,BQK,US,United States of America,NA
+BRL,BRL,US,United States of America,NA
+BRO,BRO,US,United States of America,NA
+BTM,BTM,US,United States of America,NA
+BTR,BTR,US,United States of America,NA
+BTV,BTV,US,United States of America,NA
+BTY,BTY,US,United States of America,NA
+BUB,BUB,US,United States of America,NA
+BUF,BUF,US,United States of America,NA
+BUM,BUM,US,United States of America,NA
+BUR,BUR,US,United States of America,NA
+BVO,BVO,US,United States of America,NA
+BVX,BVX,US,United States of America,NA
+BVY,BVY,US,United States of America,NA
+BWC,BWC,US,United States of America,NA
+BWD,BWD,US,United States of America,NA
+BWG,BWG,US,United States of America,NA
+BWI,BWI,US,United States of America,NA
+BXA,BXA,US,United States of America,NA
+BXK,BXK,US,United States of America,NA
+BYS,BYS,US,United States of America,NA
+BZN,BZN,US,United States of America,NA
+CLG,CLG,US,United States of America,NA
+CAE,CAE,US,United States of America,NA
+CAK,CAK,US,United States of America,NA
+CDC,CDC,US,United States of America,NA
+CEC,CEC,US,United States of America,NA
+CEF,CEF,US,United States of America,NA
+CGI,CGI,US,United States of America,NA
+CGX,CGX,US,United States of America,NA
+CHA,CHA,US,United States of America,NA
+CHO,CHO,US,United States of America,NA
+CHS,CHS,US,United States of America,NA
+CID,CID,US,United States of America,NA
+CIU,CIU,US,United States of America,NA
+CKB,CKB,US,United States of America,NA
+KCL,KCL,US,United States of America,NA
+CLE,CLE,US,United States of America,NA
+CLL,CLL,US,United States of America,NA
+CLM,CLM,US,United States of America,NA
+CLT,CLT,US,United States of America,NA
+CMH,CMH,US,United States of America,NA
+CMI,CMI,US,United States of America,NA
+CMX,CMX,US,United States of America,NA
+CNM,CNM,US,United States of America,NA
+COS,COS,US,United States of America,NA
+COU,COU,US,United States of America,NA
+CPR,CPR,US,United States of America,NA
+CRO,CRO,US,United States of America,NA
+CRP,CRP,US,United States of America,NA
+CRW,CRW,US,United States of America,NA
+CSG,CSG,US,United States of America,NA
+CVG,CVG,US,United States of America,NA
+KIP,KIP,US,United States of America,NA
+CWF,CWF,US,United States of America,NA
+CYS,CYS,US,United States of America,NA
+DAB,DAB,US,United States of America,NA
+DAL,DAL,US,United States of America,NA
+DAN,DAN,US,United States of America,NA
+DAY,DAY,US,United States of America,NA
+DBQ,DBQ,US,United States of America,NA
+DCA,DCA,US,United States of America,NA
+DDC,DDC,US,United States of America,NA
+DEC,DEC,US,United States of America,NA
+DEN,DEN,US,United States of America,NA
+DET,DET,US,United States of America,NA
+DFW,DFW,US,United States of America,NA
+DHN,DHN,US,United States of America,NA
+DLH,DLH,US,United States of America,NA
+DNL,DNL,US,United States of America,NA
+DSM,DSM,US,United States of America,NA
+DTW,DTW,US,United States of America,NA
+DUJ,DUJ,US,United States of America,NA
+JJM,JJM,KE,Kenya,AF
+VPG,VPG,KE,Kenya,AF
+KRV,KRV,KE,Kenya,AF
+KIU,KIU,KE,Kenya,AF
+LBK,LBK,KE,Kenya,AF
+LBN,LBN,KE,Kenya,AF
+LKU,LKU,KE,Kenya,AF
+MRE,MRE,KE,Kenya,AF
+MUM,MUM,KE,Kenya,AF
+ALE,ALE,US,United States of America,NA
+BGT,BGT,US,United States of America,NA
+EAR,EAR,US,United States of America,NA
+EAU,EAU,US,United States of America,NA
+ECP,ECP,US,United States of America,NA
+EEN,EEN,US,United States of America,NA
+EGE,EGE,US,United States of America,NA
+KEK,KEK,US,United States of America,NA
+EKO,EKO,US,United States of America,NA
+ELD,ELD,US,United States of America,NA
+ELM,ELM,US,United States of America,NA
+ELP,ELP,US,United States of America,NA
+ERI,ERI,US,United States of America,NA
+EUG,EUG,US,United States of America,NA
+EVV,EVV,US,United States of America,NA
+EWB,EWB,US,United States of America,NA
+EWN,EWN,US,United States of America,NA
+EWR,EWR,US,United States of America,NA
+EYW,EYW,US,United States of America,NA
+FAR,FAR,US,United States of America,NA
+FAT,FAT,US,United States of America,NA
+FAY,FAY,US,United States of America,NA
+FBG,FBG,US,United States of America,NA
+FCS,FCS,US,United States of America,NA
+KFE,KFE,AU,Australia,OC
+FRD,FRD,US,United States of America,NA
+FHU,FHU,US,United States of America,NA
+FLG,FLG,US,United States of America,NA
+FLL,FLL,US,United States of America,NA
+FLO,FLO,US,United States of America,NA
+FLU,FLU,US,United States of America,NA
+FNT,FNT,US,United States of America,NA
+FOD,FOD,US,United States of America,NA
+FOE,FOE,US,United States of America,NA
+FIL,FIL,US,United States of America,NA
+FPR,FPR,US,United States of America,NA
+FRH,FRH,US,United States of America,NA
+FRI,FRI,US,United States of America,NA
+FRM,FRM,US,United States of America,NA
+FSD,FSD,US,United States of America,NA
+FSM,FSM,US,United States of America,NA
+FMS,FMS,US,United States of America,NA
+FTW,FTW,US,United States of America,NA
+FWA,FWA,US,United States of America,NA
+FYV,FYV,US,United States of America,NA
+GCK,GCK,US,United States of America,NA
+GCN,GCN,US,United States of America,NA
+GEG,GEG,US,United States of America,NA
+GFK,GFK,US,United States of America,NA
+GGG,GGG,US,United States of America,NA
+GGW,GGW,US,United States of America,NA
+GJT,GJT,US,United States of America,NA
+GLH,GLH,US,United States of America,NA
+GLS,GLS,US,United States of America,NA
+GNV,GNV,US,United States of America,NA
+GON,GON,US,United States of America,NA
+FCA,FCA,US,United States of America,NA
+GPT,GPT,US,United States of America,NA
+GRB,GRB,US,United States of America,NA
+GRI,GRI,US,United States of America,NA
+GRK,GRK,US,United States of America,NA
+GRR,GRR,US,United States of America,NA
+GSO,GSO,US,United States of America,NA
+GSP,GSP,US,United States of America,NA
+GTF,GTF,US,United States of America,NA
+GUP,GUP,US,United States of America,NA
+GVT,GVT,US,United States of America,NA
+GVW,GVW,US,United States of America,NA
+GYY,GYY,US,United States of America,NA
+HGR,HGR,US,United States of America,NA
+HIB,HIB,US,United States of America,NA
+HKY,HKY,US,United States of America,NA
+HLN,HLN,US,United States of America,NA
+HON,HON,US,United States of America,NA
+HOT,HOT,US,United States of America,NA
+HOU,HOU,US,United States of America,NA
+HPN,HPN,US,United States of America,NA
+HRL,HRL,US,United States of America,NA
+HRO,HRO,US,United States of America,NA
+HNC,HNC,US,United States of America,NA
+HSV,HSV,US,United States of America,NA
+HTS,HTS,US,United States of America,NA
+HUF,HUF,US,United States of America,NA
+HVN,HVN,US,United States of America,NA
+HYA,HYA,US,United States of America,NA
+IAB,IAB,US,United States of America,NA
+IAD,IAD,US,United States of America,NA
+IAG,IAG,US,United States of America,NA
+IAH,IAH,US,United States of America,NA
+ICT,ICT,US,United States of America,NA
+IDA,IDA,US,United States of America,NA
+IFP,IFP,US,United States of America,NA
+IGM,IGM,US,United States of America,NA
+ILG,ILG,US,United States of America,NA
+ILM,ILM,US,United States of America,NA
+IND,IND,US,United States of America,NA
+INL,INL,US,United States of America,NA
+INT,INT,US,United States of America,NA
+IPT,IPT,US,United States of America,NA
+IRK,IRK,US,United States of America,NA
+ISP,ISP,US,United States of America,NA
+ITH,ITH,US,United States of America,NA
+AZA,AZA,US,United States of America,NA
+JAC,JAC,US,United States of America,NA
+JAN,JAN,US,United States of America,NA
+JAX,JAX,US,United States of America,NA
+JBR,JBR,US,United States of America,NA
+JFK,JFK,US,United States of America,NA
+JLN,JLN,US,United States of America,NA
+JMS,JMS,US,United States of America,NA
+JST,JST,US,United States of America,NA
+LAF,LAF,US,United States of America,NA
+LAN,LAN,US,United States of America,NA
+LAR,LAR,US,United States of America,NA
+LAS,LAS,US,United States of America,NA
+LAX,LAX,US,United States of America,NA
+LBB,LBB,US,United States of America,NA
+LBE,LBE,US,United States of America,NA
+LBF,LBF,US,United States of America,NA
+LBL,LBL,US,United States of America,NA
+LCH,LCH,US,United States of America,NA
+LEB,LEB,US,United States of America,NA
+LEX,LEX,US,United States of America,NA
+LFT,LFT,US,United States of America,NA
+LGA,LGA,US,United States of America,NA
+LGB,LGB,US,United States of America,NA
+LHC,LHC,US,United States of America,NA
+LIT,LIT,US,United States of America,NA
+LMT,LMT,US,United States of America,NA
+LNK,LNK,US,United States of America,NA
+LNS,LNS,US,United States of America,NA
+LRD,LRD,US,United States of America,NA
+LRU,LRU,US,United States of America,NA
+LSE,LSE,US,United States of America,NA
+LUK,LUK,US,United States of America,NA
+LWS,LWS,US,United States of America,NA
+LWT,LWT,US,United States of America,NA
+LYH,LYH,US,United States of America,NA
+MAF,MAF,US,United States of America,NA
+MBS,MBS,US,United States of America,NA
+MCE,MCE,US,United States of America,NA
+MCI,MCI,US,United States of America,NA
+MCN,MCN,US,United States of America,NA
+MCO,MCO,US,United States of America,NA
+MDH,MDH,US,United States of America,NA
+MDT,MDT,US,United States of America,NA
+MDW,MDW,US,United States of America,NA
+MEI,MEI,US,United States of America,NA
+MEM,MEM,US,United States of America,NA
+MFE,MFE,US,United States of America,NA
+MFR,MFR,US,United States of America,NA
+MGM,MGM,US,United States of America,NA
+MGW,MGW,US,United States of America,NA
+MHK,MHK,US,United States of America,NA
+MHT,MHT,US,United States of America,NA
+MIA,MIA,US,United States of America,NA
+MIE,MIE,US,United States of America,NA
+MKC,MKC,US,United States of America,NA
+MKE,MKE,US,United States of America,NA
+MKG,MKG,US,United States of America,NA
+MKL,MKL,US,United States of America,NA
+MLB,MLB,US,United States of America,NA
+MLI,MLI,US,United States of America,NA
+MLS,MLS,US,United States of America,NA
+MLU,MLU,US,United States of America,NA
+KMM,KMM,ID,Indonesia,AS
+MMU,MMU,US,United States of America,NA
+MOB,MOB,US,United States of America,NA
+MOD,MOD,US,United States of America,NA
+MOT,MOT,US,United States of America,NA
+MRY,MRY,US,United States of America,NA
+MSL,MSL,US,United States of America,NA
+MSN,MSN,US,United States of America,NA
+MSO,MSO,US,United States of America,NA
+MSP,MSP,US,United States of America,NA
+MSS,MSS,US,United States of America,NA
+MSY,MSY,US,United States of America,NA
+MVY,MVY,US,United States of America,NA
+MYR,MYR,US,United States of America,NA
+NEL,NEL,US,United States of America,NA
+NGZ,NGZ,US,United States of America,NA
+NOP,NOP,US,United States of America,NA
+YUM,YUM,US,United States of America,NA
+NVN,NVN,US,United States of America,NA
+ODC,ODC,US,United States of America,NA
+OAK,OAK,US,United States of America,NA
+OAR,OAR,US,United States of America,NA
+OKC,OKC,US,United States of America,NA
+OLD,OLD,US,United States of America,NA
+OLM,OLM,US,United States of America,NA
+OMA,OMA,US,United States of America,NA
+ONT,ONT,US,United States of America,NA
+ORD,ORD,US,United States of America,NA
+ORF,ORF,US,United States of America,NA
+ORH,ORH,US,United States of America,NA
+OSH,OSH,US,United States of America,NA
+OTH,OTH,US,United States of America,NA
+OTM,OTM,US,United States of America,NA
+OWB,OWB,US,United States of America,NA
+DSO,DSO,KP,Korea (Democratic People's Republic of),AS
+HBK,HBK,US,United States of America,NA
+CWX,CWX,US,United States of America,NA
+PAE,PAE,US,United States of America,NA
+PAH,PAH,US,United States of America,NA
+PBG,PBG,US,United States of America,NA
+PBI,PBI,US,United States of America,NA
+PCA,PCA,US,United States of America,NA
+PDK,PDK,US,United States of America,NA
+PDX,PDX,US,United States of America,NA
+PFN,PFN,US,United States of America,NA
+PHF,PHF,US,United States of America,NA
+ADR,ADR,US,United States of America,NA
+PHL,PHL,US,United States of America,NA
+PHX,PHX,US,United States of America,NA
+PIA,PIA,US,United States of America,NA
+PIB,PIB,US,United States of America,NA
+PIE,PIE,US,United States of America,NA
+PIH,PIH,US,United States of America,NA
+PIR,PIR,US,United States of America,NA
+PIT,PIT,US,United States of America,NA
+PKB,PKB,US,United States of America,NA
+PLB,PLB,US,United States of America,NA
+PLN,PLN,US,United States of America,NA
+PMD,PMD,US,United States of America,NA
+PNS,PNS,US,United States of America,NA
+POU,POU,US,United States of America,NA
+PQI,PQI,US,United States of America,NA
+PRC,PRC,US,United States of America,NA
+PSC,PSC,US,United States of America,NA
+PSM,PSM,US,United States of America,NA
+PSP,PSP,US,United States of America,NA
+PUB,PUB,US,United States of America,NA
+PUW,PUW,US,United States of America,NA
+PVD,PVD,US,United States of America,NA
+PWM,PWM,US,United States of America,NA
+PWT,PWT,US,United States of America,NA
+KQA,KQA,US,United States of America,NA
+RAP,RAP,US,United States of America,NA
+RDD,RDD,US,United States of America,NA
+RDG,RDG,US,United States of America,NA
+RDM,RDM,US,United States of America,NA
+RDU,RDU,US,United States of America,NA
+RFD,RFD,US,United States of America,NA
+RHI,RHI,US,United States of America,NA
+RIC,RIC,US,United States of America,NA
+KRJ,KRJ,PG,Papua New Guinea,OC
+RKS,RKS,US,United States of America,NA
+RNO,RNO,US,United States of America,NA
+ROA,ROA,US,United States of America,NA
+ROC,ROC,US,United States of America,NA
+ROW,ROW,US,United States of America,NA
+RQO,RQO,US,United States of America,NA
+RST,RST,US,United States of America,NA
+RSW,RSW,US,United States of America,NA
+RUT,RUT,US,United States of America,NA
+RWI,RWI,US,United States of America,NA
+AHM,AHM,US,United States of America,NA
+SUO,SUO,US,United States of America,NA
+IDH,IDH,US,United States of America,NA
+VSK,VSK,US,United States of America,NA
+SAN,SAN,US,United States of America,NA
+SAT,SAT,US,United States of America,NA
+SAV,SAV,US,United States of America,NA
+SBA,SBA,US,United States of America,NA
+SBN,SBN,US,United States of America,NA
+SBP,SBP,US,United States of America,NA
+SBY,SBY,US,United States of America,NA
+SDF,SDF,US,United States of America,NA
+SEA,SEA,US,United States of America,NA
+SFB,SFB,US,United States of America,NA
+SFO,SFO,US,United States of America,NA
+SGF,SGF,US,United States of America,NA
+SHD,SHD,US,United States of America,NA
+SHR,SHR,US,United States of America,NA
+SHV,SHV,US,United States of America,NA
+SJC,SJC,US,United States of America,NA
+SJT,SJT,US,United States of America,NA
+SLC,SLC,US,United States of America,NA
+SLK,SLK,US,United States of America,NA
+SLN,SLN,US,United States of America,NA
+SMF,SMF,US,United States of America,NA
+SMX,SMX,US,United States of America,NA
+SNA,SNA,US,United States of America,NA
+SPI,SPI,US,United States of America,NA
+SPS,SPS,US,United States of America,NA
+SRQ,SRQ,US,United States of America,NA
+STC,STC,US,United States of America,NA
+STL,STL,US,United States of America,NA
+STP,STP,US,United States of America,NA
+SUN,SUN,US,United States of America,NA
+SUX,SUX,US,United States of America,NA
+SVC,SVC,US,United States of America,NA
+SWF,SWF,US,United States of America,NA
+SYR,SYR,US,United States of America,NA
+TBN,TBN,US,United States of America,NA
+TCL,TCL,US,United States of America,NA
+TLH,TLH,US,United States of America,NA
+OTK,OTK,US,United States of America,NA
+TOL,TOL,US,United States of America,NA
+TPA,TPA,US,United States of America,NA
+TPL,TPL,US,United States of America,NA
+TRI,TRI,US,United States of America,NA
+TTN,TTN,US,United States of America,NA
+TUL,TUL,US,United States of America,NA
+TUP,TUP,US,United States of America,NA
+TUS,TUS,US,United States of America,NA
+TVC,TVC,US,United States of America,NA
+TVL,TVL,US,United States of America,NA
+TWF,TWF,US,United States of America,NA
+TXK,TXK,US,United States of America,NA
+TYR,TYR,US,United States of America,NA
+TYS,TYS,US,United States of America,NA
+ICS,ICS,US,United States of America,NA
+UCA,UCA,US,United States of America,NA
+UIN,UIN,US,United States of America,NA
+UIZ,UIZ,US,United States of America,NA
+SCE,SCE,US,United States of America,NA
+VCT,VCT,US,United States of America,NA
+VLD,VLD,US,United States of America,NA
+VPS,VPS,US,United States of America,NA
+VRB,VRB,US,United States of America,NA
+WRI,WRI,US,United States of America,NA
+WRL,WRL,US,United States of America,NA
+KWY,KWY,KE,Kenya,AF
+YIP,YIP,US,United States of America,NA
+YKM,YKM,US,United States of America,NA
+YNG,YNG,US,United States of America,NA
+DZN,DZN,KZ,Kazakhstan,AS
+TDK,TDK,KZ,Kazakhstan,AS
+ATX,ATX,KZ,Kazakhstan,AS
+AVX,AVX,US,United States of America,NA
+LAC,LAC,CN,China,AS
+TIA,TIA,AL,Albania,EU
+BOJ,BOJ,BG,Bulgaria,EU
+GOZ,GOZ,BG,Bulgaria,EU
+PDV,PDV,BG,Bulgaria,EU
+PVN,PVN,BG,Bulgaria,EU
+SOF,SOF,BG,Bulgaria,EU
+SLS,SLS,BG,Bulgaria,EU
+SZR,SZR,BG,Bulgaria,EU
+VID,VID,BG,Bulgaria,EU
+VAR,VAR,BG,Bulgaria,EU
+ECN,ECN,CY,Cyprus,AS
+LCA,LCA,CY,Cyprus,AS
+LCP,LCP,AR,Argentina,SA
+PFO,PFO,CY,Cyprus,AS
+AKT,AKT,CY,Cyprus,AS
+DBV,DBV,HR,Croatia,EU
+LSZ,LSZ,HR,Croatia,EU
+OSI,OSI,HR,Croatia,EU
+PUY,PUY,HR,Croatia,EU
+RJK,RJK,HR,Croatia,EU
+BWK,BWK,HR,Croatia,EU
+SPU,SPU,HR,Croatia,EU
+ZAG,ZAG,HR,Croatia,EU
+ZAD,ZAD,HR,Croatia,EU
+ABC,ABC,ES,Spain,EU
+ALC,ALC,ES,Spain,EU
+LEI,LEI,ES,Spain,EU
+OVD,OVD,ES,Spain,EU
+ODB,ODB,ES,Spain,EU
+BIO,BIO,ES,Spain,EU
+RGS,RGS,ES,Spain,EU
+BCN,BCN,ES,Spain,EU
+BJZ,BJZ,ES,Spain,EU
+CDT,CDT,ES,Spain,EU
+LCG,LCG,ES,Spain,EU
+GRO,GRO,ES,Spain,EU
+GRX,GRX,ES,Spain,EU
+CCX,CCX,ES,Spain,EU
+IBZ,IBZ,ES,Spain,EU
+XRY,XRY,ES,Spain,EU
+MJV,MJV,ES,Spain,EU
+QSA,QSA,ES,Spain,EU
+LEN,LEN,ES,Spain,EU
+RJL,RJL,ES,Spain,EU
+MAD,MAD,ES,Spain,EU
+HEV,HEV,ES,Spain,EU
+AGP,AGP,ES,Spain,EU
+MAH,MAH,ES,Spain,EU
+OZP,OZP,ES,Spain,EU
+PMI,PMI,ES,Spain,EU
+PNA,PNA,ES,Spain,EU
+CQM,CQM,ES,Spain,EU
+REU,REU,ES,Spain,EU
+SLM,SLM,ES,Spain,EU
+EAS,EAS,ES,Spain,EU
+SCQ,SCQ,ES,Spain,EU
+LEU,LEU,ES,Spain,EU
+TOJ,TOJ,ES,Spain,EU
+VLC,VLC,ES,Spain,EU
+VLL,VLL,ES,Spain,EU
+VIT,VIT,ES,Spain,EU
+VGO,VGO,ES,Spain,EU
+SDR,SDR,ES,Spain,EU
+ZAZ,ZAZ,ES,Spain,EU
+SVQ,SVQ,ES,Spain,EU
+DPE,DPE,FR,France,EU
+CQF,CQF,FR,France,EU
+XCP,XCP,FR,France,EU
+XLN,XLN,FR,France,EU
+XSJ,XSJ,FR,France,EU
+XDK,XDK,FR,France,EU
+BYF,BYF,FR,France,EU
+LTQ,LTQ,FR,France,EU
+XVS,XVS,FR,France,EU
+QAM,QAM,FR,France,EU
+AGF,AGF,FR,France,EU
+BOD,BOD,FR,France,EU
+EGC,EGC,FR,France,EU
+CNG,CNG,FR,France,EU
+LRH,LRH,FR,France,EU
+PIS,PIS,FR,France,EU
+MCU,MCU,FR,France,EU
+LIG,LIG,FR,France,EU
+XMJ,XMJ,FR,France,EU
+NIT,NIT,FR,France,EU
+TLS,TLS,FR,France,EU
+PUF,PUF,FR,France,EU
+LDE,LDE,FR,France,EU
+ANG,ANG,FR,France,EU
+BVE,BVE,FR,France,EU
+PGX,PGX,FR,France,EU
+XDA,XDA,FR,France,EU
+BIQ,BIQ,FR,France,EU
+XCX,XCX,FR,France,EU
+ZAO,ZAO,FR,France,EU
+XGT,XGT,FR,France,EU
+XAC,XAC,FR,France,EU
+LBI,LBI,FR,France,EU
+DCM,DCM,FR,France,EU
+RDZ,RDZ,FR,France,EU
+RYN,RYN,FR,France,EU
+XMW,XMW,FR,France,EU
+XLR,XLR,FR,France,EU
+RCO,RCO,FR,France,EU
+XSL,XSL,FR,France,EU
+XTB,XTB,FR,France,EU
+IDY,IDY,FR,France,EU
+CMR,CMR,FR,France,EU
+XBV,XBV,FR,France,EU
+DLE,DLE,FR,France,EU
+XVN,XVN,FR,France,EU
+MVV,MVV,FR,France,EU
+OBS,OBS,FR,France,EU
+LPY,LPY,FR,France,EU
+AHZ,AHZ,FR,France,EU
+ETZ,ETZ,FR,France,EU
+ANE,ANE,FR,France,EU
+BIA,BIA,FR,France,EU
+CLY,CLY,FR,France,EU
+FSC,FSC,FR,France,EU
+AJA,AJA,FR,France,EU
+PRP,PRP,FR,France,EU
+SOZ,SOZ,FR,France,EU
+MFX,MFX,FR,France,EU
+AUF,AUF,FR,France,EU
+CMF,CMF,FR,France,EU
+CFE,CFE,FR,France,EU
+BOU,BOU,FR,France,EU
+QNJ,QNJ,FR,France,EU
+CVF,CVF,FR,France,EU
+LYS,LYS,FR,France,EU
+QNX,QNX,FR,France,EU
+SYT,SYT,FR,France,EU
+RNE,RNE,FR,France,EU
+NCY,NCY,FR,France,EU
+XMK,XMK,FR,France,EU
+GNB,GNB,FR,France,EU
+MCU,MCU,FR,France,EU
+VAF,VAF,FR,France,EU
+VHY,VHY,FR,France,EU
+AUR,AUR,FR,France,EU
+CHR,CHR,FR,France,EU
+LYN,LYN,FR,France,EU
+CEQ,CEQ,FR,France,EU
+EBU,EBU,FR,France,EU
+QIE,QIE,FR,France,EU
+CCF,CCF,FR,France,EU
+MRS,MRS,FR,France,EU
+NCE,NCE,FR,France,EU
+XOG,XOG,FR,France,EU
+PGF,PGF,FR,France,EU
+CTT,CTT,FR,France,EU
+BAE,BAE,FR,France,EU
+XAS,XAS,FR,France,EU
+MPL,MPL,FR,France,EU
+BZR,BZR,FR,France,EU
+AVN,AVN,FR,France,EU
+GAT,GAT,FR,France,EU
+MEN,MEN,FR,France,EU
+SCP,SCP,FR,France,EU
+BVA,BVA,FR,France,EU
+XSU,XSU,FR,France,EU
+EVX,EVX,FR,France,EU
+XAN,XAN,FR,France,EU
+LEH,LEH,FR,France,EU
+XAB,XAB,FR,France,EU
+ORE,ORE,FR,France,EU
+XCR,XCR,FR,France,EU
+LSO,LSO,FR,France,EU
+URO,URO,FR,France,EU
+XBQ,XBQ,FR,France,EU
+QTJ,QTJ,FR,France,EU
+TUF,TUF,FR,France,EU
+CET,CET,FR,France,EU
+LVA,LVA,FR,France,EU
+LBG,LBG,FR,France,EU
+CSF,CSF,FR,France,EU
+CDG,CDG,FR,France,EU
+JDP,JDP,FR,France,EU
+TNF,TNF,FR,France,EU
+ORY,ORY,FR,France,EU
+POX,POX,FR,France,EU
+VIY,VIY,FR,France,EU
+QYR,QYR,FR,France,EU
+NVS,NVS,FR,France,EU
+XCB,XCB,FR,France,EU
+XME,XME,FR,France,EU
+LIL,LIL,FR,France,EU
+HZB,HZB,FR,France,EU
+XCZ,XCZ,FR,France,EU
+XVO,XVO,FR,France,EU
+BES,BES,FR,France,EU
+CER,CER,FR,France,EU
+DNR,DNR,FR,France,EU
+LBY,LBY,FR,France,EU
+GFR,GFR,FR,France,EU
+DOL,DOL,FR,France,EU
+LRT,LRT,FR,France,EU
+EDM,EDM,FR,France,EU
+LDV,LDV,FR,France,EU
+CFR,CFR,FR,France,EU
+LME,LME,FR,France,EU
+RNS,RNS,FR,France,EU
+LAI,LAI,FR,France,EU
+UIP,UIP,FR,France,EU
+NTE,NTE,FR,France,EU
+SBK,SBK,FR,France,EU
+MXN,MXN,FR,France,EU
+VNE,VNE,FR,France,EU
+SNR,SNR,FR,France,EU
+QBQ,QBQ,FR,France,EU
+BSL,BSL,FR,France,EU
+DIJ,DIJ,FR,France,EU
+MZM,MZM,FR,France,EU
+EPL,EPL,FR,France,EU
+XMF,XMF,FR,France,EU
+ENC,ENC,FR,France,EU
+BOR,BOR,FR,France,EU
+RHE,RHE,FR,France,EU
+SXB,SXB,FR,France,EU
+VTL,VTL,FR,France,EU
+XHE,XHE,FR,France,EU
+FNI,FNI,FR,France,EU
+LTT,LTT,FR,France,EU
+MQC,MQC,PM,Saint Pierre and Miquelon,NA
+FSP,FSP,PM,Saint Pierre and Miquelon,NA
+PYR,PYR,GR,Greece,EU
+AGQ,AGQ,GR,Greece,EU
+AXD,AXD,GR,Greece,EU
+HEW,HEW,GR,Greece,EU
+ATH,ATH,GR,Greece,EU
+VOL,VOL,GR,Greece,EU
+JKH,JKH,GR,Greece,EU
+PKH,PKH,GR,Greece,EU
+JIK,JIK,GR,Greece,EU
+IOA,IOA,GR,Greece,EU
+HER,HER,GR,Greece,EU
+KSO,KSO,GR,Greece,EU
+KIT,KIT,GR,Greece,EU
+EFL,EFL,GR,Greece,EU
+KZS,KZS,GR,Greece,EU
+KLX,KLX,GR,Greece,EU
+KGS,KGS,GR,Greece,EU
+AOK,AOK,GR,Greece,EU
+CFU,CFU,GR,Greece,EU
+KSJ,KSJ,GR,Greece,EU
+KVA,KVA,GR,Greece,EU
+KZI,KZI,GR,Greece,EU
+LRS,LRS,GR,Greece,EU
+LXS,LXS,GR,Greece,EU
+LRA,LRA,GR,Greece,EU
+JMK,JMK,GR,Greece,EU
+MLO,MLO,GR,Greece,EU
+MJT,MJT,GR,Greece,EU
+JNX,JNX,GR,Greece,EU
+PAS,PAS,GR,Greece,EU
+JTY,JTY,GR,Greece,EU
+PVK,PVK,GR,Greece,EU
+RHO,RHO,GR,Greece,EU
+GPA,GPA,GR,Greece,EU
+CHQ,CHQ,GR,Greece,EU
+JSI,JSI,GR,Greece,EU
+SMI,SMI,GR,Greece,EU
+JSY,JSY,GR,Greece,EU
+SPJ,SPJ,GR,Greece,EU
+JTR,JTR,GR,Greece,EU
+JSH,JSH,GR,Greece,EU
+SKU,SKU,GR,Greece,EU
+SKG,SKG,GR,Greece,EU
+ZTH,ZTH,GR,Greece,EU
+BUD,BUD,HU,Hungary,EU
+DEB,DEB,HU,Hungary,EU
+MCQ,MCQ,HU,Hungary,EU
+PEV,PEV,HU,Hungary,EU
+QGY,QGY,HU,Hungary,EU
+SOB,SOB,HU,Hungary,EU
+TZR,TZR,HU,Hungary,EU
+QZD,QZD,HU,Hungary,EU
+CRV,CRV,IT,Italy,EU
+BRI,BRI,IT,Italy,EU
+FOG,FOG,IT,Italy,EU
+TAR,TAR,IT,Italy,EU
+LCC,LCC,IT,Italy,EU
+PSR,PSR,IT,Italy,EU
+BDS,BDS,IT,Italy,EU
+SUF,SUF,IT,Italy,EU
+CIY,CIY,IT,Italy,EU
+CTA,CTA,IT,Italy,EU
+LMP,LMP,IT,Italy,EU
+PNL,PNL,IT,Italy,EU
+PMO,PMO,IT,Italy,EU
+REG,REG,IT,Italy,EU
+TPS,TPS,IT,Italy,EU
+NSY,NSY,IT,Italy,EU
+BLX,BLX,IT,Italy,EU
+RAN,RAN,IT,Italy,EU
+ZIA,ZIA,IT,Italy,EU
+AHO,AHO,IT,Italy,EU
+DCI,DCI,IT,Italy,EU
+CAG,CAG,IT,Italy,EU
+OLB,OLB,IT,Italy,EU
+TTB,TTB,IT,Italy,EU
+QVA,QVA,IT,Italy,EU
+QMM,QMM,IT,Italy,EU
+MXP,MXP,IT,Italy,EU
+BGY,BGY,IT,Italy,EU
+TRN,TRN,IT,Italy,EU
+ALL,ALL,IT,Italy,EU
+GOA,GOA,IT,Italy,EU
+LIN,LIN,IT,Italy,EU
+PMF,PMF,IT,Italy,EU
+QPZ,QPZ,IT,Italy,EU
+AOT,AOT,IT,Italy,EU
+CUF,CUF,IT,Italy,EU
+AVB,AVB,IT,Italy,EU
+BZO,BZO,IT,Italy,EU
+UDN,UDN,IT,Italy,EU
+BLQ,BLQ,IT,Italy,EU
+TSF,TSF,IT,Italy,EU
+FRL,FRL,IT,Italy,EU
+VBS,VBS,IT,Italy,EU
+TRS,TRS,IT,Italy,EU
+RMI,RMI,IT,Italy,EU
+VIC,VIC,IT,Italy,EU
+QPA,QPA,IT,Italy,EU
+VRN,VRN,IT,Italy,EU
+AOI,AOI,IT,Italy,EU
+VCE,VCE,IT,Italy,EU
+QZO,QZO,IT,Italy,EU
+LCV,LCV,IT,Italy,EU
+QRT,QRT,IT,Italy,EU
+SAY,SAY,IT,Italy,EU
+CIA,CIA,IT,Italy,EU
+FCO,FCO,IT,Italy,EU
+QFR,QFR,IT,Italy,EU
+QSR,QSR,IT,Italy,EU
+EBA,EBA,IT,Italy,EU
+QLT,QLT,IT,Italy,EU
+NAP,NAP,IT,Italy,EU
+PSA,PSA,IT,Italy,EU
+FLR,FLR,IT,Italy,EU
+GRS,GRS,IT,Italy,EU
+PEG,PEG,IT,Italy,EU
+LJU,LJU,SI,Slovenia,EU
+MBX,MBX,SI,Slovenia,EU
+POW,POW,SI,Slovenia,EU
+GTW,GTW,CZ,Czechia,EU
+UHE,UHE,CZ,Czechia,EU
+KLV,KLV,CZ,Czechia,EU
+MKA,MKA,CZ,Czechia,EU
+OSR,OSR,CZ,Czechia,EU
+PED,PED,CZ,Czechia,EU
+PRV,PRV,CZ,Czechia,EU
+PRG,PRG,CZ,Czechia,EU
+BRQ,BRQ,CZ,Czechia,EU
+ZBE,ZBE,CZ,Czechia,EU
+GHK,GHK,PS,"Palestine, State of",AS
+TLV,TLV,IL,Israel,AS
+BEV,BEV,IL,Israel,AS
+ETH,ETH,IL,Israel,AS
+EIY,EIY,IL,Israel,AS
+HFA,HFA,IL,Israel,AS
+RPN,RPN,IL,Israel,AS
+JRS,JRS,PS,"Palestine, State of",AS
+KSW,KSW,IL,Israel,AS
+MTZ,MTZ,IL,Israel,AS
+VTM,VTM,IL,Israel,AS
+VDA,VDA,IL,Israel,AS
+MIP,MIP,IL,Israel,AS
+SDV,SDV,IL,Israel,AS
+YOT,YOT,IL,Israel,AS
+GZM,GZM,MT,Malta,EU
+MLA,MLA,MT,Malta,EU
+HOH,HOH,AT,Austria,EU
+LOR,LOR,US,United States of America,NA
+GRZ,GRZ,AT,Austria,EU
+INN,INN,AT,Austria,EU
+KLU,KLU,AT,Austria,EU
+LNZ,LNZ,AT,Austria,EU
+SZG,SZG,AT,Austria,EU
+VIE,VIE,AT,Austria,EU
+SMA,SMA,PT,Portugal,EU
+BGC,BGC,PT,Portugal,EU
+BYJ,BYJ,PT,Portugal,EU
+BGZ,BGZ,PT,Portugal,EU
+CHV,CHV,PT,Portugal,EU
+CBP,CBP,PT,Portugal,EU
+CVU,CVU,PT,Portugal,EU
+COV,COV,PT,Portugal,EU
+FLW,FLW,PT,Portugal,EU
+FAO,FAO,PT,Portugal,EU
+GRW,GRW,PT,Portugal,EU
+HOR,HOR,PT,Portugal,EU
+TER,TER,PT,Portugal,EU
+FNC,FNC,PT,Portugal,EU
+PAF,PAF,PT,Portugal,EU
+PDL,PDL,PT,Portugal,EU
+PIX,PIX,PT,Portugal,EU
+PRM,PRM,PT,Portugal,EU
+OPO,OPO,PT,Portugal,EU
+PXO,PXO,PT,Portugal,EU
+LIS,LIS,PT,Portugal,EU
+SIE,SIE,PT,Portugal,EU
+SJZ,SJZ,PT,Portugal,EU
+VRL,VRL,PT,Portugal,EU
+VSE,VSE,PT,Portugal,EU
+BNX,BNX,BA,Bosnia and Herzegovina,EU
+OMO,OMO,BA,Bosnia and Herzegovina,EU
+SJJ,SJJ,BA,Bosnia and Herzegovina,EU
+TZL,TZL,BA,Bosnia and Herzegovina,EU
+ARW,ARW,RO,Romania,EU
+BCM,BCM,RO,Romania,EU
+BAY,BAY,RO,Romania,EU
+BBU,BBU,RO,Romania,EU
+CND,CND,RO,Romania,EU
+CLJ,CLJ,RO,Romania,EU
+CSB,CSB,RO,Romania,EU
+CRA,CRA,RO,Romania,EU
+IAS,IAS,RO,Romania,EU
+LRO,LRO,US,United States of America,NA
+OMR,OMR,RO,Romania,EU
+OTP,OTP,RO,Romania,EU
+SBZ,SBZ,RO,Romania,EU
+SUJ,SUJ,RO,Romania,EU
+SCV,SCV,RO,Romania,EU
+TCE,TCE,RO,Romania,EU
+TGM,TGM,RO,Romania,EU
+TSR,TSR,RO,Romania,EU
+GVA,GVA,CH,Switzerland,EU
+QNC,QNC,CH,Switzerland,EU
+SIR,SIR,CH,Switzerland,EU
+ZIN,ZIN,CH,Switzerland,EU
+LUG,LUG,CH,Switzerland,EU
+BRN,BRN,CH,Switzerland,EU
+BXO,BXO,CH,Switzerland,EU
+ACO,ACO,CH,Switzerland,EU
+ZHI,ZHI,CH,Switzerland,EU
+ZRH,ZRH,CH,Switzerland,EU
+ZJI,ZJI,CH,Switzerland,EU
+ACH,ACH,CH,Switzerland,EU
+SMV,SMV,CH,Switzerland,EU
+GKD,GKD,TR,Turkey,EU
+ESB,ESB,TR,Turkey,AS
+ANK,ANK,TR,Turkey,AS
+ADA,ADA,TR,Turkey,AS
+UAB,UAB,TR,Turkey,AS
+AFY,AFY,TR,Turkey,AS
+AYT,AYT,TR,Turkey,AS
+GZT,GZT,TR,Turkey,AS
+ISK,ISK,TR,Turkey,AS
+KFS,KFS,TR,Turkey,AS
+KYA,KYA,TR,Turkey,AS
+MZH,MZH,TR,Turkey,AS
+SSX,SSX,TR,Turkey,AS
+VAS,VAS,TR,Turkey,AS
+ONQ,ONQ,TR,Turkey,AS
+MLX,MLX,TR,Turkey,AS
+ASR,ASR,TR,Turkey,AS
+TJK,TJK,TR,Turkey,AS
+DNZ,DNZ,TR,Turkey,AS
+NAV,NAV,TR,Turkey,AS
+LTB,LTB,AU,Australia,OC
+IST,IST,TR,Turkey,EU
+BTZ,BTZ,TR,Turkey,AS
+BZI,BZI,TR,Turkey,AS
+BDM,BDM,TR,Turkey,AS
+CKZ,CKZ,TR,Turkey,AS
+ESK,ESK,TR,Turkey,AS
+ADB,ADB,TR,Turkey,AS
+IGL,IGL,TR,Turkey,AS
+USQ,USQ,TR,Turkey,AS
+KCO,KCO,TR,Turkey,AS
+YEI,YEI,TR,Turkey,AS
+DLM,DLM,TR,Turkey,AS
+TEQ,TEQ,TR,Turkey,EU
+BXN,BXN,TR,Turkey,AS
+AOE,AOE,TR,Turkey,AS
+EZS,EZS,TR,Turkey,AS
+DIY,DIY,TR,Turkey,AS
+ERC,ERC,TR,Turkey,AS
+ERZ,ERZ,TR,Turkey,AS
+KSY,KSY,TR,Turkey,AS
+TZX,TZX,TR,Turkey,AS
+SFQ,SFQ,TR,Turkey,AS
+VAN,VAN,TR,Turkey,AS
+BAL,BAL,TR,Turkey,AS
+MSR,MSR,TR,Turkey,AS
+SXZ,SXZ,TR,Turkey,AS
+SIC,SIC,TR,Turkey,AS
+KCM,KCM,TR,Turkey,AS
+AJI,AJI,TR,Turkey,AS
+ADF,ADF,TR,Turkey,AS
+MQM,MQM,TR,Turkey,AS
+GNY,GNY,TR,Turkey,AS
+HTY,HTY,TR,Turkey,AS
+ISE,ISE,TR,Turkey,AS
+EDO,EDO,TR,Turkey,AS
+BJV,BJV,TR,Turkey,AS
+SZF,SZF,TR,Turkey,AS
+SAW,SAW,TR,Turkey,AS
+GZP,GZP,TR,Turkey,AS
+BZY,BZY,MD,Moldova (Republic of),EU
+KIV,KIV,MD,Moldova (Republic of),EU
+GZA,GZA,PS,"Palestine, State of",AS
+OHD,OHD,MK,Macedonia (the former Yugoslav Republic of),EU
+SKP,SKP,MK,Macedonia (the former Yugoslav Republic of),EU
+GIB,GIB,GI,Gibraltar,EU
+BCQ,BCQ,LY,Libya,AF
+DNF,DNF,LY,Libya,AF
+MRA,MRA,LY,Libya,AF
+QUB,QUB,LY,Libya,AF
+UZC,UZC,RS,Serbia,EU
+BEG,BEG,RS,Serbia,EU
+LJB,LJB,RS,Serbia,EU
+IVG,IVG,ME,Montenegro,EU
+BJY,BJY,RS,Serbia,EU
+GJA,GJA,KS,Kyrgyz Respublikasy,EU
+KID,KID,RS,Serbia,EU
+INI,INI,RS,Serbia,EU
+QND,QND,RS,Serbia,EU
+TGD,TGD,ME,Montenegro,EU
+TIV,TIV,ME,Montenegro,EU
+BTS,BTS,SK,Slovakia,EU
+KSC,KSC,SK,Slovakia,EU
+LUE,LUE,SK,Slovakia,EU
+PZY,PZY,SK,Slovakia,EU
+POV,POV,SK,Slovakia,EU
+SLD,SLD,SK,Slovakia,EU
+ILZ,ILZ,SK,Slovakia,EU
+GLN,GLN,MA,Morocco,AF
+GDT,GDT,TC,Turks and Caicos Islands,NA
+MDS,MDS,TC,Turks and Caicos Islands,NA
+NCA,NCA,TC,Turks and Caicos Islands,NA
+PIC,PIC,TC,Turks and Caicos Islands,NA
+PLS,PLS,TC,Turks and Caicos Islands,NA
+XSC,XSC,TC,Turks and Caicos Islands,NA
+SLX,SLX,TC,Turks and Caicos Islands,NA
+EPS,EPS,DO,Dominican Republic,NA
+BRX,BRX,DO,Dominican Republic,NA
+CBJ,CBJ,DO,Dominican Republic,NA
+AZS,AZS,DO,Dominican Republic,NA
+COZ,COZ,DO,Dominican Republic,NA
+HEX,HEX,DO,Dominican Republic,NA
+JBQ,JBQ,DO,Dominican Republic,NA
+LRM,LRM,DO,Dominican Republic,NA
+PUJ,PUJ,DO,Dominican Republic,NA
+POP,POP,DO,Dominican Republic,NA
+MDR,MDR,US,United States of America,NA
+SNX,SNX,DO,Dominican Republic,NA
+SDQ,SDQ,DO,Dominican Republic,NA
+SJM,SJM,DO,Dominican Republic,NA
+STI,STI,DO,Dominican Republic,NA
+DOA,DOA,MG,Madagascar,AF
+CBV,CBV,GT,Guatemala,NA
+CMM,CMM,GT,Guatemala,NA
+CTF,CTF,GT,Guatemala,NA
+GUA,GUA,GT,Guatemala,NA
+HUG,HUG,GT,Guatemala,NA
+MCR,MCR,GT,Guatemala,NA
+PBR,PBR,GT,Guatemala,NA
+PON,PON,GT,Guatemala,NA
+AQB,AQB,GT,Guatemala,NA
+AAZ,AAZ,GT,Guatemala,NA
+RUV,RUV,GT,Guatemala,NA
+RER,RER,GT,Guatemala,NA
+GSJ,GSJ,GT,Guatemala,NA
+FRS,FRS,GT,Guatemala,NA
+AIM,AIM,MH,Marshall Islands,OC
+AUL,AUL,MH,Marshall Islands,OC
+BII,BII,MH,Marshall Islands,OC
+EBN,EBN,MH,Marshall Islands,OC
+JAT,JAT,MH,Marshall Islands,OC
+JEJ,JEJ,MH,Marshall Islands,OC
+KBT,KBT,MH,Marshall Islands,OC
+LIK,LIK,MH,Marshall Islands,OC
+LML,LML,MH,Marshall Islands,OC
+MAV,MAV,MH,Marshall Islands,OC
+MJB,MJB,MH,Marshall Islands,OC
+MJE,MJE,MH,Marshall Islands,OC
+NDK,NDK,MH,Marshall Islands,OC
+RNP,RNP,MH,Marshall Islands,OC
+TIC,TIC,MH,Marshall Islands,OC
+UIT,UIT,MH,Marshall Islands,OC
+WJA,WJA,MH,Marshall Islands,OC
+WTE,WTE,MH,Marshall Islands,OC
+WTO,WTO,MH,Marshall Islands,OC
+AHS,AHS,HN,Honduras,NA
+BHG,BHG,HN,Honduras,NA
+CAA,CAA,HN,Honduras,NA
+CDD,CDD,HN,Honduras,NA
+JUT,JUT,HN,Honduras,NA
+LCE,LCE,HN,Honduras,NA
+LEZ,LEZ,HN,Honduras,NA
+SAP,SAP,HN,Honduras,NA
+GJA,GJA,HN,Honduras,NA
+PEU,PEU,HN,Honduras,NA
+RTB,RTB,HN,Honduras,NA
+SDH,SDH,HN,Honduras,NA
+RUY,RUY,HN,Honduras,NA
+XPL,XPL,HN,Honduras,NA
+TEA,TEA,HN,Honduras,NA
+TGU,TGU,HN,Honduras,NA
+TJI,TJI,HN,Honduras,NA
+SCD,SCD,HN,Honduras,NA
+UII,UII,HN,Honduras,NA
+MJG,MJG,PR,Puerto Rico,NA
+OCJ,OCJ,JM,Jamaica,NA
+KIN,KIN,JM,Jamaica,NA
+MBJ,MBJ,JM,Jamaica,NA
+POT,POT,JM,Jamaica,NA
+NEG,NEG,JM,Jamaica,NA
+KTP,KTP,JM,Jamaica,NA
+MIJ,MIJ,MH,Marshall Islands,OC
+HEB,HEB,MM,Myanmar,AS
+ACA,ACA,MX,Mexico,NA
+NTR,NTR,MX,Mexico,NA
+AGU,AGU,MX,Mexico,NA
+HUX,HUX,MX,Mexico,NA
+CNA,CNA,MX,Mexico,NA
+CVJ,CVJ,MX,Mexico,NA
+ACN,ACN,MX,Mexico,NA
+CME,CME,MX,Mexico,NA
+NCG,NCG,MX,Mexico,NA
+CUL,CUL,MX,Mexico,NA
+CTM,CTM,MX,Mexico,NA
+CEN,CEN,MX,Mexico,NA
+CJT,CJT,MX,Mexico,NA
+CPE,CPE,MX,Mexico,NA
+CJS,CJS,MX,Mexico,NA
+CZA,CZA,MX,Mexico,NA
+CUU,CUU,MX,Mexico,NA
+CVM,CVM,MX,Mexico,NA
+CYW,CYW,MX,Mexico,NA
+CZM,CZM,MX,Mexico,NA
+CUA,CUA,MX,Mexico,NA
+MMC,MMC,MX,Mexico,NA
+DGO,DGO,MX,Mexico,NA
+TPQ,TPQ,MX,Mexico,NA
+ESE,ESE,MX,Mexico,NA
+GDL,GDL,MX,Mexico,NA
+GYM,GYM,MX,Mexico,NA
+GUB,GUB,MX,Mexico,NA
+TCN,TCN,MX,Mexico,NA
+HMO,HMO,MX,Mexico,NA
+CLQ,CLQ,MX,Mexico,NA
+ISJ,ISJ,MX,Mexico,NA
+SLW,SLW,MX,Mexico,NA
+IZT,IZT,MX,Mexico,NA
+JAL,JAL,MX,Mexico,NA
+AZP,AZP,MX,Mexico,NA
+LZC,LZC,MX,Mexico,NA
+LMM,LMM,MX,Mexico,NA
+BJX,BJX,MX,Mexico,NA
+LAP,LAP,MX,Mexico,NA
+LTO,LTO,MX,Mexico,NA
+MAM,MAM,MX,Mexico,NA
+MID,MID,MX,Mexico,NA
+MUG,MUG,MX,Mexico,NA
+MXL,MXL,MX,Mexico,NA
+MLM,MLM,MX,Mexico,NA
+MTT,MTT,MX,Mexico,NA
+LOV,LOV,MX,Mexico,NA
+MEX,MEX,MX,Mexico,NA
+MTY,MTY,MX,Mexico,NA
+MZT,MZT,MX,Mexico,NA
+NOG,NOG,MX,Mexico,NA
+NLD,NLD,MX,Mexico,NA
+OAX,OAX,MX,Mexico,NA
+PAZ,PAZ,MX,Mexico,NA
+PBC,PBC,MX,Mexico,NA
+PPE,PPE,MX,Mexico,NA
+PDS,PDS,MX,Mexico,NA
+UPN,UPN,MX,Mexico,NA
+PQM,PQM,MX,Mexico,NA
+PVR,PVR,MX,Mexico,NA
+PXM,PXM,MX,Mexico,NA
+QRO,QRO,MX,Mexico,NA
+REX,REX,MX,Mexico,NA
+SZT,SZT,MX,Mexico,NA
+SJD,SJD,MX,Mexico,NA
+SFH,SFH,MX,Mexico,NA
+SLP,SLP,MX,Mexico,NA
+TGM,TGM,MX,Mexico,NA
+TRC,TRC,MX,Mexico,NA
+TIJ,TIJ,MX,Mexico,NA
+TAM,TAM,MX,Mexico,NA
+TSL,TSL,MX,Mexico,NA
+TLC,TLC,MX,Mexico,NA
+TAP,TAP,MX,Mexico,NA
+WIX,WIX,MX,Mexico,NA
+CUN,CUN,MX,Mexico,NA
+VSA,VSA,MX,Mexico,NA
+VER,VER,MX,Mexico,NA
+ZCL,ZCL,MX,Mexico,NA
+ZIH,ZIH,MX,Mexico,NA
+ZMM,ZMM,MX,Mexico,NA
+ZLO,ZLO,MX,Mexico,NA
+MXW,MXW,MN,Mongolia,AS
+ULG,ULG,MN,Mongolia,AS
+ULZ,ULZ,MN,Mongolia,AS
+BEF,BEF,NI,Nicaragua,NA
+BZA,BZA,NI,Nicaragua,NA
+RNI,RNI,NI,Nicaragua,NA
+MGA,MGA,NI,Nicaragua,NA
+NVG,NVG,NI,Nicaragua,NA
+PUZ,PUZ,NI,Nicaragua,NA
+RFS,RFS,NI,Nicaragua,NA
+NCR,NCR,NI,Nicaragua,NA
+SIU,SIU,NI,Nicaragua,NA
+WSP,WSP,NI,Nicaragua,NA
+BOC,BOC,PA,Panama,NA
+CTD,CTD,PA,Panama,NA
+CHX,CHX,PA,Panama,NA
+DAV,DAV,PA,Panama,NA
+ONX,ONX,PA,Panama,NA
+BLB,BLB,PA,Panama,NA
+JQE,JQE,PA,Panama,NA
+PLP,PLP,PA,Panama,NA
+PAC,PAC,PA,Panama,NA
+SYP,SYP,PA,Panama,NA
+PTY,PTY,PA,Panama,NA
+NBL,NBL,PA,Panama,NA
+FON,FON,CR,Costa Rica,NA
+TTQ,TTQ,CR,Costa Rica,NA
+BAI,BAI,CR,Costa Rica,NA
+BCL,BCL,CR,Costa Rica,NA
+CSC,CSC,CR,Costa Rica,NA
+OTR,OTR,CR,Costa Rica,NA
+RIK,RIK,CR,Costa Rica,NA
+TNO,TNO,CR,Costa Rica,NA
+FMG,FMG,CR,Costa Rica,NA
+GLF,GLF,CR,Costa Rica,NA
+GPL,GPL,CR,Costa Rica,NA
+PBP,PBP,CR,Costa Rica,NA
+LIR,LIR,CR,Costa Rica,NA
+LSL,LSL,CR,Costa Rica,NA
+LIO,LIO,CR,Costa Rica,NA
+NCT,NCT,CR,Costa Rica,NA
+NOM,NOM,CR,Costa Rica,NA
+SJO,SJO,CR,Costa Rica,NA
+PJM,PJM,CR,Costa Rica,NA
+PMZ,PMZ,CR,Costa Rica,NA
+SYQ,SYQ,CR,Costa Rica,NA
+XQP,XQP,CR,Costa Rica,NA
+RFR,RFR,CR,Costa Rica,NA
+PLD,PLD,CR,Costa Rica,NA
+TOO,TOO,CR,Costa Rica,NA
+TNO,TNO,CR,Costa Rica,NA
+TMU,TMU,CR,Costa Rica,NA
+UPL,UPL,CR,Costa Rica,NA
+SAL,SAL,SV,El Salvador,NA
+CYA,CYA,HT,Haiti,NA
+CAP,CAP,HT,Haiti,NA
+JAK,JAK,HT,Haiti,NA
+JEE,JEE,HT,Haiti,NA
+PAP,PAP,HT,Haiti,NA
+PAX,PAX,HT,Haiti,NA
+MTU,MTU,MZ,Mozambique,AF
+BCA,BCA,CU,Cuba,NA
+BWW,BWW,CU,Cuba,NA
+BYM,BYM,CU,Cuba,NA
+AVI,AVI,CU,Cuba,NA
+CCC,CCC,CU,Cuba,NA
+CFG,CFG,CU,Cuba,NA
+CYO,CYO,CU,Cuba,NA
+CMW,CMW,CU,Cuba,NA
+QCO,QCO,CU,Cuba,NA
+SCU,SCU,CU,Cuba,NA
+NBW,NBW,CU,Cuba,NA
+GAO,GAO,CU,Cuba,NA
+HAV,HAV,CU,Cuba,NA
+HOG,HOG,CU,Cuba,NA
+VRO,VRO,CU,Cuba,NA
+LCL,LCL,CU,Cuba,NA
+UMA,UMA,CU,Cuba,NA
+MJG,MJG,CU,Cuba,NA
+MOA,MOA,CU,Cuba,NA
+MZO,MZO,CU,Cuba,NA
+QSN,QSN,CU,Cuba,NA
+ICR,ICR,CU,Cuba,NA
+GER,GER,CU,Cuba,NA
+UPB,UPB,CU,Cuba,NA
+QPD,QPD,CU,Cuba,NA
+SNU,SNU,CU,Cuba,NA
+SNJ,SNJ,CU,Cuba,NA
+SZJ,SZJ,CU,Cuba,NA
+USS,USS,CU,Cuba,NA
+TND,TND,CU,Cuba,NA
+VRA,VRA,CU,Cuba,NA
+VTU,VTU,CU,Cuba,NA
+CYB,CYB,KY,Cayman Islands,NA
+LYB,LYB,KY,Cayman Islands,NA
+GCM,GCM,KY,Cayman Islands,NA
+AJS,AJS,MX,Mexico,NA
+AZG,AZG,MX,Mexico,NA
+CEO,CEO,MX,Mexico,NA
+NVJ,NVJ,MX,Mexico,NA
+PCM,PCM,MX,Mexico,NA
+PCV,PCV,MX,Mexico,NA
+PNO,PNO,MX,Mexico,NA
+SCX,SCX,MX,Mexico,NA
+SGM,SGM,MX,Mexico,NA
+TUY,TUY,MX,Mexico,NA
+UAC,UAC,MX,Mexico,NA
+XAL,XAL,MX,Mexico,NA
+GTB,GTB,MY,Malaysia,AS
+GTK,GTK,MY,Malaysia,AS
+LBP,LBP,MY,Malaysia,AS
+LLM,LLM,MY,Malaysia,AS
+MZS,MZS,MY,Malaysia,AS
+SPT,SPT,MY,Malaysia,AS
+MAY,MAY,BS,Bahamas,NA
+ASD,ASD,BS,Bahamas,NA
+COX,COX,BS,Bahamas,NA
+MHH,MHH,BS,Bahamas,NA
+SAQ,SAQ,BS,Bahamas,NA
+AXP,AXP,BS,Bahamas,NA
+TCB,TCB,BS,Bahamas,NA
+WKR,WKR,BS,Bahamas,NA
+CCZ,CCZ,BS,Bahamas,NA
+GHC,GHC,BS,Bahamas,NA
+BIM,BIM,BS,Bahamas,NA
+ATC,ATC,BS,Bahamas,NA
+CAT,CAT,BS,Bahamas,NA
+CXY,CXY,BS,Bahamas,NA
+CRI,CRI,BS,Bahamas,NA
+PWN,PWN,BS,Bahamas,NA
+GGT,GGT,BS,Bahamas,NA
+ELH,ELH,BS,Bahamas,NA
+GHB,GHB,BS,Bahamas,NA
+NMC,NMC,BS,Bahamas,NA
+RSD,RSD,BS,Bahamas,NA
+TYM,TYM,BS,Bahamas,NA
+FPO,FPO,BS,Bahamas,NA
+WTD,WTD,BS,Bahamas,NA
+IGA,IGA,BS,Bahamas,NA
+LGI,LGI,BS,Bahamas,NA
+SML,SML,BS,Bahamas,NA
+MYG,MYG,BS,Bahamas,NA
+NAS,NAS,BS,Bahamas,NA
+PID,PID,BS,Bahamas,NA
+DCT,DCT,BS,Bahamas,NA
+RCY,RCY,BS,Bahamas,NA
+ZSA,ZSA,BS,Bahamas,NA
+MFW,MFW,MZ,Mozambique,AF
+TGS,TGS,MZ,Mozambique,AF
+BZE,BZE,BZ,Belize,NA
+NBS,NBS,CN,China,AS
+AIT,AIT,CK,Cook Islands,OC
+AIU,AIU,CK,Cook Islands,OC
+MGS,MGS,CK,Cook Islands,OC
+MHX,MHX,CK,Cook Islands,OC
+MUK,MUK,CK,Cook Islands,OC
+MOI,MOI,CK,Cook Islands,OC
+PYE,PYE,CK,Cook Islands,OC
+RAR,RAR,CK,Cook Islands,OC
+ICI,ICI,FJ,Fiji,OC
+NAN,NAN,FJ,Fiji,OC
+PTF,PTF,FJ,Fiji,OC
+KDV,KDV,FJ,Fiji,OC
+MNF,MNF,FJ,Fiji,OC
+MFJ,MFJ,FJ,Fiji,OC
+SUV,SUV,FJ,Fiji,OC
+LEV,LEV,FJ,Fiji,OC
+NGI,NGI,FJ,Fiji,OC
+LUC,LUC,FJ,Fiji,OC
+LKB,LKB,FJ,Fiji,OC
+LBS,LBS,FJ,Fiji,OC
+TVU,TVU,FJ,Fiji,OC
+KXF,KXF,FJ,Fiji,OC
+RTA,RTA,FJ,Fiji,OC
+SVU,SVU,FJ,Fiji,OC
+VAU,VAU,FJ,Fiji,OC
+KAY,KAY,FJ,Fiji,OC
+ONU,ONU,FJ,Fiji,OC
+YAS,YAS,FJ,Fiji,OC
+EUA,EUA,TO,Tonga,OC
+TBU,TBU,TO,Tonga,OC
+HPA,HPA,TO,Tonga,OC
+NFO,NFO,TO,Tonga,OC
+NTT,NTT,TO,Tonga,OC
+VAV,VAV,TO,Tonga,OC
+VBV,VBV,FJ,Fiji,OC
+VTF,VTF,FJ,Fiji,OC
+GMO,GMO,NG,Nigeria,AF
+PHG,PHG,NG,Nigeria,AF
+BCU,BCU,NG,Nigeria,AF
+QRW,QRW,NG,Nigeria,AF
+ABF,ABF,KI,Kiribati,OC
+BEZ,BEZ,KI,Kiribati,OC
+FUN,FUN,TV,Tuvalu,OC
+KUC,KUC,KI,Kiribati,OC
+MNK,MNK,KI,Kiribati,OC
+MZK,MZK,KI,Kiribati,OC
+MTK,MTK,KI,Kiribati,OC
+NIG,NIG,KI,Kiribati,OC
+OOT,OOT,KI,Kiribati,OC
+TRW,TRW,KI,Kiribati,OC
+AEA,AEA,KI,Kiribati,OC
+TBF,TBF,KI,Kiribati,OC
+TMN,TMN,KI,Kiribati,OC
+NON,NON,KI,Kiribati,OC
+AIS,AIS,KI,Kiribati,OC
+TSU,TSU,KI,Kiribati,OC
+BBG,BBG,KI,Kiribati,OC
+AAK,AAK,KI,Kiribati,OC
+IUE,IUE,NU,Niue,OC
+FUT,FUT,WF,Wallis and Futuna,OC
+WLS,WLS,WF,Wallis and Futuna,OC
+MWP,MWP,NP,Nepal,AS
+TPJ,TPJ,NP,Nepal,AS
+OFU,OFU,AS,American Samoa,OC
+AAU,AAU,WS,Samoa,OC
+APW,APW,WS,Samoa,OC
+FGI,FGI,WS,Samoa,OC
+FAQ,FAQ,AS,American Samoa,OC
+MXS,MXS,WS,Samoa,OC
+PPG,PPG,AS,American Samoa,OC
+PPT,PPT,PF,French Polynesia,OC
+RUR,RUR,PF,French Polynesia,OC
+TUB,TUB,PF,French Polynesia,OC
+AAA,AAA,PF,French Polynesia,OC
+FGU,FGU,PF,French Polynesia,OC
+TIH,TIH,PF,French Polynesia,OC
+APK,APK,PF,French Polynesia,OC
+REA,REA,PF,French Polynesia,OC
+FAV,FAV,PF,French Polynesia,OC
+HHZ,HHZ,PF,French Polynesia,OC
+XMH,XMH,PF,French Polynesia,OC
+GMR,GMR,PF,French Polynesia,OC
+KKR,KKR,PF,French Polynesia,OC
+MKP,MKP,PF,French Polynesia,OC
+NAU,NAU,PF,French Polynesia,OC
+TKV,TKV,PF,French Polynesia,OC
+PKP,PKP,PF,French Polynesia,OC
+PUK,PUK,PF,French Polynesia,OC
+TKP,TKP,PF,French Polynesia,OC
+AXR,AXR,PF,French Polynesia,OC
+MVT,MVT,PF,French Polynesia,OC
+NUK,NUK,PF,French Polynesia,OC
+ZTA,ZTA,PF,French Polynesia,OC
+AHE,AHE,PF,French Polynesia,OC
+KHZ,KHZ,PF,French Polynesia,OC
+FAC,FAC,PF,French Polynesia,OC
+FHZ,FHZ,PF,French Polynesia,OC
+TKX,TKX,PF,French Polynesia,OC
+NHV,NHV,PF,French Polynesia,OC
+AUQ,AUQ,PF,French Polynesia,OC
+UAP,UAP,PF,French Polynesia,OC
+UAH,UAH,PF,French Polynesia,OC
+BOB,BOB,PF,French Polynesia,OC
+TTI,TTI,PF,French Polynesia,OC
+RGI,RGI,PF,French Polynesia,OC
+HUH,HUH,PF,French Polynesia,OC
+MOZ,MOZ,PF,French Polynesia,OC
+HOI,HOI,PF,French Polynesia,OC
+MAU,MAU,PF,French Polynesia,OC
+RFP,RFP,PF,French Polynesia,OC
+VHZ,VHZ,PF,French Polynesia,OC
+MTV,MTV,VU,Vanuatu,OC
+SLH,SLH,VU,Vanuatu,OC
+TOH,TOH,VU,Vanuatu,OC
+EAE,EAE,VU,Vanuatu,OC
+CCV,CCV,VU,Vanuatu,OC
+LOD,LOD,VU,Vanuatu,OC
+SSR,SSR,VU,Vanuatu,OC
+PBJ,PBJ,VU,Vanuatu,OC
+LPM,LPM,VU,Vanuatu,OC
+LNB,LNB,VU,Vanuatu,OC
+MWF,MWF,VU,Vanuatu,OC
+LNE,LNE,VU,Vanuatu,OC
+NUS,NUS,VU,Vanuatu,OC
+ZGU,ZGU,VU,Vanuatu,OC
+RCL,RCL,VU,Vanuatu,OC
+SON,SON,VU,Vanuatu,OC
+TGH,TGH,VU,Vanuatu,OC
+ULB,ULB,VU,Vanuatu,OC
+VLS,VLS,VU,Vanuatu,OC
+WLH,WLH,VU,Vanuatu,OC
+SWJ,SWJ,VU,Vanuatu,OC
+OLJ,OLJ,VU,Vanuatu,OC
+AUY,AUY,VU,Vanuatu,OC
+AWD,AWD,VU,Vanuatu,OC
+DLY,DLY,VU,Vanuatu,OC
+FTA,FTA,VU,Vanuatu,OC
+IPA,IPA,VU,Vanuatu,OC
+UIQ,UIQ,VU,Vanuatu,OC
+VLI,VLI,VU,Vanuatu,OC
+TAH,TAH,VU,Vanuatu,OC
+TGJ,TGJ,NC,New Caledonia,OC
+BMY,BMY,NC,New Caledonia,OC
+KNQ,KNQ,NC,New Caledonia,OC
+ILP,ILP,NC,New Caledonia,OC
+HLU,HLU,NC,New Caledonia,OC
+KOC,KOC,NC,New Caledonia,OC
+LIF,LIF,NC,New Caledonia,OC
+GEA,GEA,NC,New Caledonia,OC
+IOU,IOU,NC,New Caledonia,OC
+PUV,PUV,NC,New Caledonia,OC
+PDC,PDC,NC,New Caledonia,OC
+MEE,MEE,NC,New Caledonia,OC
+TOU,TOU,NC,New Caledonia,OC
+UVE,UVE,NC,New Caledonia,OC
+NOU,NOU,NC,New Caledonia,OC
+AKL,AKL,NZ,New Zealand,OC
+TUO,TUO,NZ,New Zealand,OC
+AMZ,AMZ,NZ,New Zealand,OC
+ASG,ASG,NZ,New Zealand,OC
+CHC,CHC,NZ,New Zealand,OC
+CHT,CHT,NZ,New Zealand,OC
+CMV,CMV,NZ,New Zealand,OC
+DGR,DGR,NZ,New Zealand,OC
+DUD,DUD,NZ,New Zealand,OC
+FGL,FGL,NZ,New Zealand,OC
+WHO,WHO,NZ,New Zealand,OC
+GBZ,GBZ,NZ,New Zealand,OC
+GMN,GMN,NZ,New Zealand,OC
+GIS,GIS,NZ,New Zealand,OC
+GTN,GTN,NZ,New Zealand,OC
+HKK,HKK,NZ,New Zealand,OC
+HLZ,HLZ,NZ,New Zealand,OC
+WIK,WIK,NZ,New Zealand,OC
+KBZ,KBZ,NZ,New Zealand,OC
+KKE,KKE,NZ,New Zealand,OC
+KKO,KKO,NZ,New Zealand,OC
+KAT,KAT,NZ,New Zealand,OC
+ALR,ALR,NZ,New Zealand,OC
+MTA,MTA,NZ,New Zealand,OC
+MON,MON,NZ,New Zealand,OC
+MFN,MFN,NZ,New Zealand,OC
+MZP,MZP,NZ,New Zealand,OC
+TEU,TEU,NZ,New Zealand,OC
+MRO,MRO,NZ,New Zealand,OC
+NPL,NPL,NZ,New Zealand,OC
+NPE,NPE,NZ,New Zealand,OC
+NSN,NSN,NZ,New Zealand,OC
+IVC,IVC,NZ,New Zealand,OC
+OHA,OHA,NZ,New Zealand,OC
+OAM,OAM,NZ,New Zealand,OC
+PMR,PMR,NZ,New Zealand,OC
+PCN,PCN,NZ,New Zealand,OC
+PPQ,PPQ,NZ,New Zealand,OC
+ZQN,ZQN,NZ,New Zealand,OC
+RAG,RAG,NZ,New Zealand,OC
+SZS,SZS,NZ,New Zealand,OC
+ROT,ROT,NZ,New Zealand,OC
+TRG,TRG,NZ,New Zealand,OC
+TMZ,TMZ,NZ,New Zealand,OC
+KTF,KTF,NZ,New Zealand,OC
+TKZ,TKZ,NZ,New Zealand,OC
+THH,THH,NZ,New Zealand,OC
+TIU,TIU,NZ,New Zealand,OC
+TWZ,TWZ,NZ,New Zealand,OC
+BHE,BHE,NZ,New Zealand,OC
+WKA,WKA,NZ,New Zealand,OC
+WHK,WHK,NZ,New Zealand,OC
+WLG,WLG,NZ,New Zealand,OC
+WIR,WIR,NZ,New Zealand,OC
+WRE,WRE,NZ,New Zealand,OC
+WSZ,WSZ,NZ,New Zealand,OC
+WTZ,WTZ,NZ,New Zealand,OC
+WAG,WAG,NZ,New Zealand,OC
+O62,O62,US,United States of America,NA
+BZF,BZF,US,United States of America,NA
+OAA,OAA,AF,Afghanistan,AS
+BIN,BIN,AF,Afghanistan,AS
+BST,BST,AF,Afghanistan,AS
+CCN,CCN,AF,Afghanistan,AS
+DAZ,DAZ,AF,Afghanistan,AS
+FAH,FAH,AF,Afghanistan,AS
+FBD,FBD,AF,Afghanistan,AS
+KWH,KWH,AF,Afghanistan,AS
+HEA,HEA,AF,Afghanistan,AS
+OAI,OAI,AF,Afghanistan,AS
+JAA,JAA,AF,Afghanistan,AS
+KBL,KBL,AF,Afghanistan,AS
+KDH,KDH,AF,Afghanistan,AS
+KHT,KHT,AF,Afghanistan,AS
+MMZ,MMZ,AF,Afghanistan,AS
+MZR,MZR,AF,Afghanistan,AS
+LQN,LQN,AF,Afghanistan,AS
+OAS,OAS,AF,Afghanistan,AS
+OAH,OAH,AF,Afghanistan,AS
+SGA,SGA,AF,Afghanistan,AS
+TII,TII,AF,Afghanistan,AS
+UND,UND,AF,Afghanistan,AS
+OAZ,OAZ,AF,Afghanistan,AS
+ZAJ,ZAJ,AF,Afghanistan,AS
+BAH,BAH,BH,Bahrain,AS
+OBK,OBK,US,United States of America,NA
+AHB,AHB,SA,Saudi Arabia,AS
+HOF,HOF,SA,Saudi Arabia,AS
+ABT,ABT,SA,Saudi Arabia,AS
+BHH,BHH,SA,Saudi Arabia,AS
+DMM,DMM,SA,Saudi Arabia,AS
+DHA,DHA,SA,Saudi Arabia,AS
+DWD,DWD,SA,Saudi Arabia,AS
+GIZ,GIZ,SA,Saudi Arabia,AS
+ELQ,ELQ,SA,Saudi Arabia,AS
+URY,URY,SA,Saudi Arabia,AS
+HAS,HAS,SA,Saudi Arabia,AS
+QJB,QJB,SA,Saudi Arabia,AS
+JED,JED,SA,Saudi Arabia,AS
+HBT,HBT,SA,Saudi Arabia,AS
+KMX,KMX,SA,Saudi Arabia,AS
+MED,MED,SA,Saudi Arabia,AS
+EAM,EAM,SA,Saudi Arabia,AS
+AQI,AQI,SA,Saudi Arabia,AS
+AKH,AKH,SA,Saudi Arabia,AS
+RAH,RAH,SA,Saudi Arabia,AS
+RUH,RUH,SA,Saudi Arabia,AS
+RAE,RAE,SA,Saudi Arabia,AS
+XXN,XXN,SA,Saudi Arabia,AS
+SHW,SHW,SA,Saudi Arabia,AS
+AJF,AJF,SA,Saudi Arabia,AS
+SLF,SLF,SA,Saudi Arabia,AS
+TUU,TUU,SA,Saudi Arabia,AS
+TIF,TIF,SA,Saudi Arabia,AS
+TUI,TUI,SA,Saudi Arabia,AS
+EWD,EWD,SA,Saudi Arabia,AS
+EJH,EJH,SA,Saudi Arabia,AS
+YNB,YNB,SA,Saudi Arabia,AS
+ZUL,ZUL,SA,Saudi Arabia,AS
+OHE,OHE,CN,China,AS
+ABD,ABD,IR,Iran (Islamic Republic of),AS
+OMI,OMI,IR,Iran (Islamic Republic of),AS
+MRX,MRX,IR,Iran (Islamic Republic of),AS
+AWZ,AWZ,IR,Iran (Islamic Republic of),AS
+AEU,AEU,IR,Iran (Islamic Republic of),AS
+BUZ,BUZ,IR,Iran (Islamic Republic of),AS
+AOY,AOY,IR,Iran (Islamic Republic of),AS
+KNR,KNR,IR,Iran (Islamic Republic of),AS
+KIH,KIH,IR,Iran (Islamic Republic of),AS
+BDH,BDH,IR,Iran (Islamic Republic of),AS
+YEH,YEH,IR,Iran (Islamic Republic of),AS
+KHK,KHK,IR,Iran (Islamic Republic of),AS
+SXI,SXI,IR,Iran (Islamic Republic of),AS
+LVP,LVP,IR,Iran (Islamic Republic of),AS
+KSH,KSH,IR,Iran (Islamic Republic of),AS
+IIL,IIL,IR,Iran (Islamic Republic of),AS
+KHD,KHD,IR,Iran (Islamic Republic of),AS
+SDG,SDG,IR,Iran (Islamic Republic of),AS
+IFH,IFH,IR,Iran (Islamic Republic of),AS
+IFN,IFN,IR,Iran (Islamic Republic of),AS
+CQD,CQD,IR,Iran (Islamic Republic of),AS
+RAS,RAS,IR,Iran (Islamic Republic of),AS
+HDM,HDM,IR,Iran (Islamic Republic of),AS
+AJK,AJK,IR,Iran (Islamic Republic of),AS
+IKA,IKA,IR,Iran (Islamic Republic of),AS
+THR,THR,IR,Iran (Islamic Republic of),AS
+BND,BND,IR,Iran (Islamic Republic of),AS
+KER,KER,IR,Iran (Islamic Republic of),AS
+BXR,BXR,IR,Iran (Islamic Republic of),AS
+HDR,HDR,IR,Iran (Islamic Republic of),AS
+RJN,RJN,IR,Iran (Islamic Republic of),AS
+SYJ,SYJ,IR,Iran (Islamic Republic of),AS
+XBJ,XBJ,IR,Iran (Islamic Republic of),AS
+CKT,CKT,IR,Iran (Islamic Republic of),AS
+MHD,MHD,IR,Iran (Islamic Republic of),AS
+BJB,BJB,IR,Iran (Islamic Republic of),AS
+AFZ,AFZ,IR,Iran (Islamic Republic of),AS
+TCX,TCX,IR,Iran (Islamic Republic of),AS
+BBL,BBL,IR,Iran (Islamic Republic of),AS
+GBT,GBT,IR,Iran (Islamic Republic of),AS
+BSM,BSM,IR,Iran (Islamic Republic of),AS
+NSH,NSH,IR,Iran (Islamic Republic of),AS
+RZR,RZR,IR,Iran (Islamic Republic of),AS
+SRY,SRY,IR,Iran (Islamic Republic of),AS
+FAZ,FAZ,IR,Iran (Islamic Republic of),AS
+LRR,LRR,IR,Iran (Islamic Republic of),AS
+SYZ,SYZ,IR,Iran (Islamic Republic of),AS
+KHY,KHY,IR,Iran (Islamic Republic of),AS
+ADU,ADU,IR,Iran (Islamic Republic of),AS
+ACP,ACP,IR,Iran (Islamic Republic of),AS
+PFQ,PFQ,IR,Iran (Islamic Republic of),AS
+OMH,OMH,IR,Iran (Islamic Republic of),AS
+TBZ,TBZ,IR,Iran (Islamic Republic of),AS
+AZD,AZD,IR,Iran (Islamic Republic of),AS
+ACZ,ACZ,IR,Iran (Islamic Republic of),AS
+ZBR,ZBR,IR,Iran (Islamic Republic of),AS
+ZAH,ZAH,IR,Iran (Islamic Republic of),AS
+AMM,AMM,JO,Jordan,AS
+ADJ,ADJ,JO,Jordan,AS
+AQJ,AQJ,JO,Jordan,AS
+JRS,JRS,PS,"Palestine, State of",AS
+OMF,OMF,JO,Jordan,AS
+KWI,KWI,KW,Kuwait,AS
+BEY,BEY,LB,Lebanon,AS
+KYE,KYE,LB,Lebanon,AS
+BYB,BYB,OM,Oman,AS
+AOM,AOM,OM,Oman,AS
+AUH,AUH,AE,United Arab Emirates,AS
+AZI,AZI,AE,United Arab Emirates,AS
+AAN,AAN,AE,United Arab Emirates,AS
+DXB,DXB,AE,United Arab Emirates,AS
+NHD,NHD,AE,United Arab Emirates,AS
+DWC,DWC,AE,United Arab Emirates,AS
+FJR,FJR,AE,United Arab Emirates,AS
+RKT,RKT,AE,United Arab Emirates,AS
+SHJ,SHJ,AE,United Arab Emirates,AS
+RMB,RMB,OM,Oman,AS
+KHS,KHS,OM,Oman,AS
+MSH,MSH,OM,Oman,AS
+MCT,MCT,OM,Oman,AS
+OMM,OMM,OM,Oman,AS
+SLL,SLL,OM,Oman,AS
+SUH,SUH,OM,Oman,AS
+TTH,TTH,OM,Oman,AS
+DDU,DDU,PK,Pakistan,AS
+AAW,AAW,PK,Pakistan,AS
+BNP,BNP,PK,Pakistan,AS
+WGB,WGB,PK,Pakistan,AS
+BHV,BHV,PK,Pakistan,AS
+CJL,CJL,PK,Pakistan,AS
+CHB,CHB,PK,Pakistan,AS
+DBA,DBA,PK,Pakistan,AS
+DDU,DDU,PK,Pakistan,AS
+DEA,DEA,PK,Pakistan,AS
+DSK,DSK,PK,Pakistan,AS
+LYP,LYP,PK,Pakistan,AS
+GWD,GWD,PK,Pakistan,AS
+GIL,GIL,PK,Pakistan,AS
+JAG,JAG,PK,Pakistan,AS
+JIW,JIW,PK,Pakistan,AS
+KHI,KHI,PK,Pakistan,AS
+HDD,HDD,PK,Pakistan,AS
+KDD,KDD,PK,Pakistan,AS
+KBH,KBH,PK,Pakistan,AS
+OHT,OHT,PK,Pakistan,AS
+LHE,LHE,PK,Pakistan,AS
+LRG,LRG,PK,Pakistan,AS
+XJM,XJM,PK,Pakistan,AS
+MFG,MFG,PK,Pakistan,AS
+MWD,MWD,PK,Pakistan,AS
+MJD,MJD,PK,Pakistan,AS
+MPD,MPD,PK,Pakistan,AS
+MPD,MPD,PK,Pakistan,AS
+MUX,MUX,PK,Pakistan,AS
+WNS,WNS,PK,Pakistan,AS
+NHS,NHS,PK,Pakistan,AS
+ORW,ORW,PK,Pakistan,AS
+PAJ,PAJ,PK,Pakistan,AS
+PJG,PJG,PK,Pakistan,AS
+PSI,PSI,PK,Pakistan,AS
+PEW,PEW,PK,Pakistan,AS
+UET,UET,PK,Pakistan,AS
+RYK,RYK,PK,Pakistan,AS
+ISB,ISB,PK,Pakistan,AS
+RAZ,RAZ,PK,Pakistan,AS
+SBQ,SBQ,PK,Pakistan,AS
+KDU,KDU,PK,Pakistan,AS
+SKZ,SKZ,PK,Pakistan,AS
+SYW,SYW,PK,Pakistan,AS
+SGI,SGI,PK,Pakistan,AS
+SDT,SDT,PK,Pakistan,AS
+SKT,SKT,PK,Pakistan,AS
+SUL,SUL,PK,Pakistan,AS
+SWN,SWN,PK,Pakistan,AS
+TLB,TLB,PK,Pakistan,AS
+BDN,BDN,PK,Pakistan,AS
+TFT,TFT,PK,Pakistan,AS
+TUK,TUK,PK,Pakistan,AS
+WAF,WAF,PK,Pakistan,AS
+PZH,PZH,PK,Pakistan,AS
+IQA,IQA,IQ,Iraq,AS
+BMN,BMN,IQ,Iraq,AS
+SDA,SDA,IQ,Iraq,AS
+OSB,OSB,IQ,Iraq,AS
+EBL,EBL,IQ,Iraq,AS
+KIK,KIK,IQ,Iraq,AS
+BSR,BSR,IQ,Iraq,AS
+OSO,OSO,IQ,Iraq,AS
+ALP,ALP,SY,Syrian Arab Republic,AS
+DAM,DAM,SY,Syrian Arab Republic,AS
+DEZ,DEZ,SY,Syrian Arab Republic,AS
+KAC,KAC,SY,Syrian Arab Republic,AS
+LTK,LTK,SY,Syrian Arab Republic,AS
+PMS,PMS,SY,Syrian Arab Republic,AS
+DOH,DOH,QA,Qatar,AS
+IUD,IUD,QA,Qatar,AS
+OTT,OTT,BR,Brazil,SA
+ADE,ADE,YE,Yemen,AS
+EAB,EAB,YE,Yemen,AS
+AXK,AXK,YE,Yemen,AS
+BHN,BHN,YE,Yemen,AS
+AAY,AAY,YE,Yemen,AS
+HOD,HOD,YE,Yemen,AS
+MYN,MYN,YE,Yemen,AS
+IHN,IHN,YE,Yemen,AS
+RIY,RIY,YE,Yemen,AS
+SYE,SYE,YE,Yemen,AS
+SAH,SAH,YE,Yemen,AS
+SCT,SCT,YE,Yemen,AS
+GXF,GXF,YE,Yemen,AS
+TAI,TAI,YE,Yemen,AS
+ACU,ACU,PA,Panama,NA
+AIL,AIL,PA,Panama,NA
+AML,AML,PA,Panama,NA
+BFQ,BFQ,PA,Panama,NA
+ELE,ELE,PA,Panama,NA
+OTD,OTD,PA,Panama,NA
+SAX,SAX,PA,Panama,NA
+AKB,AKB,US,United States of America,NA
+PTD,PTD,US,United States of America,NA
+PAQ,PAQ,US,United States of America,NA
+BTI,BTI,US,United States of America,NA
+BET,BET,US,United States of America,NA
+BVU,BVU,US,United States of America,NA
+BIG,BIG,US,United States of America,NA
+BKC,BKC,US,United States of America,NA
+BRW,BRW,US,United States of America,NA
+BTT,BTT,US,United States of America,NA
+CDB,CDB,US,United States of America,NA
+CLF,CLF,US,United States of America,NA
+CDV,CDV,US,United States of America,NA
+CZF,CZF,US,United States of America,NA
+DRG,DRG,US,United States of America,NA
+ADK,ADK,US,United States of America,NA
+DLG,DLG,US,United States of America,NA
+ADQ,ADQ,US,United States of America,NA
+DUT,DUT,US,United States of America,NA
+EDF,EDF,US,United States of America,NA
+EEK,EEK,US,United States of America,NA
+EHM,EHM,US,United States of America,NA
+EIL,EIL,US,United States of America,NA
+ENM,ENM,US,United States of America,NA
+ENA,ENA,US,United States of America,NA
+FAI,FAI,US,United States of America,NA
+FBK,FBK,US,United States of America,NA
+AFE,AFE,US,United States of America,NA
+ABL,ABL,US,United States of America,NA
+FRN,FRN,US,United States of America,NA
+FMC,FMC,US,United States of America,NA
+GAL,GAL,US,United States of America,NA
+GKN,GKN,US,United States of America,NA
+GAM,GAM,US,United States of America,NA
+AGN,AGN,US,United States of America,NA
+GST,GST,US,United States of America,NA
+SGY,SGY,US,United States of America,NA
+HCR,HCR,US,United States of America,NA
+HNS,HNS,US,United States of America,NA
+HOM,HOM,US,United States of America,NA
+HPB,HPB,US,United States of America,NA
+HYG,HYG,US,United States of America,NA
+IGG,IGG,US,United States of America,NA
+EII,EII,US,United States of America,NA
+IAN,IAN,US,United States of America,NA
+ILI,ILI,US,United States of America,NA
+UTO,UTO,US,United States of America,NA
+JNU,JNU,US,United States of America,NA
+KFP,KFP,US,United States of America,NA
+AKK,AKK,US,United States of America,NA
+AKN,AKN,US,United States of America,NA
+IKO,IKO,US,United States of America,NA
+AKP,AKP,US,United States of America,NA
+KTN,KTN,US,United States of America,NA
+KAL,KAL,US,United States of America,NA
+AKW,AKW,US,United States of America,NA
+KLG,KLG,US,United States of America,NA
+LUR,LUR,US,United States of America,NA
+MCG,MCG,US,United States of America,NA
+MOU,MOU,US,United States of America,NA
+MRI,MRI,US,United States of America,NA
+MYU,MYU,US,United States of America,NA
+WNA,WNA,US,United States of America,NA
+ANC,ANC,US,United States of America,NA
+ANI,ANI,US,United States of America,NA
+ENN,ENN,US,United States of America,NA
+ANN,ANN,US,United States of America,NA
+ANV,ANV,US,United States of America,NA
+KNW,KNW,US,United States of America,NA
+PCA,PCA,US,United States of America,NA
+HNH,HNH,US,United States of America,NA
+OME,OME,US,United States of America,NA
+ORT,ORT,US,United States of America,NA
+OTZ,OTZ,US,United States of America,NA
+PBV,PBV,US,United States of America,NA
+KPC,KPC,US,United States of America,NA
+PSG,PSG,US,United States of America,NA
+PTH,PTH,US,United States of America,NA
+PTU,PTU,US,United States of America,NA
+PHO,PHO,US,United States of America,NA
+NUI,NUI,US,United States of America,NA
+ARC,ARC,US,United States of America,NA
+RBY,RBY,US,United States of America,NA
+SVA,SVA,US,United States of America,NA
+SCC,SCC,US,United States of America,NA
+SDP,SDP,US,United States of America,NA
+SHH,SHH,US,United States of America,NA
+SIT,SIT,US,United States of America,NA
+KSM,KSM,US,United States of America,NA
+SNP,SNP,US,United States of America,NA
+SVW,SVW,US,United States of America,NA
+SXQ,SXQ,US,United States of America,NA
+SYA,SYA,US,United States of America,NA
+TOG,TOG,US,United States of America,NA
+TKJ,TKJ,US,United States of America,NA
+TLJ,TLJ,US,United States of America,NA
+ATK,ATK,US,United States of America,NA
+VAK,VAK,US,United States of America,NA
+KVC,KVC,US,United States of America,NA
+VDZ,VDZ,US,United States of America,NA
+KVL,KVL,US,United States of America,NA
+SWD,SWD,US,United States of America,NA
+WRG,WRG,US,United States of America,NA
+AIN,AIN,US,United States of America,NA
+WTK,WTK,US,United States of America,NA
+IYS,IYS,US,United States of America,NA
+CIS,CIS,KI,Kiribati,OC
+PCQ,PCQ,LA,Lao People's Democratic Republic,AS
+MFT,MFT,PE,Peru,SA
+AKI,AKI,US,United States of America,NA
+AET,AET,US,United States of America,NA
+FYU,FYU,US,United States of America,NA
+AKG,AKG,PG,Papua New Guinea,OC
+AWB,AWB,PG,Papua New Guinea,OC
+BAA,BAA,PG,Papua New Guinea,OC
+CVB,CVB,PG,Papua New Guinea,OC
+GMI,GMI,PG,Papua New Guinea,OC
+GVI,GVI,PG,Papua New Guinea,OC
+HYF,HYF,PG,Papua New Guinea,OC
+IHU,IHU,PG,Papua New Guinea,OC
+IIS,IIS,PG,Papua New Guinea,OC
+JAQ,JAQ,PG,Papua New Guinea,OC
+KDR,KDR,PG,Papua New Guinea,OC
+KKD,KKD,PG,Papua New Guinea,OC
+KUY,KUY,PG,Papua New Guinea,OC
+KWO,KWO,PG,Papua New Guinea,OC
+KXR,KXR,PG,Papua New Guinea,OC
+LMI,LMI,PG,Papua New Guinea,OC
+LMY,LMY,PG,Papua New Guinea,OC
+OBX,OBX,PG,Papua New Guinea,OC
+OPU,OPU,PG,Papua New Guinea,OC
+SKC,SKC,PG,Papua New Guinea,OC
+TFI,TFI,PG,Papua New Guinea,OC
+TFM,TFM,PG,Papua New Guinea,OC
+TLO,TLO,PG,Papua New Guinea,OC
+UKU,UKU,PG,Papua New Guinea,OC
+ULE,ULE,PG,Papua New Guinea,OC
+VMU,VMU,PG,Papua New Guinea,OC
+WPM,WPM,PG,Papua New Guinea,OC
+ROP,ROP,MP,Northern Mariana Islands,OC
+SPN,SPN,MP,Northern Mariana Islands,OC
+UAM,UAM,GU,Guam,OC
+GUM,GUM,GU,Guam,OC
+TIQ,TIQ,MP,Northern Mariana Islands,OC
+ENI,ENI,PH,Philippines,AS
+BKH,BKH,US,United States of America,NA
+HDH,HDH,US,United States of America,NA
+PHG,PHG,NG,Nigeria,AF
+HHI,HHI,US,United States of America,NA
+HNM,HNM,US,United States of America,NA
+JHM,JHM,US,United States of America,NA
+JRF,JRF,US,United States of America,NA
+KOA,KOA,US,United States of America,NA
+LIH,LIH,US,United States of America,NA
+LUP,LUP,US,United States of America,NA
+MKK,MKK,US,United States of America,NA
+MUE,MUE,US,United States of America,NA
+HNL,HNL,US,United States of America,NA
+LNY,LNY,US,United States of America,NA
+OGG,OGG,US,United States of America,NA
+ITO,ITO,US,United States of America,NA
+UPP,UPP,US,United States of America,NA
+JON,JON,UM,United States Minor Outlying Islands,OC
+BHC,BHC,PK,Pakistan,AS
+CWP,CWP,PK,Pakistan,AS
+GRT,GRT,PK,Pakistan,AS
+HRA,HRA,PK,Pakistan,AS
+KCF,KCF,PK,Pakistan,AS
+REQ,REQ,PK,Pakistan,AS
+RZS,RZS,PK,Pakistan,AS
+SWV,SWV,PK,Pakistan,AS
+ENT,ENT,MH,Marshall Islands,OC
+MAJ,MAJ,MH,Marshall Islands,OC
+KIA,KIA,GY,Guyana,SA
+KWA,KWA,MH,Marshall Islands,OC
+CXI,CXI,KI,Kiribati,OC
+TNV,TNV,KI,Kiribati,OC
+MDY,MDY,UM,United States Minor Outlying Islands,OC
+PIZ,PIZ,US,United States of America,NA
+PQD,PQD,LK,Sri Lanka,AS
+DDP,DDP,PR,Puerto Rico,NA
+HUC,HUC,PR,Puerto Rico,NA
+PPD,PPD,PR,Puerto Rico,NA
+TKK,TKK,FM,Micronesia (Federated States of),OC
+PNI,PNI,FM,Micronesia (Federated States of),OC
+ROR,ROR,PW,Palau,OC
+KSA,KSA,FM,Micronesia (Federated States of),OC
+YAP,YAP,FM,Micronesia (Federated States of),OC
+AWK,AWK,UM,United States Minor Outlying Islands,OC
+BFA,BFA,PY,Paraguay,SA
+OLK,OLK,PY,Paraguay,SA
+PBT,PBT,PY,Paraguay,SA
+PCJ,PCJ,PY,Paraguay,SA
+KIO,KIO,MH,Marshall Islands,OC
+QFX,QFX,GL,Greenland,NA
+RAW,RAW,PG,Papua New Guinea,OC
+KNH,KNH,TW,"Taiwan, Province of China",AS
+LZN,LZN,TW,"Taiwan, Province of China",AS
+TTT,TTT,TW,"Taiwan, Province of China",AS
+GNI,GNI,TW,"Taiwan, Province of China",AS
+KHH,KHH,TW,"Taiwan, Province of China",AS
+CYI,CYI,TW,"Taiwan, Province of China",AS
+HCN,HCN,TW,"Taiwan, Province of China",AS
+TXG,TXG,TW,"Taiwan, Province of China",AS
+KYD,KYD,TW,"Taiwan, Province of China",AS
+RMQ,RMQ,TW,"Taiwan, Province of China",AS
+MFK,MFK,TW,"Taiwan, Province of China",AS
+TNN,TNN,TW,"Taiwan, Province of China",AS
+MZG,MZG,TW,"Taiwan, Province of China",AS
+PIF,PIF,TW,"Taiwan, Province of China",AS
+TSA,TSA,TW,"Taiwan, Province of China",AS
+TPE,TPE,TW,"Taiwan, Province of China",AS
+WOT,WOT,TW,"Taiwan, Province of China",AS
+HUN,HUN,TW,"Taiwan, Province of China",AS
+NRT,NRT,JP,Japan,AS
+MMJ,MMJ,JP,Japan,AS
+IBR,IBR,JP,Japan,AS
+MUS,MUS,JP,Japan,AS
+IWO,IWO,JP,Japan,AS
+KIX,KIX,JP,Japan,AS
+SHM,SHM,JP,Japan,AS
+UKB,UKB,JP,Japan,AS
+HIW,HIW,JP,Japan,AS
+TJH,TJH,JP,Japan,AS
+OBO,OBO,JP,Japan,AS
+CTS,CTS,JP,Japan,AS
+HKD,HKD,JP,Japan,AS
+KUH,KUH,JP,Japan,AS
+MMB,MMB,JP,Japan,AS
+SHB,SHB,JP,Japan,AS
+OKD,OKD,JP,Japan,AS
+RBJ,RBJ,JP,Japan,AS
+WKJ,WKJ,JP,Japan,AS
+IKI,IKI,JP,Japan,AS
+UBJ,UBJ,JP,Japan,AS
+TSJ,TSJ,JP,Japan,AS
+MBE,MBE,JP,Japan,AS
+AKJ,AKJ,JP,Japan,AS
+OIR,OIR,JP,Japan,AS
+RIS,RIS,JP,Japan,AS
+KUM,KUM,JP,Japan,AS
+FUJ,FUJ,JP,Japan,AS
+FUK,FUK,JP,Japan,AS
+TNE,TNE,JP,Japan,AS
+KOJ,KOJ,JP,Japan,AS
+KMI,KMI,JP,Japan,AS
+OIT,OIT,JP,Japan,AS
+KKJ,KKJ,JP,Japan,AS
+HSG,HSG,JP,Japan,AS
+KMJ,KMJ,JP,Japan,AS
+NGS,NGS,JP,Japan,AS
+NGO,NGO,JP,Japan,AS
+ASJ,ASJ,JP,Japan,AS
+OKE,OKE,JP,Japan,AS
+KKX,KKX,JP,Japan,AS
+TKN,TKN,JP,Japan,AS
+NKM,NKM,JP,Japan,AS
+FKJ,FKJ,JP,Japan,AS
+QGU,QGU,JP,Japan,AS
+KMQ,KMQ,JP,Japan,AS
+OKI,OKI,JP,Japan,AS
+TOY,TOY,JP,Japan,AS
+NTQ,NTQ,JP,Japan,AS
+HIJ,HIJ,JP,Japan,AS
+OKJ,OKJ,JP,Japan,AS
+IZO,IZO,JP,Japan,AS
+YGJ,YGJ,JP,Japan,AS
+KCZ,KCZ,JP,Japan,AS
+MYJ,MYJ,JP,Japan,AS
+ITM,ITM,JP,Japan,AS
+TTJ,TTJ,JP,Japan,AS
+TKS,TKS,JP,Japan,AS
+TAK,TAK,JP,Japan,AS
+IWJ,IWJ,JP,Japan,AS
+AOJ,AOJ,JP,Japan,AS
+GAJ,GAJ,JP,Japan,AS
+SDS,SDS,JP,Japan,AS
+FKS,FKS,JP,Japan,AS
+HHE,HHE,JP,Japan,AS
+HNA,HNA,JP,Japan,AS
+AXT,AXT,JP,Japan,AS
+MSJ,MSJ,JP,Japan,AS
+KIJ,KIJ,JP,Japan,AS
+ONJ,ONJ,JP,Japan,AS
+SDJ,SDJ,JP,Japan,AS
+SYO,SYO,JP,Japan,AS
+NJA,NJA,JP,Japan,AS
+HAC,HAC,JP,Japan,AS
+OIM,OIM,JP,Japan,AS
+MYE,MYE,JP,Japan,AS
+HND,HND,JP,Japan,AS
+QUT,QUT,JP,Japan,AS
+OKO,OKO,JP,Japan,AS
+KWJ,KWJ,KR,Korea (Republic of),AS
+KUV,KUV,KR,Korea (Republic of),AS
+MPK,MPK,KR,Korea (Republic of),AS
+CHN,CHN,KR,Korea (Republic of),AS
+RSU,RSU,KR,Korea (Republic of),AS
+QUN,QUN,KR,Korea (Republic of),AS
+SHO,SHO,KR,Korea (Republic of),AS
+KAG,KAG,KR,Korea (Republic of),AS
+WJU,WJU,KR,Korea (Republic of),AS
+YNY,YNY,KR,Korea (Republic of),AS
+CJU,CJU,KR,Korea (Republic of),AS
+CHF,CHF,KR,Korea (Republic of),AS
+PUS,PUS,KR,Korea (Republic of),AS
+HIN,HIN,KR,Korea (Republic of),AS
+USN,USN,KR,Korea (Republic of),AS
+ICN,ICN,KR,Korea (Republic of),AS
+SSN,SSN,KR,Korea (Republic of),AS
+OSN,OSN,KR,Korea (Republic of),AS
+GMP,GMP,KR,Korea (Republic of),AS
+SWU,SWU,KR,Korea (Republic of),AS
+KPO,KPO,KR,Korea (Republic of),AS
+TAE,TAE,KR,Korea (Republic of),AS
+CJJ,CJJ,KR,Korea (Republic of),AS
+YEC,YEC,KR,Korea (Republic of),AS
+OKA,OKA,JP,Japan,AS
+DNA,DNA,JP,Japan,AS
+ISG,ISG,JP,Japan,AS
+UEO,UEO,JP,Japan,AS
+KJP,KJP,JP,Japan,AS
+MMD,MMD,JP,Japan,AS
+MMY,MMY,JP,Japan,AS
+AGJ,AGJ,JP,Japan,AS
+IEJ,IEJ,JP,Japan,AS
+HTR,HTR,JP,Japan,AS
+KTD,KTD,JP,Japan,AS
+SHI,SHI,JP,Japan,AS
+TRA,TRA,JP,Japan,AS
+RNJ,RNJ,JP,Japan,AS
+OGN,OGN,JP,Japan,AS
+SFS,SFS,PH,Philippines,AS
+CRK,CRK,PH,Philippines,AS
+LAO,LAO,PH,Philippines,AS
+MNL,MNL,PH,Philippines,AS
+CYU,CYU,PH,Philippines,AS
+LGP,LGP,PH,Philippines,AS
+NSP,NSP,PH,Philippines,AS
+LBX,LBX,PH,Philippines,AS
+AAV,AAV,PH,Philippines,AS
+GES,GES,PH,Philippines,AS
+CBO,CBO,PH,Philippines,AS
+DVO,DVO,PH,Philippines,AS
+BXU,BXU,PH,Philippines,AS
+BPH,BPH,PH,Philippines,AS
+DPL,DPL,PH,Philippines,AS
+CGM,CGM,PH,Philippines,AS
+IGN,IGN,PH,Philippines,AS
+JOL,JOL,PH,Philippines,AS
+CGY,CGY,PH,Philippines,AS
+MLP,MLP,PH,Philippines,AS
+SGS,SGS,PH,Philippines,AS
+OZC,OZC,PH,Philippines,AS
+PAG,PAG,PH,Philippines,AS
+MXI,MXI,PH,Philippines,AS
+SUG,SUG,PH,Philippines,AS
+CDY,CDY,PH,Philippines,AS
+IPE,IPE,PH,Philippines,AS
+TDG,TDG,PH,Philippines,AS
+ZAM,ZAM,PH,Philippines,AS
+IAO,IAO,PH,Philippines,AS
+BAG,BAG,PH,Philippines,AS
+DTE,DTE,PH,Philippines,AS
+SJI,SJI,PH,Philippines,AS
+MBO,MBO,PH,Philippines,AS
+WNP,WNP,PH,Philippines,AS
+BSO,BSO,PH,Philippines,AS
+BQA,BQA,PH,Philippines,AS
+SFE,SFE,PH,Philippines,AS
+TUG,TUG,PH,Philippines,AS
+VRC,VRC,PH,Philippines,AS
+MRQ,MRQ,PH,Philippines,AS
+CYZ,CYZ,PH,Philippines,AS
+TAC,TAC,PH,Philippines,AS
+BCD,BCD,PH,Philippines,AS
+CYP,CYP,PH,Philippines,AS
+DGT,DGT,PH,Philippines,AS
+MPH,MPH,PH,Philippines,AS
+CRM,CRM,PH,Philippines,AS
+GUI,GUI,PH,Philippines,AS
+ILO,ILO,PH,Philippines,AS
+MBT,MBT,PH,Philippines,AS
+KLO,KLO,PH,Philippines,AS
+CEB,CEB,PH,Philippines,AS
+OMC,OMC,PH,Philippines,AS
+PPS,PPS,PH,Philippines,AS
+RXS,RXS,PH,Philippines,AS
+EUQ,EUQ,PH,Philippines,AS
+TAG,TAG,PH,Philippines,AS
+TBH,TBH,PH,Philippines,AS
+USU,USU,PH,Philippines,AS
+BPR,BPR,PH,Philippines,AS
+NGK,NGK,RU,Russian Federation,AS
+GRV,GRV,RU,Russian Federation,EU
+LNX,LNX,RU,Russian Federation,EU
+VUS,VUS,RU,Russian Federation,EU
+LPS,LPS,US,United States of America,NA
+MJR,MJR,AR,Argentina,SA
+CCT,CCT,AR,Argentina,SA
+COC,COC,AR,Argentina,SA
+GHU,GHU,AR,Argentina,SA
+JNI,JNI,AR,Argentina,SA
+PRA,PRA,AR,Argentina,SA
+ROS,ROS,AR,Argentina,SA
+SFN,SFN,AR,Argentina,SA
+AEP,AEP,AR,Argentina,SA
+LCM,LCM,AR,Argentina,SA
+COR,COR,AR,Argentina,SA
+FDO,FDO,AR,Argentina,SA
+LPG,LPG,AR,Argentina,SA
+EPA,EPA,AR,Argentina,SA
+EZE,EZE,AR,Argentina,SA
+HOS,HOS,AR,Argentina,SA
+CVH,CVH,AR,Argentina,SA
+GNR,GNR,AR,Argentina,SA
+RDS,RDS,AR,Argentina,SA
+APZ,APZ,AR,Argentina,SA
+MDZ,MDZ,AR,Argentina,SA
+LGS,LGS,AR,Argentina,SA
+AFA,AFA,AR,Argentina,SA
+CTC,CTC,AR,Argentina,SA
+SDE,SDE,AR,Argentina,SA
+RHD,RHD,AR,Argentina,SA
+IRJ,IRJ,AR,Argentina,SA
+TUC,TUC,AR,Argentina,SA
+UAQ,UAQ,AR,Argentina,SA
+CRR,CRR,AR,Argentina,SA
+RCU,RCU,AR,Argentina,SA
+VDR,VDR,AR,Argentina,SA
+VME,VME,AR,Argentina,SA
+RLO,RLO,AR,Argentina,SA
+LUQ,LUQ,AR,Argentina,SA
+CNQ,CNQ,AR,Argentina,SA
+RES,RES,AR,Argentina,SA
+FMA,FMA,AR,Argentina,SA
+IGR,IGR,AR,Argentina,SA
+AOL,AOL,AR,Argentina,SA
+MCS,MCS,AR,Argentina,SA
+PSS,PSS,AR,Argentina,SA
+PSV,PSV,AR,Argentina,SA
+SLA,SLA,AR,Argentina,SA
+JUJ,JUJ,AR,Argentina,SA
+ORA,ORA,AR,Argentina,SA
+TTG,TTG,AR,Argentina,SA
+CLX,CLX,AR,Argentina,SA
+ELO,ELO,AR,Argentina,SA
+OYA,OYA,AR,Argentina,SA
+LLS,LLS,AR,Argentina,SA
+MDX,MDX,AR,Argentina,SA
+RCQ,RCQ,AR,Argentina,SA
+UZU,UZU,AR,Argentina,SA
+EHL,EHL,AR,Argentina,SA
+CRD,CRD,AR,Argentina,SA
+EMX,EMX,AR,Argentina,SA
+EQS,EQS,AR,Argentina,SA
+LHS,LHS,AR,Argentina,SA
+IGB,IGB,AR,Argentina,SA
+OES,OES,AR,Argentina,SA
+MQD,MQD,AR,Argentina,SA
+ARR,ARR,AR,Argentina,SA
+SGV,SGV,AR,Argentina,SA
+REL,REL,AR,Argentina,SA
+VDM,VDM,AR,Argentina,SA
+PMY,PMY,AR,Argentina,SA
+ING,ING,AR,Argentina,SA
+FTE,FTE,AR,Argentina,SA
+PUD,PUD,AR,Argentina,SA
+RGA,RGA,AR,Argentina,SA
+RGL,RGL,AR,Argentina,SA
+USH,USH,AR,Argentina,SA
+ULA,ULA,AR,Argentina,SA
+ROY,ROY,AR,Argentina,SA
+PMQ,PMQ,AR,Argentina,SA
+GGS,GGS,AR,Argentina,SA
+JSM,JSM,AR,Argentina,SA
+RYO,RYO,AR,Argentina,SA
+RZA,RZA,AR,Argentina,SA
+BHI,BHI,AR,Argentina,SA
+CSZ,CSZ,AR,Argentina,SA
+OVR,OVR,AR,Argentina,SA
+GPO,GPO,AR,Argentina,SA
+OYO,OYO,AR,Argentina,SA
+SST,SST,AR,Argentina,SA
+MDQ,MDQ,AR,Argentina,SA
+NQN,NQN,AR,Argentina,SA
+NEC,NEC,AR,Argentina,SA
+PEH,PEH,AR,Argentina,SA
+RSA,RSA,AR,Argentina,SA
+BRC,BRC,AR,Argentina,SA
+TDL,TDL,AR,Argentina,SA
+VLG,VLG,AR,Argentina,SA
+CUT,CUT,AR,Argentina,SA
+CPC,CPC,AR,Argentina,SA
+VIU,VIU,SB,Solomon Islands,OC
+SB0,SB0,BR,Brazil,SA
+SB2,SB2,BR,Brazil,SA
+CDJ,CDJ,BR,Brazil,SA
+APS,APS,BR,Brazil,SA
+AQA,AQA,BR,Brazil,SA
+AJU,AJU,BR,Brazil,SA
+AFL,AFL,BR,Brazil,SA
+ARU,ARU,BR,Brazil,SA
+AAX,AAX,BR,Brazil,SA
+BEL,BEL,BR,Brazil,SA
+BGX,BGX,BR,Brazil,SA
+PLU,PLU,BR,Brazil,SA
+QAK,QAK,BR,Brazil,SA
+BSB,BSB,BR,Brazil,SA
+BAT,BAT,BR,Brazil,SA
+BAU,BAU,BR,Brazil,SA
+BVB,BVB,BR,Brazil,SA
+BPG,BPG,BR,Brazil,SA
+BZC,BZC,BR,Brazil,SA
+CAC,CAC,BR,Brazil,SA
+CFB,CFB,BR,Brazil,SA
+ITB,ITB,BR,Brazil,SA
+CNF,CNF,BR,Brazil,SA
+CGR,CGR,BR,Brazil,SA
+XAP,XAP,BR,Brazil,SA
+CLN,CLN,BR,Brazil,SA
+CKS,CKS,BR,Brazil,SA
+CCM,CCM,BR,Brazil,SA
+CLV,CLV,BR,Brazil,SA
+QNS,QNS,BR,Brazil,SA
+CAW,CAW,BR,Brazil,SA
+CMG,CMG,BR,Brazil,SA
+CWB,CWB,BR,Brazil,SA
+CRQ,CRQ,BR,Brazil,SA
+CXJ,CXJ,BR,Brazil,SA
+CGB,CGB,BR,Brazil,SA
+CZS,CZS,BR,Brazil,SA
+PPB,PPB,BR,Brazil,SA
+MAO,MAO,BR,Brazil,SA
+JCR,JCR,BR,Brazil,SA
+IGU,IGU,BR,Brazil,SA
+FLN,FLN,BR,Brazil,SA
+FEN,FEN,BR,Brazil,SA
+FOR,FOR,BR,Brazil,SA
+GIG,GIG,BR,Brazil,SA
+GJM,GJM,BR,Brazil,SA
+GYN,GYN,BR,Brazil,SA
+GRU,GRU,BR,Brazil,SA
+GPB,GPB,BR,Brazil,SA
+GVR,GVR,BR,Brazil,SA
+GUJ,GUJ,BR,Brazil,SA
+ATM,ATM,BR,Brazil,SA
+ITA,ITA,BR,Brazil,SA
+ITB,ITB,BR,Brazil,SA
+IOS,IOS,BR,Brazil,SA
+IPN,IPN,BR,Brazil,SA
+IMP,IMP,BR,Brazil,SA
+JDF,JDF,BR,Brazil,SA
+JPA,JPA,BR,Brazil,SA
+JDO,JDO,BR,Brazil,SA
+JOI,JOI,BR,Brazil,SA
+CPV,CPV,BR,Brazil,SA
+VCP,VCP,BR,Brazil,SA
+LEC,LEC,BR,Brazil,SA
+LAJ,LAJ,BR,Brazil,SA
+LIP,LIP,BR,Brazil,SA
+LDB,LDB,BR,Brazil,SA
+LAZ,LAZ,BR,Brazil,SA
+MAB,MAB,BR,Brazil,SA
+MQH,MQH,BR,Brazil,SA
+MEU,MEU,BR,Brazil,SA
+MEA,MEA,BR,Brazil,SA
+MGF,MGF,BR,Brazil,SA
+MOC,MOC,BR,Brazil,SA
+MII,MII,BR,Brazil,SA
+PLL,PLL,BR,Brazil,SA
+MCZ,MCZ,BR,Brazil,SA
+MCP,MCP,BR,Brazil,SA
+MVF,MVF,BR,Brazil,SA
+SAO,SAO,BR,Brazil,SA
+MNX,MNX,BR,Brazil,SA
+NVT,NVT,BR,Brazil,SA
+GEL,GEL,BR,Brazil,SA
+NAT,NAT,BR,Brazil,SA
+OYK,OYK,BR,Brazil,SA
+POA,POA,BR,Brazil,SA
+PBB,PBB,BR,Brazil,SA
+POO,POO,BR,Brazil,SA
+PFB,PFB,BR,Brazil,SA
+PMW,PMW,BR,Brazil,SA
+PET,PET,BR,Brazil,SA
+PNZ,PNZ,BR,Brazil,SA
+PNB,PNB,BR,Brazil,SA
+PMG,PMG,BR,Brazil,SA
+BPS,BPS,BR,Brazil,SA
+PVH,PVH,BR,Brazil,SA
+VDC,VDC,BR,Brazil,SA
+RBR,RBR,BR,Brazil,SA
+REC,REC,BR,Brazil,SA
+SDU,SDU,BR,Brazil,SA
+RAO,RAO,BR,Brazil,SA
+BRB,BRB,BR,Brazil,SA
+SNZ,SNZ,BR,Brazil,SA
+SJK,SJK,BR,Brazil,SA
+SLZ,SLZ,BR,Brazil,SA
+RIA,RIA,BR,Brazil,SA
+STM,STM,BR,Brazil,SA
+CGH,CGH,BR,Brazil,SA
+SJP,SJP,BR,Brazil,SA
+SSZ,SSZ,BR,Brazil,SA
+SSA,SSA,BR,Brazil,SA
+QHP,QHP,BR,Brazil,SA
+TMT,TMT,BR,Brazil,SA
+UNA,UNA,BR,Brazil,SA
+TOW,TOW,BR,Brazil,SA
+THE,THE,BR,Brazil,SA
+TFF,TFF,BR,Brazil,SA
+TRQ,TRQ,BR,Brazil,SA
+TEC,TEC,BR,Brazil,SA
+OBI,OBI,BR,Brazil,SA
+TBT,TBT,BR,Brazil,SA
+TUR,TUR,BR,Brazil,SA
+SJL,SJL,BR,Brazil,SA
+PAV,PAV,BR,Brazil,SA
+URG,URG,BR,Brazil,SA
+UDI,UDI,BR,Brazil,SA
+UBA,UBA,BR,Brazil,SA
+VAG,VAG,BR,Brazil,SA
+BVH,BVH,BR,Brazil,SA
+VIX,VIX,BR,Brazil,SA
+QPS,QPS,BR,Brazil,SA
+PRI,PRI,SC,Seychelles,AF
+PRI,PRI,SC,Seychelles,AF
+ZUD,ZUD,CL,Chile,SA
+LOB,LOB,CL,Chile,SA
+WAP,WAP,CL,Chile,SA
+ARI,ARI,CL,Chile,SA
+WPA,WPA,CL,Chile,SA
+DAT,DAT,CL,Chile,SA
+BBA,BBA,CL,Chile,SA
+TOQ,TOQ,CL,Chile,SA
+CCH,CCH,CL,Chile,SA
+CJC,CJC,CL,Chile,SA
+YAI,YAI,CL,Chile,SA
+PUQ,PUQ,CL,Chile,SA
+GXQ,GXQ,CL,Chile,SA
+IQQ,IQQ,CL,Chile,SA
+SCL,SCL,CL,Chile,SA
+ESR,ESR,CL,Chile,SA
+FRT,FRT,CL,Chile,SA
+ANF,ANF,CL,Chile,SA
+WPR,WPR,CL,Chile,SA
+FFU,FFU,CL,Chile,SA
+LSQ,LSQ,CL,Chile,SA
+WPU,WPU,CL,Chile,SA
+CPO,CPO,CL,Chile,SA
+LGR,LGR,CL,Chile,SA
+CCP,CCP,CL,Chile,SA
+IPC,IPC,CL,Chile,SA
+ZOS,ZOS,CL,Chile,SA
+VLR,VLR,CL,Chile,SA
+ZLR,ZLR,CL,Chile,SA
+PNT,PNT,CL,Chile,SA
+OVL,OVL,CL,Chile,SA
+ZPC,ZPC,CL,Chile,SA
+PUX,PUX,CL,Chile,SA
+CNR,CNR,CL,Chile,SA
+VAP,VAP,CL,Chile,SA
+QRC,QRC,CL,Chile,SA
+SMB,SMB,CL,Chile,SA
+LSC,LSC,CL,Chile,SA
+SSD,SSD,CL,Chile,SA
+WCA,WCA,CL,Chile,SA
+ZCO,ZCO,CL,Chile,SA
+PMC,PMC,CL,Chile,SA
+ULC,ULC,CL,Chile,SA
+TLX,TLX,CL,Chile,SA
+WCH,WCH,CL,Chile,SA
+ZIC,ZIC,CL,Chile,SA
+TTC,TTC,CL,Chile,SA
+ZAL,ZAL,CL,Chile,SA
+KNA,KNA,CL,Chile,SA
+CPQ,CPQ,BR,Brazil,SA
+QCJ,QCJ,BR,Brazil,SA
+OLC,OLC,BR,Brazil,SA
+SOD,SOD,BR,Brazil,SA
+QDC,QDC,BR,Brazil,SA
+JLS,JLS,BR,Brazil,SA
+QOA,QOA,BR,Brazil,SA
+QGC,QGC,BR,Brazil,SA
+QNV,QNV,BR,Brazil,SA
+OUS,OUS,BR,Brazil,SA
+QHB,QHB,BR,Brazil,SA
+QIQ,QIQ,BR,Brazil,SA
+QVP,QVP,BR,Brazil,SA
+QRZ,QRZ,BR,Brazil,SA
+QSC,QSC,BR,Brazil,SA
+UBT,UBT,BR,Brazil,SA
+QGS,QGS,BR,Brazil,SA
+VOT,VOT,BR,Brazil,SA
+QGB,QGB,BR,Brazil,SA
+IZA,IZA,BR,Brazil,SA
+ATF,ATF,EC,Ecuador,SA
+OCC,OCC,EC,Ecuador,SA
+CUE,CUE,EC,Ecuador,SA
+GPS,GPS,EC,Ecuador,SA
+GYE,GYE,EC,Ecuador,SA
+IBB,IBB,EC,Ecuador,SA
+JIP,JIP,EC,Ecuador,SA
+LTX,LTX,EC,Ecuador,SA
+MRR,MRR,EC,Ecuador,SA
+XMS,XMS,EC,Ecuador,SA
+MCH,MCH,EC,Ecuador,SA
+MEC,MEC,EC,Ecuador,SA
+LGQ,LGQ,EC,Ecuador,SA
+PYO,PYO,EC,Ecuador,SA
+PVO,PVO,EC,Ecuador,SA
+UIO,UIO,EC,Ecuador,SA
+ETR,ETR,EC,Ecuador,SA
+SNC,SNC,EC,Ecuador,SA
+SUQ,SUQ,EC,Ecuador,SA
+PTZ,PTZ,EC,Ecuador,SA
+SCY,SCY,EC,Ecuador,SA
+BHA,BHA,EC,Ecuador,SA
+TSC,TSC,EC,Ecuador,SA
+TPN,TPN,EC,Ecuador,SA
+LOH,LOH,EC,Ecuador,SA
+ESM,ESM,EC,Ecuador,SA
+TPC,TPC,EC,Ecuador,SA
+TUA,TUA,EC,Ecuador,SA
+PSY,PSY,FK,Falkland Islands (Malvinas),SA
+ASU,ASU,PY,Paraguay,SA
+AYO,AYO,PY,Paraguay,SA
+CIO,CIO,PY,Paraguay,SA
+ENO,ENO,PY,Paraguay,SA
+AGT,AGT,PY,Paraguay,SA
+FLM,FLM,PY,Paraguay,SA
+ESG,ESG,PY,Paraguay,SA
+PIL,PIL,PY,Paraguay,SA
+PJC,PJC,PY,Paraguay,SA
+LVR,LVR,BR,Brazil,SA
+FRC,FRC,BR,Brazil,SA
+CFO,CFO,BR,Brazil,SA
+JTC,JTC,BR,Brazil,SA
+ARS,ARS,BR,Brazil,SA
+ACM,ACM,CO,Colombia,SA
+ACL,ACL,CO,Colombia,SA
+NBB,NBB,CO,Colombia,SA
+AZT,AZT,CO,Colombia,SA
+SQB,SQB,CO,Colombia,SA
+ARF,ARF,CO,Colombia,SA
+ACR,ACR,CO,Colombia,SA
+ACD,ACD,CO,Colombia,SA
+AFI,AFI,CO,Colombia,SA
+ADN,ADN,CO,Colombia,SA
+APY,APY,CO,Colombia,SA
+AXM,AXM,CO,Colombia,SA
+PUU,PUU,CO,Colombia,SA
+ELB,ELB,CO,Colombia,SA
+BGA,BGA,CO,Colombia,SA
+BOG,BOG,CO,Colombia,SA
+BAQ,BAQ,CO,Colombia,SA
+BSC,BSC,CO,Colombia,SA
+BUN,BUN,CO,Colombia,SA
+CPB,CPB,CO,Colombia,SA
+CUC,CUC,CO,Colombia,SA
+COG,COG,CO,Colombia,SA
+CTG,CTG,CO,Colombia,SA
+CCO,CCO,CO,Colombia,SA
+CLO,CLO,CO,Colombia,SA
+CIM,CIM,CO,Colombia,SA
+RAV,RAV,CO,Colombia,SA
+TCO,TCO,CO,Colombia,SA
+CUO,CUO,CO,Colombia,SA
+CAQ,CAQ,CO,Colombia,SA
+CVE,CVE,CO,Colombia,SA
+CZU,CZU,CO,Colombia,SA
+EBG,EBG,CO,Colombia,SA
+EJA,EJA,CO,Colombia,SA
+FLA,FLA,CO,Colombia,SA
+FDA,FDA,CO,Colombia,SA
+GIR,GIR,CO,Colombia,SA
+CRC,CRC,CO,Colombia,SA
+GPI,GPI,CO,Colombia,SA
+GLJ,GLJ,CO,Colombia,SA
+CPL,CPL,CO,Colombia,SA
+HTZ,HTZ,CO,Colombia,SA
+IBE,IBE,CO,Colombia,SA
+IGO,IGO,CO,Colombia,SA
+MMP,MMP,CO,Colombia,SA
+IPI,IPI,CO,Colombia,SA
+LQM,LQM,CO,Colombia,SA
+MCJ,MCJ,CO,Colombia,SA
+LPD,LPD,CO,Colombia,SA
+LET,LET,CO,Colombia,SA
+EOH,EOH,CO,Colombia,SA
+MFS,MFS,CO,Colombia,SA
+MGN,MGN,CO,Colombia,SA
+MCJ,MCJ,CO,Colombia,SA
+MTB,MTB,CO,Colombia,SA
+MTR,MTR,CO,Colombia,SA
+MVP,MVP,CO,Colombia,SA
+MZL,MZL,CO,Colombia,SA
+NCI,NCI,CO,Colombia,SA
+NQU,NQU,CO,Colombia,SA
+NVA,NVA,CO,Colombia,SA
+OCV,OCV,CO,Colombia,SA
+ORC,ORC,CO,Colombia,SA
+PCR,PCR,CO,Colombia,SA
+PDA,PDA,CO,Colombia,SA
+PEI,PEI,CO,Colombia,SA
+PTX,PTX,CO,Colombia,SA
+PLT,PLT,CO,Colombia,SA
+NAR,NAR,CO,Colombia,SA
+PPN,PPN,CO,Colombia,SA
+PQE,PQE,CO,Colombia,SA
+PBE,PBE,CO,Colombia,SA
+PSO,PSO,CO,Colombia,SA
+PVA,PVA,CO,Colombia,SA
+PZA,PZA,CO,Colombia,SA
+MQU,MQU,CO,Colombia,SA
+MDE,MDE,CO,Colombia,SA
+RCH,RCH,CO,Colombia,SA
+SJE,SJE,CO,Colombia,SA
+SMR,SMR,CO,Colombia,SA
+SOX,SOX,CO,Colombia,SA
+ADZ,ADZ,CO,Colombia,SA
+SVI,SVI,CO,Colombia,SA
+TBU,TBU,CO,Colombia,SA
+TDA,TDA,CO,Colombia,SA
+TLU,TLU,CO,Colombia,SA
+TME,TME,CO,Colombia,SA
+TQS,TQS,CO,Colombia,SA
+TRB,TRB,CO,Colombia,SA
+MQZ,MQZ,CO,Colombia,SA
+AUC,AUC,CO,Colombia,SA
+UIB,UIB,CO,Colombia,SA
+ULQ,ULQ,CO,Colombia,SA
+URR,URR,CO,Colombia,SA
+VUP,VUP,CO,Colombia,SA
+VVC,VVC,CO,Colombia,SA
+AYG,AYG,CO,Colombia,SA
+EYP,EYP,CO,Colombia,SA
+MHW,MHW,BO,Bolivia (Plurinational State of),SA
+APB,APB,BO,Bolivia (Plurinational State of),SA
+ASC,ASC,BO,Bolivia (Plurinational State of),SA
+BJO,BJO,BO,Bolivia (Plurinational State of),SA
+CAM,CAM,BO,Bolivia (Plurinational State of),SA
+CBB,CBB,BO,Bolivia (Plurinational State of),SA
+CIJ,CIJ,BO,Bolivia (Plurinational State of),SA
+CEP,CEP,BO,Bolivia (Plurinational State of),SA
+SRZ,SRZ,BO,Bolivia (Plurinational State of),SA
+GYA,GYA,BO,Bolivia (Plurinational State of),SA
+BVK,BVK,BO,Bolivia (Plurinational State of),SA
+SJS,SJS,BO,Bolivia (Plurinational State of),SA
+SJB,SJB,BO,Bolivia (Plurinational State of),SA
+SJV,SJV,BO,Bolivia (Plurinational State of),SA
+LPB,LPB,BO,Bolivia (Plurinational State of),SA
+MGD,MGD,BO,Bolivia (Plurinational State of),SA
+ORU,ORU,BO,Bolivia (Plurinational State of),SA
+POI,POI,BO,Bolivia (Plurinational State of),SA
+PUR,PUR,BO,Bolivia (Plurinational State of),SA
+PSZ,PSZ,BO,Bolivia (Plurinational State of),SA
+SRD,SRD,BO,Bolivia (Plurinational State of),SA
+RBO,RBO,BO,Bolivia (Plurinational State of),SA
+RIB,RIB,BO,Bolivia (Plurinational State of),SA
+REY,REY,BO,Bolivia (Plurinational State of),SA
+SBL,SBL,BO,Bolivia (Plurinational State of),SA
+SRJ,SRJ,BO,Bolivia (Plurinational State of),SA
+SNG,SNG,BO,Bolivia (Plurinational State of),SA
+SNM,SNM,BO,Bolivia (Plurinational State of),SA
+SRB,SRB,BO,Bolivia (Plurinational State of),SA
+SRE,SRE,BO,Bolivia (Plurinational State of),SA
+MQK,MQK,BO,Bolivia (Plurinational State of),SA
+TJA,TJA,BO,Bolivia (Plurinational State of),SA
+TDD,TDD,BO,Bolivia (Plurinational State of),SA
+UYU,UYU,BO,Bolivia (Plurinational State of),SA
+VAH,VAH,BO,Bolivia (Plurinational State of),SA
+VLM,VLM,BO,Bolivia (Plurinational State of),SA
+VVI,VVI,BO,Bolivia (Plurinational State of),SA
+BYC,BYC,BO,Bolivia (Plurinational State of),SA
+ABN,ABN,SR,Suriname,SA
+TOT,TOT,SR,Suriname,SA
+DRJ,DRJ,SR,Suriname,SA
+PBM,PBM,SR,Suriname,SA
+ICK,ICK,SR,Suriname,SA
+OEM,OEM,SR,Suriname,SA
+SMZ,SMZ,SR,Suriname,SA
+AGI,AGI,SR,Suriname,SA
+ORG,ORG,SR,Suriname,SA
+APY,APY,BR,Brazil,SA
+APQ,APQ,BR,Brazil,SA
+AMJ,AMJ,BR,Brazil,SA
+AIF,AIF,BR,Brazil,SA
+BDC,BDC,BR,Brazil,SA
+BVM,BVM,BR,Brazil,SA
+BRA,BRA,BR,Brazil,SA
+BSS,BSS,BR,Brazil,SA
+BMS,BMS,BR,Brazil,SA
+BQQ,BQQ,BR,Brazil,SA
+CTP,CTP,BR,Brazil,SA
+CPU,CPU,BR,Brazil,SA
+QCH,QCH,BR,Brazil,SA
+RDC,RDC,BR,Brazil,SA
+LEP,LEP,BR,Brazil,SA
+DIQ,DIQ,BR,Brazil,SA
+CNV,CNV,BR,Brazil,SA
+SXX,SXX,BR,Brazil,SA
+ODL,ODL,BR,Brazil,SA
+GDP,GDP,BR,Brazil,SA
+GNM,GNM,BR,Brazil,SA
+GMS,GMS,BR,Brazil,SA
+QGP,QGP,BR,Brazil,SA
+ITN,ITN,BR,Brazil,SA
+IRE,IRE,BR,Brazil,SA
+QIG,QIG,BR,Brazil,SA
+QIT,QIT,BR,Brazil,SA
+IPU,IPU,BR,Brazil,SA
+JCM,JCM,BR,Brazil,SA
+FEC,FEC,BR,Brazil,SA
+JEQ,JEQ,BR,Brazil,SA
+JNA,JNA,BR,Brazil,SA
+JDR,JDR,BR,Brazil,SA
+CMP,CMP,BR,Brazil,SA
+QDF,QDF,BR,Brazil,SA
+QXD,QXD,BR,Brazil,SA
+QCP,QCP,BR,Brazil,SA
+LVB,LVB,BR,Brazil,SA
+SSO,SSO,BR,Brazil,SA
+MTE,MTE,BR,Brazil,SA
+MVS,MVS,BR,Brazil,SA
+SBJ,SBJ,BR,Brazil,SA
+PTQ,PTQ,BR,Brazil,SA
+NNU,NNU,BR,Brazil,SA
+QBX,QBX,BR,Brazil,SA
+PSW,PSW,BR,Brazil,SA
+ORX,ORX,BR,Brazil,SA
+PCS,PCS,BR,Brazil,SA
+POJ,POJ,BR,Brazil,SA
+PIV,PIV,BR,Brazil,SA
+FLB,FLB,BR,Brazil,SA
+JDO,JDO,BR,Brazil,SA
+PIV,PIV,BR,Brazil,SA
+PDF,PDF,BR,Brazil,SA
+CAU,CAU,BR,Brazil,SA
+SFK,SFK,BR,Brazil,SA
+OBI,OBI,BR,Brazil,SA
+TFL,TFL,BR,Brazil,SA
+VAL,VAL,BR,Brazil,SA
+QID,QID,BR,Brazil,SA
+BVS,BVS,BR,Brazil,SA
+CMC,CMC,BR,Brazil,SA
+QXC,QXC,BR,Brazil,SA
+PHI,PHI,BR,Brazil,SA
+ITI,ITI,BR,Brazil,SA
+PPY,PPY,BR,Brazil,SA
+BXX,BXX,SO,Somalia,AF
+GTA,GTA,SB,Solomon Islands,OC
+CAY,CAY,GF,French Guiana,SA
+MPY,MPY,GF,French Guiana,SA
+OXP,OXP,GF,French Guiana,SA
+LDX,LDX,GF,French Guiana,SA
+REI,REI,GF,French Guiana,SA
+XAU,XAU,GF,French Guiana,SA
+APE,APE,PE,Peru,SA
+ALD,ALD,PE,Peru,SA
+AOP,AOP,PE,Peru,SA
+ATG,ATG,PE,Peru,SA
+MBP,MBP,PE,Peru,SA
+LHC,LHC,PE,Peru,SA
+BLP,BLP,PE,Peru,SA
+IBP,IBP,PE,Peru,SA
+TCG,TCG,PE,Peru,SA
+PCL,PCL,PE,Peru,SA
+CTF,CTF,PE,Peru,SA
+CHM,CHM,PE,Peru,SA
+TGI,TGI,PE,Peru,SA
+CIX,CIX,PE,Peru,SA
+AYP,AYP,PE,Peru,SA
+ANS,ANS,PE,Peru,SA
+ATA,ATA,PE,Peru,SA
+UMI,UMI,PE,Peru,SA
+LIM,LIM,PE,Peru,SA
+SFK,SFK,PE,Peru,SA
+UCZ,UCZ,PE,Peru,SA
+RIJ,RIJ,PE,Peru,SA
+JJI,JJI,PE,Peru,SA
+JAU,JAU,PE,Peru,SA
+JUL,JUL,PE,Peru,SA
+SJA,SJA,PE,Peru,SA
+CJA,CJA,PE,Peru,SA
+RIM,RIM,PE,Peru,SA
+ILQ,ILQ,PE,Peru,SA
+LIM,LIM,PE,Peru,SA
+TBP,TBP,PE,Peru,SA
+CHM,CHM,PE,Peru,SA
+SMG,SMG,PE,Peru,SA
+YMS,YMS,PE,Peru,SA
+HUU,HUU,PE,Peru,SA
+SQU,SQU,PE,Peru,SA
+SYC,SYC,PE,Peru,SA
+CHH,CHH,PE,Peru,SA
+REQ,REQ,PE,Peru,SA
+IQT,IQT,PE,Peru,SA
+AQP,AQP,PE,Peru,SA
+TRU,TRU,PE,Peru,SA
+SQD,SQD,PE,Peru,SA
+PIO,PIO,PE,Peru,SA
+TPP,TPP,PE,Peru,SA
+SYC,SYC,PE,Peru,SA
+TCQ,TCQ,PE,Peru,SA
+PEM,PEM,PE,Peru,SA
+PIU,PIU,PE,Peru,SA
+TYL,TYL,PE,Peru,SA
+NZA,NZA,PE,Peru,SA
+CUZ,CUZ,PE,Peru,SA
+AAJ,AAJ,SR,Suriname,SA
+KCB,KCB,SR,Suriname,SA
+APU,APU,BR,Brazil,SA
+BNU,BNU,BR,Brazil,SA
+CCI,CCI,BR,Brazil,SA
+QCN,QCN,BR,Brazil,SA
+CKO,CKO,BR,Brazil,SA
+DOU,DOU,BR,Brazil,SA
+ERM,ERM,BR,Brazil,SA
+FBE,FBE,BR,Brazil,SA
+QGA,QGA,BR,Brazil,SA
+IJU,IJU,BR,Brazil,SA
+ITQ,ITQ,BR,Brazil,SA
+JCB,JCB,BR,Brazil,SA
+QDB,QDB,BR,Brazil,SA
+QCR,QCR,BR,Brazil,SA
+QRE,QRE,BR,Brazil,SA
+ALQ,ALQ,BR,Brazil,SA
+QMF,QMF,BR,Brazil,SA
+QGF,QGF,BR,Brazil,SA
+QHV,QHV,BR,Brazil,SA
+SQX,SQX,BR,Brazil,SA
+APX,APX,BR,Brazil,SA
+PTO,PTO,BR,Brazil,SA
+PNG,PNG,BR,Brazil,SA
+PVI,PVI,BR,Brazil,SA
+PBB,PBB,BR,Brazil,SA
+QAC,QAC,BR,Brazil,SA
+SQY,SQY,BR,Brazil,SA
+QOJ,QOJ,BR,Brazil,SA
+CSU,CSU,BR,Brazil,SA
+UMU,UMU,BR,Brazil,SA
+QVB,QVB,BR,Brazil,SA
+VIA,VIA,BR,Brazil,SA
+CTQ,CTQ,BR,Brazil,SA
+AXE,AXE,BR,Brazil,SA
+AAG,AAG,BR,Brazil,SA
+SRA,SRA,BR,Brazil,SA
+PGZ,PGZ,BR,Brazil,SA
+ATI,ATI,UY,Uruguay,SA
+BUV,BUV,UY,Uruguay,SA
+CYR,CYR,UY,Uruguay,SA
+CAR,CAR,UY,Uruguay,SA
+DZO,DZO,UY,Uruguay,SA
+PDP,PDP,UY,Uruguay,SA
+MER,MER,UY,Uruguay,SA
+MLZ,MLZ,UY,Uruguay,SA
+MVD,MVD,UY,Uruguay,SA
+MDO,MDO,UY,Uruguay,SA
+PDU,PDU,UY,Uruguay,SA
+RVY,RVY,UY,Uruguay,SA
+STY,STY,UY,Uruguay,SA
+TAW,TAW,UY,Uruguay,SA
+TYT,TYT,UY,Uruguay,SA
+VCH,VCH,UY,Uruguay,SA
+AGV,AGV,VE,Venezuela (Bolivarian Republic of),SA
+AAO,AAO,VE,Venezuela (Bolivarian Republic of),SA
+LPJ,LPJ,VE,Venezuela (Bolivarian Republic of),SA
+BLA,BLA,VE,Venezuela (Bolivarian Republic of),SA
+BNS,BNS,VE,Venezuela (Bolivarian Republic of),SA
+ELR,ELR,VE,Venezuela (Bolivarian Republic of),SA
+BRM,BRM,VE,Venezuela (Bolivarian Republic of),SA
+MYC,MYC,VE,Venezuela (Bolivarian Republic of),SA
+CBL,CBL,VE,Venezuela (Bolivarian Republic of),SA
+CXA,CXA,VE,Venezuela (Bolivarian Republic of),SA
+CUV,CUV,VE,Venezuela (Bolivarian Republic of),SA
+CLZ,CLZ,VE,Venezuela (Bolivarian Republic of),SA
+CAJ,CAJ,VE,Venezuela (Bolivarian Republic of),SA
+VCR,VCR,VE,Venezuela (Bolivarian Republic of),SA
+CUP,CUP,VE,Venezuela (Bolivarian Republic of),SA
+CZE,CZE,VE,Venezuela (Bolivarian Republic of),SA
+CUM,CUM,VE,Venezuela (Bolivarian Republic of),SA
+isl,isl,VE,Venezuela (Bolivarian Republic of),SA
+EOR,EOR,VE,Venezuela (Bolivarian Republic of),SA
+EOZ,EOZ,VE,Venezuela (Bolivarian Republic of),SA
+GDO,GDO,VE,Venezuela (Bolivarian Republic of),SA
+GUI,GUI,VE,Venezuela (Bolivarian Republic of),SA
+GUQ,GUQ,VE,Venezuela (Bolivarian Republic of),SA
+ICA,ICA,VE,Venezuela (Bolivarian Republic of),SA
+LSP,LSP,VE,Venezuela (Bolivarian Republic of),SA
+KAV,KAV,VE,Venezuela (Bolivarian Republic of),SA
+LFR,LFR,VE,Venezuela (Bolivarian Republic of),SA
+MAR,MAR,VE,Venezuela (Bolivarian Republic of),SA
+MRD,MRD,VE,Venezuela (Bolivarian Republic of),SA
+PMV,PMV,VE,Venezuela (Bolivarian Republic of),SA
+CCS,CCS,VE,Venezuela (Bolivarian Republic of),SA
+MUN,MUN,VE,Venezuela (Bolivarian Republic of),SA
+CBS,CBS,VE,Venezuela (Bolivarian Republic of),SA
+PYH,PYH,VE,Venezuela (Bolivarian Republic of),SA
+PBL,PBL,VE,Venezuela (Bolivarian Republic of),SA
+PDZ,PDZ,VE,Venezuela (Bolivarian Republic of),SA
+PPH,PPH,VE,Venezuela (Bolivarian Republic of),SA
+SCI,SCI,VE,Venezuela (Bolivarian Republic of),SA
+PZO,PZO,VE,Venezuela (Bolivarian Republic of),SA
+PTM,PTM,VE,Venezuela (Bolivarian Republic of),SA
+LRV,LRV,VE,Venezuela (Bolivarian Republic of),SA
+SVZ,SVZ,VE,Venezuela (Bolivarian Republic of),SA
+SBB,SBB,VE,Venezuela (Bolivarian Republic of),SA
+SNV,SNV,VE,Venezuela (Bolivarian Republic of),SA
+STD,STD,VE,Venezuela (Bolivarian Republic of),SA
+SNF,SNF,VE,Venezuela (Bolivarian Republic of),SA
+SFD,SFD,VE,Venezuela (Bolivarian Republic of),SA
+SOM,SOM,VE,Venezuela (Bolivarian Republic of),SA
+STB,STB,VE,Venezuela (Bolivarian Republic of),SA
+TUV,TUV,VE,Venezuela (Bolivarian Republic of),SA
+TMO,TMO,VE,Venezuela (Bolivarian Republic of),SA
+URM,URM,VE,Venezuela (Bolivarian Republic of),SA
+VLN,VLN,VE,Venezuela (Bolivarian Republic of),SA
+VIG,VIG,VE,Venezuela (Bolivarian Republic of),SA
+VLV,VLV,VE,Venezuela (Bolivarian Republic of),SA
+VDP,VDP,VE,Venezuela (Bolivarian Republic of),SA
+BAZ,BAZ,BR,Brazil,SA
+RBB,RBB,BR,Brazil,SA
+CAF,CAF,BR,Brazil,SA
+CQS,CQS,BR,Brazil,SA
+DMT,DMT,BR,Brazil,SA
+DNO,DNO,BR,Brazil,SA
+ARS,ARS,BR,Brazil,SA
+ERN,ERN,BR,Brazil,SA
+CQA,CQA,BR,Brazil,SA
+FEJ,FEJ,BR,Brazil,SA
+SXO,SXO,BR,Brazil,SA
+GRP,GRP,BR,Brazil,SA
+AUX,AUX,BR,Brazil,SA
+IPG,IPG,BR,Brazil,SA
+IDO,IDO,BR,Brazil,SA
+JPR,JPR,BR,Brazil,SA
+JIA,JIA,BR,Brazil,SA
+JRN,JRN,BR,Brazil,SA
+CCX,CCX,BR,Brazil,SA
+CIZ,CIZ,BR,Brazil,SA
+TLZ,TLZ,BR,Brazil,SA
+LBR,LBR,BR,Brazil,SA
+RVD,RVD,BR,Brazil,SA
+MBZ,MBZ,BR,Brazil,SA
+NVP,NVP,BR,Brazil,SA
+AQM,AQM,BR,Brazil,SA
+BCR,BCR,BR,Brazil,SA
+NQL,NQL,BR,Brazil,SA
+APS,APS,BR,Brazil,SA
+PIN,PIN,BR,Brazil,SA
+PMW,PMW,BR,Brazil,SA
+PBQ,PBQ,BR,Brazil,SA
+AAI,AAI,BR,Brazil,SA
+ROO,ROO,BR,Brazil,SA
+AIR,AIR,BR,Brazil,SA
+OPS,OPS,BR,Brazil,SA
+STZ,STZ,BR,Brazil,SA
+IRZ,IRZ,BR,Brazil,SA
+AZL,AZL,BR,Brazil,SA
+QHN,QHN,BR,Brazil,SA
+SQM,SQM,BR,Brazil,SA
+VLP,VLP,BR,Brazil,SA
+MBK,MBK,BR,Brazil,SA
+NOK,NOK,BR,Brazil,SA
+AHL,AHL,GY,Guyana,SA
+NAI,NAI,GY,Guyana,SA
+BMJ,BMJ,GY,Guyana,SA
+GFO,GFO,GY,Guyana,SA
+GEO,GEO,GY,Guyana,SA
+OGL,OGL,GY,Guyana,SA
+IMB,IMB,GY,Guyana,SA
+KAR,KAR,GY,Guyana,SA
+KRM,KRM,GY,Guyana,SA
+KRG,KRG,GY,Guyana,SA
+KTO,KTO,GY,Guyana,SA
+LUB,LUB,GY,Guyana,SA
+LTM,LTM,GY,Guyana,SA
+USI,USI,GY,Guyana,SA
+MHA,MHA,GY,Guyana,SA
+MYM,MYM,GY,Guyana,SA
+QSX,QSX,GY,Guyana,SA
+ORJ,ORJ,GY,Guyana,SA
+PRR,PRR,GY,Guyana,SA
+SZN,SZN,US,United States of America,NA
+ANU,ANU,AG,Antigua and Barbuda,NA
+BBQ,BBQ,AG,Antigua and Barbuda,NA
+BGI,BGI,BB,Barbados,NA
+DCF,DCF,DM,Dominica,NA
+DOM,DOM,DM,Dominica,NA
+DSD,DSD,GP,Guadeloupe,NA
+BBR,BBR,GP,Guadeloupe,NA
+SFC,SFC,GP,Guadeloupe,NA
+FDF,FDF,MQ,Martinique,NA
+SFG,SFG,MF,Saint Martin (French part),NA
+SBH,SBH,BL,Saint Barthélemy,NA
+GBJ,GBJ,GP,Guadeloupe,NA
+PTP,PTP,GP,Guadeloupe,NA
+LSS,LSS,GP,Guadeloupe,NA
+GND,GND,GD,Grenada,NA
+CRU,CRU,GD,Grenada,NA
+STT,STT,VI,Virgin Islands (U.S.),NA
+STX,STX,VI,Virgin Islands (U.S.),NA
+ARE,ARE,PR,Puerto Rico,NA
+BQN,BQN,PR,Puerto Rico,NA
+VQS,VQS,PR,Puerto Rico,NA
+CPX,CPX,PR,Puerto Rico,NA
+FAJ,FAJ,PR,Puerto Rico,NA
+SIG,SIG,PR,Puerto Rico,NA
+MAZ,MAZ,PR,Puerto Rico,NA
+PSE,PSE,PR,Puerto Rico,NA
+SJU,SJU,PR,Puerto Rico,NA
+SKB,SKB,KN,Saint Kitts and Nevis,NA
+NEV,NEV,KN,Saint Kitts and Nevis,NA
+SLU,SLU,LC,Saint Lucia,NA
+UVF,UVF,LC,Saint Lucia,NA
+NBE,NBE,TN,Tunisia,AF
+AUA,AUA,AW,Aruba,NA
+BON,BON,AN,Andorra,NA
+CUR,CUR,AN,Andorra,NA
+EUX,EUX,AN,Andorra,NA
+SXM,SXM,AN,Andorra,NA
+SAB,SAB,AN,Andorra,NA
+AXA,AXA,AI,Anguilla,NA
+MNI,MNI,MS,Montserrat,NA
+TAB,TAB,TT,Trinidad and Tobago,NA
+POS,POS,TT,Trinidad and Tobago,NA
+NGD,NGD,VG,Virgin Islands (British),NA
+EIS,EIS,VG,Virgin Islands (British),NA
+VIJ,VIJ,VG,Virgin Islands (British),NA
+BR-,BR-,BR,Brazil,SA
+BQU,BQU,VC,Saint Vincent and the Grenadines,NA
+CIW,CIW,VC,Saint Vincent and the Grenadines,NA
+MQS,MQS,VC,Saint Vincent and the Grenadines,NA
+UNI,UNI,VC,Saint Vincent and the Grenadines,NA
+SVD,SVD,VC,Saint Vincent and the Grenadines,NA
+CMJ,CMJ,TW,"Taiwan, Province of China",AS
+TWH,TWH,US,United States of America,NA
+BDA,BDA,BM,Bermuda,NA
+GIT,GIT,TZ,"Tanzania, United Republic of",AF
+LUY,LUY,TZ,"Tanzania, United Republic of",AF
+ALA,ALA,KZ,Kazakhstan,AS
+BXH,BXH,KZ,Kazakhstan,AS
+BXJ,BXJ,KZ,Kazakhstan,AS
+TSE,TSE,KZ,Kazakhstan,AS
+KOV,KOV,KZ,Kazakhstan,AS
+PPK,PPK,KZ,Kazakhstan,AS
+DMB,DMB,KZ,Kazakhstan,AS
+UAE,UAE,PG,Papua New Guinea,OC
+FRU,FRU,KG,Kyrgyzstan,AS
+OSS,OSS,KG,Kyrgyzstan,AS
+CIT,CIT,KZ,Kazakhstan,AS
+DZN,DZN,KZ,Kazakhstan,AS
+KGF,KGF,KZ,Kazakhstan,AS
+KZO,KZO,KZ,Kazakhstan,AS
+URA,URA,KZ,Kazakhstan,AS
+EKB,EKB,KZ,Kazakhstan,AS
+UKK,UKK,KZ,Kazakhstan,AS
+PWQ,PWQ,KZ,Kazakhstan,AS
+DLX,DLX,KZ,Kazakhstan,AS
+SCO,SCO,KZ,Kazakhstan,AS
+GUW,GUW,KZ,Kazakhstan,AS
+AKX,AKX,KZ,Kazakhstan,AS
+AYK,AYK,KZ,Kazakhstan,AS
+KSN,KSN,KZ,Kazakhstan,AS
+GYD,GYD,AZ,Azerbaijan,AS
+KVD,KVD,AZ,Azerbaijan,AS
+NAJ,NAJ,AZ,Azerbaijan,AS
+GBB,GBB,AZ,Azerbaijan,AS
+ZTU,ZTU,AZ,Azerbaijan,AS
+LWN,LWN,AM,Armenia,AS
+EVN,EVN,AM,Armenia,AS
+ADH,ADH,RU,Russian Federation,AS
+YKS,YKS,RU,Russian Federation,AS
+CNN,CNN,RU,Russian Federation,AS
+ULK,ULK,RU,Russian Federation,AS
+PYJ,PYJ,RU,Russian Federation,AS
+MJZ,MJZ,RU,Russian Federation,AS
+CKH,CKH,RU,Russian Federation,AS
+CYX,CYX,RU,Russian Federation,AS
+IKS,IKS,RU,Russian Federation,AS
+ENK,ENK,RU,Russian Federation,AS
+OYG,OYG,UG,Uganda,AF
+UGB,UGB,US,United States of America,NA
+KUT,KUT,GE,Georgia,AS
+BUS,BUS,GE,Georgia,AS
+SUI,SUI,GE,Georgia,AS
+TBS,TBS,GE,Georgia,AS
+BQS,BQS,RU,Russian Federation,AS
+GDG,GDG,RU,Russian Federation,AS
+TYD,TYD,RU,Russian Federation,AS
+KHV,KHV,RU,Russian Federation,AS
+KXK,KXK,RU,Russian Federation,AS
+DYR,DYR,RU,Russian Federation,AS
+PVS,PVS,RU,Russian Federation,EU
+GDX,GDX,RU,Russian Federation,AS
+PWE,PWE,RU,Russian Federation,AS
+BQG,BQG,RU,Russian Federation,EU
+OHO,OHO,RU,Russian Federation,AS
+PKC,PKC,RU,Russian Federation,AS
+OHH,OHH,RU,Russian Federation,AS
+EKS,EKS,RU,Russian Federation,AS
+DEE,DEE,RU,Russian Federation,AS
+ZZO,ZZO,RU,Russian Federation,AS
+UUS,UUS,RU,Russian Federation,AS
+VVO,VVO,RU,Russian Federation,AS
+HTA,HTA,RU,Russian Federation,AS
+BTK,BTK,RU,Russian Federation,AS
+UIK,UIK,RU,Russian Federation,AS
+IKT,IKT,RU,Russian Federation,AS
+ODO,ODO,RU,Russian Federation,AS
+ERG,ERG,RU,Russian Federation,AS
+UKX,UKX,RU,Russian Federation,AS
+UUD,UUD,RU,Russian Federation,AS
+UJE,UJE,MH,Marshall Islands,OC
+UJN,UJN,KR,Korea (Republic of),AS
+KBP,KBP,UA,Ukraine,EU
+DOK,DOK,UA,Ukraine,EU
+KRQ,KRQ,UA,Ukraine,EU
+MPW,MPW,UA,Ukraine,EU
+SEV,SEV,UA,Ukraine,EU
+VSG,VSG,UA,Ukraine,EU
+ERD,ERD,UA,Ukraine,EU
+DNK,DNK,UA,Ukraine,EU
+OZH,OZH,UA,Ukraine,EU
+KWG,KWG,UA,Ukraine,EU
+UKS,UKS,UA,Ukraine,EU
+SIP,SIP,UA,Ukraine,EU
+KHC,KHC,UA,Ukraine,EU
+UKH,UKH,OM,Oman,AS
+HRK,HRK,UA,Ukraine,EU
+PLV,PLV,UA,Ukraine,EU
+UMY,UMY,UA,Ukraine,EU
+CKC,CKC,UA,Ukraine,EU
+KGO,KGO,UA,Ukraine,EU
+IEV,IEV,UA,Ukraine,EU
+GML,GML,UA,Ukraine,EU
+UCK,UCK,UA,Ukraine,EU
+HMJ,HMJ,UA,Ukraine,EU
+IFO,IFO,UA,Ukraine,EU
+LWO,LWO,UA,Ukraine,EU
+CWC,CWC,UA,Ukraine,EU
+RWN,RWN,UA,Ukraine,EU
+TNL,TNL,UA,Ukraine,EU
+UDJ,UDJ,UA,Ukraine,EU
+KHE,KHE,UA,Ukraine,EU
+NLV,NLV,UA,Ukraine,EU
+ODS,ODS,UA,Ukraine,EU
+VIN,VIN,UA,Ukraine,EU
+ARH,ARH,RU,Russian Federation,EU
+NNM,NNM,RU,Russian Federation,EU
+CSH,CSH,RU,Russian Federation,EU
+CEE,CEE,RU,Russian Federation,EU
+AMV,AMV,RU,Russian Federation,AS
+ULH,ULH,SA,Saudi Arabia,AS
+KSZ,KSZ,RU,Russian Federation,EU
+LED,LED,RU,Russian Federation,EU
+KVK,KVK,RU,Russian Federation,EU
+MMK,MMK,RU,Russian Federation,EU
+NVR,NVR,RU,Russian Federation,EU
+VLU,VLU,RU,Russian Federation,EU
+PKV,PKV,RU,Russian Federation,EU
+PES,PES,RU,Russian Federation,EU
+RVH,RVH,RU,Russian Federation,EU
+VGD,VGD,RU,Russian Federation,EU
+BQT,BQT,BY,Belarus,EU
+GME,GME,BY,Belarus,EU
+VTB,VTB,BY,Belarus,EU
+KGD,KGD,RU,Russian Federation,EU
+GNA,GNA,BY,Belarus,EU
+MHP,MHP,BY,Belarus,EU
+MSQ,MSQ,BY,Belarus,EU
+MVQ,MVQ,BY,Belarus,EU
+ABA,ABA,RU,Russian Federation,AS
+BAX,BAX,RU,Russian Federation,AS
+KEJ,KEJ,RU,Russian Federation,AS
+EIE,EIE,RU,Russian Federation,AS
+KJA,KJA,RU,Russian Federation,AS
+ACS,ACS,RU,Russian Federation,AS
+KYZ,KYZ,RU,Russian Federation,AS
+OVB,OVB,RU,Russian Federation,AS
+OMS,OMS,RU,Russian Federation,AS
+TOF,TOF,RU,Russian Federation,AS
+NOZ,NOZ,RU,Russian Federation,AS
+DKS,DKS,RU,Russian Federation,AS
+HTG,HTG,RU,Russian Federation,AS
+IAA,IAA,RU,Russian Federation,AS
+NSK,NSK,RU,Russian Federation,AS
+AAQ,AAQ,RU,Russian Federation,EU
+EIK,EIK,RU,Russian Federation,EU
+GDZ,GDZ,RU,Russian Federation,EU
+KRR,KRR,RU,Russian Federation,EU
+MCX,MCX,RU,Russian Federation,EU
+MRV,MRV,RU,Russian Federation,EU
+NAL,NAL,RU,Russian Federation,EU
+OGZ,OGZ,RU,Russian Federation,EU
+IGT,IGT,RU,Russian Federation,EU
+STW,STW,RU,Russian Federation,EU
+ROV,ROV,RU,Russian Federation,EU
+VLK,VLK,RU,Russian Federation,EU
+AER,AER,RU,Russian Federation,EU
+ASF,ASF,RU,Russian Federation,EU
+ESL,ESL,RU,Russian Federation,EU
+VOG,VOG,RU,Russian Federation,EU
+AHT,AHT,US,United States of America,NA
+CEK,CEK,RU,Russian Federation,AS
+MQF,MQF,RU,Russian Federation,EU
+SLY,SLY,RU,Russian Federation,AS
+YMK,YMK,RU,Russian Federation,AS
+UEN,UEN,RU,Russian Federation,EU
+EZV,EZV,RU,Russian Federation,AS
+HMA,HMA,RU,Russian Federation,AS
+IRM,IRM,RU,Russian Federation,AS
+NYA,NYA,RU,Russian Federation,AS
+OVS,OVS,RU,Russian Federation,AS
+URJ,URJ,RU,Russian Federation,AS
+EYK,EYK,RU,Russian Federation,AS
+IJK,IJK,RU,Russian Federation,EU
+KVX,KVX,RU,Russian Federation,EU
+NYM,NYM,RU,Russian Federation,AS
+NUX,NUX,RU,Russian Federation,AS
+NJC,NJC,RU,Russian Federation,AS
+RAT,RAT,RU,Russian Federation,AS
+PEE,PEE,RU,Russian Federation,EU
+KGP,KGP,RU,Russian Federation,AS
+NFG,NFG,RU,Russian Federation,AS
+NOJ,NOJ,RU,Russian Federation,AS
+SGC,SGC,RU,Russian Federation,AS
+SVX,SVX,RU,Russian Federation,AS
+TOX,TOX,RU,Russian Federation,AS
+TJM,TJM,RU,Russian Federation,AS
+KRO,KRO,RU,Russian Federation,AS
+ASB,ASB,TM,Turkmenistan,AS
+KRW,KRW,TM,Turkmenistan,AS
+MYP,MYP,TM,Turkmenistan,AS
+TAZ,TAZ,TM,Turkmenistan,AS
+CRZ,CRZ,TM,Turkmenistan,AS
+DYU,DYU,TJ,Tajikistan,AS
+TJU,TJU,TJ,Tajikistan,AS
+LBD,LBD,TJ,Tajikistan,AS
+KQT,KQT,TJ,Tajikistan,AS
+AZN,AZN,UZ,Uzbekistan,AS
+FEG,FEG,UZ,Uzbekistan,AS
+NMA,NMA,UZ,Uzbekistan,AS
+NCU,NCU,UZ,Uzbekistan,AS
+UGC,UGC,UZ,Uzbekistan,AS
+NVI,NVI,UZ,Uzbekistan,AS
+BHK,BHK,UZ,Uzbekistan,AS
+KSQ,KSQ,UZ,Uzbekistan,AS
+AFS,AFS,UZ,Uzbekistan,AS
+SKD,SKD,UZ,Uzbekistan,AS
+TMJ,TMJ,UZ,Uzbekistan,AS
+TAS,TAS,UZ,Uzbekistan,AS
+KMW,KMW,RU,Russian Federation,EU
+BKA,BKA,RU,Russian Federation,EU
+IWA,IWA,RU,Russian Federation,EU
+RYB,RYB,RU,Russian Federation,EU
+BZK,BZK,RU,Russian Federation,EU
+DME,DME,RU,Russian Federation,EU
+IAR,IAR,RU,Russian Federation,EU
+SVO,SVO,RU,Russian Federation,EU
+KLD,KLD,RU,Russian Federation,EU
+EGO,EGO,RU,Russian Federation,EU
+URS,URS,RU,Russian Federation,EU
+LPK,LPK,RU,Russian Federation,EU
+VOZ,VOZ,RU,Russian Federation,EU
+OEL,OEL,RU,Russian Federation,EU
+TBW,TBW,RU,Russian Federation,EU
+RZN,RZN,RU,Russian Federation,EU
+VKO,VKO,RU,Russian Federation,EU
+UCT,UCT,RU,Russian Federation,EU
+INA,INA,RU,Russian Federation,AS
+PEX,PEX,RU,Russian Federation,EU
+USK,USK,RU,Russian Federation,EU
+VKT,VKT,RU,Russian Federation,AS
+UTS,UTS,RU,Russian Federation,EU
+SCW,SCW,RU,Russian Federation,EU
+GOJ,GOJ,RU,Russian Federation,EU
+UUA,UUA,RU,Russian Federation,EU
+KZN,KZN,RU,Russian Federation,EU
+NBC,NBC,RU,Russian Federation,EU
+JOK,JOK,RU,Russian Federation,EU
+CSY,CSY,RU,Russian Federation,EU
+ULV,ULV,RU,Russian Federation,EU
+ULY,ULY,RU,Russian Federation,EU
+REN,REN,RU,Russian Federation,EU
+OSW,OSW,RU,Russian Federation,EU
+PEZ,PEZ,RU,Russian Federation,EU
+SKX,SKX,RU,Russian Federation,EU
+BWO,BWO,RU,Russian Federation,EU
+RTW,RTW,RU,Russian Federation,EU
+BCX,BCX,RU,Russian Federation,EU
+NEF,NEF,RU,Russian Federation,EU
+OKT,OKT,RU,Russian Federation,EU
+UFA,UFA,RU,Russian Federation,EU
+KUF,KUF,RU,Russian Federation,EU
+FZB,FZB,UY,Uruguay,SA
+RCH,RCH,UY,Uruguay,SA
+DIU,DIU,IN,India,AS
+AMD,AMD,IN,India,AS
+AKD,AKD,IN,India,AS
+IXU,IXU,IN,India,AS
+BOM,BOM,IN,India,AS
+PAB,PAB,IN,India,AS
+BHJ,BHJ,IN,India,AS
+IXG,IXG,IN,India,AS
+BDQ,BDQ,IN,India,AS
+BHO,BHO,IN,India,AS
+BHU,BHU,IN,India,AS
+NMB,NMB,IN,India,AS
+GUX,GUX,IN,India,AS
+GOI,GOI,IN,India,AS
+HBX,HBX,IN,India,AS
+IDR,IDR,IN,India,AS
+JLR,JLR,IN,India,AS
+JGA,JGA,IN,India,AS
+IXY,IXY,IN,India,AS
+HJR,HJR,IN,India,AS
+KLH,KLH,IN,India,AS
+IXK,IXK,IN,India,AS
+NDC,NDC,IN,India,AS
+NAG,NAG,IN,India,AS
+ISK,ISK,IN,India,AS
+PNQ,PNQ,IN,India,AS
+PBD,PBD,IN,India,AS
+RTC,RTC,IN,India,AS
+RAJ,RAJ,IN,India,AS
+RPR,RPR,IN,India,AS
+SSE,SSE,IN,India,AS
+STV,STV,IN,India,AS
+UDR,UDR,IN,India,AS
+CMB,CMB,LK,Sri Lanka,AS
+ACJ,ACJ,LK,Sri Lanka,AS
+BTC,BTC,LK,Sri Lanka,AS
+RML,RML,LK,Sri Lanka,AS
+GOY,GOY,LK,Sri Lanka,AS
+MNH,MNH,LK,Sri Lanka,AS
+JAF,JAF,LK,Sri Lanka,AS
+KCT,KCT,LK,Sri Lanka,AS
+GIU,GIU,LK,Sri Lanka,AS
+TRR,TRR,LK,Sri Lanka,AS
+WRZ,WRZ,LK,Sri Lanka,AS
+BBM,BBM,KH,Cambodia,AS
+KZC,KZC,KH,Cambodia,AS
+KKZ,KKZ,KH,Cambodia,AS
+KTI,KTI,KH,Cambodia,AS
+PNH,PNH,KH,Cambodia,AS
+RBE,RBE,KH,Cambodia,AS
+REP,REP,KH,Cambodia,AS
+TNX,TNX,KH,Cambodia,AS
+KOS,KOS,KH,Cambodia,AS
+ELX,ELX,VE,Venezuela (Bolivarian Republic of),SA
+LGY,LGY,VE,Venezuela (Bolivarian Republic of),SA
+KTV,KTV,VE,Venezuela (Bolivarian Republic of),SA
+LAG,LAG,VE,Venezuela (Bolivarian Republic of),SA
+SFX,SFX,VE,Venezuela (Bolivarian Republic of),SA
+SVV,SVV,VE,Venezuela (Bolivarian Republic of),SA
+WOK,WOK,VE,Venezuela (Bolivarian Republic of),SA
+IXV,IXV,IN,India,AS
+IXA,IXA,IN,India,AS
+AJL,AJL,IN,India,AS
+IXB,IXB,IN,India,AS
+RGH,RGH,IN,India,AS
+SHL,SHL,IN,India,AS
+BBI,BBI,IN,India,AS
+CCU,CCU,IN,India,AS
+COH,COH,IN,India,AS
+DBD,DBD,IN,India,AS
+DAE,DAE,IN,India,AS
+GOP,GOP,IN,India,AS
+GAU,GAU,IN,India,AS
+GAY,GAY,IN,India,AS
+IMF,IMF,IN,India,AS
+PYB,PYB,IN,India,AS
+IXW,IXW,IN,India,AS
+JRH,JRH,IN,India,AS
+IXQ,IXQ,IN,India,AS
+IXH,IXH,IN,India,AS
+IXS,IXS,IN,India,AS
+IXN,IXN,IN,India,AS
+AJL,AJL,IN,India,AS
+IXI,IXI,IN,India,AS
+LDA,LDA,IN,India,AS
+DIB,DIB,IN,India,AS
+DMU,DMU,IN,India,AS
+MZU,MZU,IN,India,AS
+IXT,IXT,IN,India,AS
+PAT,PAT,IN,India,AS
+IXR,IXR,IN,India,AS
+RRK,RRK,IN,India,AS
+RUP,RUP,IN,India,AS
+TEZ,TEZ,IN,India,AS
+VTZ,VTZ,IN,India,AS
+ZER,ZER,IN,India,AS
+BZL,BZL,BD,Bangladesh,AS
+CXB,CXB,BD,Bangladesh,AS
+CLA,CLA,BD,Bangladesh,AS
+CGP,CGP,BD,Bangladesh,AS
+IRD,IRD,BD,Bangladesh,AS
+JSR,JSR,BD,Bangladesh,AS
+LLJ,LLJ,BD,Bangladesh,AS
+RJH,RJH,BD,Bangladesh,AS
+SPD,SPD,BD,Bangladesh,AS
+TKR,TKR,BD,Bangladesh,AS
+ZHM,ZHM,BD,Bangladesh,AS
+ZYL,ZYL,BD,Bangladesh,AS
+DAC,DAC,BD,Bangladesh,AS
+HKG,HKG,HK,Hong Kong,AS
+HKG,HKG,HK,Hong Kong,AS
+HHP,HHP,HK,Hong Kong,AS
+SPB,SPB,VI,Virgin Islands (U.S.),NA
+SSB,SSB,VI,Virgin Islands (U.S.),NA
+AGR,AGR,IN,India,AS
+IXD,IXD,IN,India,AS
+ATQ,ATQ,IN,India,AS
+BKB,BKB,IN,India,AS
+VNS,VNS,IN,India,AS
+KUU,KUU,IN,India,AS
+BUP,BUP,IN,India,AS
+IXC,IXC,IN,India,AS
+DED,DED,IN,India,AS
+DEL,DEL,IN,India,AS
+DHM,DHM,IN,India,AS
+GWL,GWL,IN,India,AS
+HSS,HSS,IN,India,AS
+JDH,JDH,IN,India,AS
+JAI,JAI,IN,India,AS
+JSA,JSA,IN,India,AS
+IXJ,IXJ,IN,India,AS
+KNU,KNU,IN,India,AS
+KTU,KTU,IN,India,AS
+LUH,LUH,IN,India,AS
+IXL,IXL,IN,India,AS
+LKO,LKO,IN,India,AS
+IXP,IXP,IN,India,AS
+PGH,PGH,IN,India,AS
+SLV,SLV,IN,India,AS
+SXR,SXR,IN,India,AS
+TNI,TNI,IN,India,AS
+AOU,AOU,LA,Lao People's Democratic Republic,AS
+OUI,OUI,LA,Lao People's Democratic Republic,AS
+LPQ,LPQ,LA,Lao People's Democratic Republic,AS
+LXG,LXG,LA,Lao People's Democratic Republic,AS
+ODY,ODY,LA,Lao People's Democratic Republic,AS
+PKZ,PKZ,LA,Lao People's Democratic Republic,AS
+ZBY,ZBY,LA,Lao People's Democratic Republic,AS
+ZVK,ZVK,LA,Lao People's Democratic Republic,AS
+NEU,NEU,LA,Lao People's Democratic Republic,AS
+VNA,VNA,LA,Lao People's Democratic Republic,AS
+THK,THK,LA,Lao People's Democratic Republic,AS
+VTE,VTE,LA,Lao People's Democratic Republic,AS
+XKH,XKH,LA,Lao People's Democratic Republic,AS
+VMI,VMI,PY,Paraguay,SA
+MFM,MFM,MO,Macao,AS
+VDH,VDH,VN,Viet Nam,AS
+KON,KON,VN,Viet Nam,AS
+BJH,BJH,NP,Nepal,AS
+BHP,BHP,NP,Nepal,AS
+BGL,BGL,NP,Nepal,AS
+BHR,BHR,NP,Nepal,AS
+BJU,BJU,NP,Nepal,AS
+BIT,BIT,NP,Nepal,AS
+BWA,BWA,NP,Nepal,AS
+BDP,BDP,NP,Nepal,AS
+DNP,DNP,NP,Nepal,AS
+DHI,DHI,NP,Nepal,AS
+DAP,DAP,NP,Nepal,AS
+DOP,DOP,NP,Nepal,AS
+SIH,SIH,NP,Nepal,AS
+GKH,GKH,NP,Nepal,AS
+JIR,JIR,NP,Nepal,AS
+JUM,JUM,NP,Nepal,AS
+JKR,JKR,NP,Nepal,AS
+KTM,KTM,NP,Nepal,AS
+LDN,LDN,NP,Nepal,AS
+LUA,LUA,NP,Nepal,AS
+LTG,LTG,NP,Nepal,AS
+NGX,NGX,NP,Nepal,AS
+MEY,MEY,NP,Nepal,AS
+XMG,XMG,NP,Nepal,AS
+KEP,KEP,NP,Nepal,AS
+PKR,PKR,NP,Nepal,AS
+PPL,PPL,NP,Nepal,AS
+RJB,RJB,NP,Nepal,AS
+RHP,RHP,NP,Nepal,AS
+RUK,RUK,NP,Nepal,AS
+RUM,RUM,NP,Nepal,AS
+SIF,SIF,NP,Nepal,AS
+SKH,SKH,NP,Nepal,AS
+FEB,FEB,NP,Nepal,AS
+IMK,IMK,NP,Nepal,AS
+TMI,TMI,NP,Nepal,AS
+BIR,BIR,NP,Nepal,AS
+LTU,LTU,IN,India,AS
+AGX,AGX,IN,India,AS
+BEP,BEP,IN,India,AS
+BLR,BLR,IN,India,AS
+VGA,VGA,IN,India,AS
+CJB,CJB,IN,India,AS
+COK,COK,IN,India,AS
+CCJ,CCJ,IN,India,AS
+CDP,CDP,IN,India,AS
+CBD,CBD,IN,India,AS
+HYD,HYD,IN,India,AS
+IXM,IXM,IN,India,AS
+IXE,IXE,IN,India,AS
+MAA,MAA,IN,India,AS
+MYQ,MYQ,IN,India,AS
+IXZ,IXZ,IN,India,AS
+PNY,PNY,IN,India,AS
+HYD,HYD,IN,India,AS
+RJA,RJA,IN,India,AS
+SXV,SXV,IN,India,AS
+TJV,TJV,IN,India,AS
+TIR,TIR,IN,India,AS
+TRZ,TRZ,IN,India,AS
+TRV,TRV,IN,India,AS
+WGC,WGC,IN,India,AS
+PBH,PBH,BT,Bhutan,AS
+FVM,FVM,MV,Maldives,AS
+GAN,GAN,MV,Maldives,AS
+HAQ,HAQ,MV,Maldives,AS
+KDO,KDO,MV,Maldives,AS
+MLE,MLE,MV,Maldives,AS
+KDM,KDM,MV,Maldives,AS
+VAM,VAM,MV,Maldives,AS
+DMK,DMK,TH,Thailand,AS
+KKM,KKM,TH,Thailand,AS
+KKM,KKM,TH,Thailand,AS
+TDX,TDX,TH,Thailand,AS
+BKK,BKK,TH,Thailand,AS
+UTP,UTP,TH,Thailand,AS
+CNX,CNX,TH,Thailand,AS
+HGN,HGN,TH,Thailand,AS
+PYY,PYY,TH,Thailand,AS
+LPT,LPT,TH,Thailand,AS
+NNT,NNT,TH,Thailand,AS
+PRH,PRH,TH,Thailand,AS
+CEI,CEI,TH,Thailand,AS
+BAO,BAO,TH,Thailand,AS
+PHY,PHY,TH,Thailand,AS
+HHQ,HHQ,TH,Thailand,AS
+TKH,TKH,TH,Thailand,AS
+MAQ,MAQ,TH,Thailand,AS
+THS,THS,TH,Thailand,AS
+PHS,PHS,TH,Thailand,AS
+TKT,TKT,TH,Thailand,AS
+UTR,UTR,TH,Thailand,AS
+URT,URT,TH,Thailand,AS
+NAW,NAW,TH,Thailand,AS
+CJM,CJM,TH,Thailand,AS
+NST,NST,TH,Thailand,AS
+KBV,KBV,TH,Thailand,AS
+SGZ,SGZ,TH,Thailand,AS
+PAN,PAN,TH,Thailand,AS
+USM,USM,TH,Thailand,AS
+NST,NST,TH,Thailand,AS
+HKT,HKT,TH,Thailand,AS
+UNN,UNN,TH,Thailand,AS
+HDY,HDY,TH,Thailand,AS
+TST,TST,TH,Thailand,AS
+UTH,UTH,TH,Thailand,AS
+SNO,SNO,TH,Thailand,AS
+KKC,KKC,TH,Thailand,AS
+LOE,LOE,TH,Thailand,AS
+BFV,BFV,TH,Thailand,AS
+NAK,NAK,TH,Thailand,AS
+UBP,UBP,TH,Thailand,AS
+ROI,ROI,TH,Thailand,AS
+KOP,KOP,TH,Thailand,AS
+VUU,VUU,MW,Malawi,AF
+BMV,BMV,VN,Viet Nam,AS
+VCL,VCL,VN,Viet Nam,AS
+HPH,HPH,VN,Viet Nam,AS
+CXR,CXR,VN,Viet Nam,AS
+VCS,VCS,VN,Viet Nam,AS
+VCA,VCA,VN,Viet Nam,AS
+DIN,DIN,VN,Viet Nam,AS
+DLI,DLI,VN,Viet Nam,AS
+DAD,DAD,VN,Viet Nam,AS
+VVN,VVN,PE,Peru,SA
+HAN,HAN,VN,Viet Nam,AS
+SQH,SQH,VN,Viet Nam,AS
+NHA,NHA,VN,Viet Nam,AS
+HUI,HUI,VN,Viet Nam,AS
+UIH,UIH,VN,Viet Nam,AS
+PXU,PXU,VN,Viet Nam,AS
+PQC,PQC,VN,Viet Nam,AS
+PHA,PHA,VN,Viet Nam,AS
+PHH,PHH,VN,Viet Nam,AS
+VKG,VKG,VN,Viet Nam,AS
+TBB,TBB,VN,Viet Nam,AS
+SGN,SGN,VN,Viet Nam,AS
+VII,VII,VN,Viet Nam,AS
+VTG,VTG,VN,Viet Nam,AS
+NYU,NYU,MM,Myanmar,AS
+BMO,BMO,MM,Myanmar,AS
+TVY,TVY,MM,Myanmar,AS
+NYT,NYT,MM,Myanmar,AS
+GAW,GAW,MM,Myanmar,AS
+GWA,GWA,MM,Myanmar,AS
+HEH,HEH,MM,Myanmar,AS
+HOX,HOX,MM,Myanmar,AS
+TIO,TIO,MM,Myanmar,AS
+KET,KET,MM,Myanmar,AS
+KHM,KHM,MM,Myanmar,AS
+KMV,KMV,MM,Myanmar,AS
+KYP,KYP,MM,Myanmar,AS
+KAW,KAW,MM,Myanmar,AS
+KYT,KYT,MM,Myanmar,AS
+LIW,LIW,MM,Myanmar,AS
+LSH,LSH,MM,Myanmar,AS
+MDL,MDL,MM,Myanmar,AS
+MGZ,MGZ,MM,Myanmar,AS
+MYT,MYT,MM,Myanmar,AS
+MNU,MNU,MM,Myanmar,AS
+MGU,MGU,MM,Myanmar,AS
+MOE,MOE,MM,Myanmar,AS
+MOG,MOG,MM,Myanmar,AS
+MGK,MGK,MM,Myanmar,AS
+MWQ,MWQ,MM,Myanmar,AS
+NMS,NMS,MM,Myanmar,AS
+NMT,NMT,MM,Myanmar,AS
+PAA,PAA,MM,Myanmar,AS
+PAU,PAU,MM,Myanmar,AS
+BSX,BSX,MM,Myanmar,AS
+PPU,PPU,MM,Myanmar,AS
+PBU,PBU,MM,Myanmar,AS
+PKK,PKK,MM,Myanmar,AS
+PRU,PRU,MM,Myanmar,AS
+AKY,AKY,MM,Myanmar,AS
+SNW,SNW,MM,Myanmar,AS
+THL,THL,MM,Myanmar,AS
+XYE,XYE,MM,Myanmar,AS
+RGN,RGN,MM,Myanmar,AS
+FBS,FBS,US,United States of America,NA
+UPG,UPG,ID,Indonesia,AS
+MJU,MJU,ID,Indonesia,AS
+BIK,BIK,ID,Indonesia,AS
+ONI,ONI,ID,Indonesia,AS
+WET,WET,ID,Indonesia,AS
+NBX,NBX,ID,Indonesia,AS
+ILA,ILA,ID,Indonesia,AS
+KOX,KOX,ID,Indonesia,AS
+ZRI,ZRI,ID,Indonesia,AS
+TIM,TIM,ID,Indonesia,AS
+EWI,EWI,ID,Indonesia,AS
+AMI,AMI,ID,Indonesia,AS
+BMU,BMU,ID,Indonesia,AS
+DPS,DPS,ID,Indonesia,AS
+LOP,LOP,ID,Indonesia,AS
+SWQ,SWQ,ID,Indonesia,AS
+TMC,TMC,ID,Indonesia,AS
+WGP,WGP,ID,Indonesia,AS
+ARJ,ARJ,ID,Indonesia,AS
+BUI,BUI,ID,Indonesia,AS
+ZRM,ZRM,ID,Indonesia,AS
+DJJ,DJJ,ID,Indonesia,AS
+LHI,LHI,ID,Indonesia,AS
+LII,LII,ID,Indonesia,AS
+OKL,OKL,ID,Indonesia,AS
+WAR,WAR,ID,Indonesia,AS
+SEH,SEH,ID,Indonesia,AS
+UBR,UBR,ID,Indonesia,AS
+WMX,WMX,ID,Indonesia,AS
+MDP,MDP,ID,Indonesia,AS
+BXD,BXD,ID,Indonesia,AS
+MKQ,MKQ,ID,Indonesia,AS
+OKQ,OKQ,ID,Indonesia,AS
+KEI,KEI,ID,Indonesia,AS
+TMH,TMH,ID,Indonesia,AS
+TJS,TJS,ID,Indonesia,AS
+DTD,DTD,ID,Indonesia,AS
+BEJ,BEJ,ID,Indonesia,AS
+BPN,BPN,ID,Indonesia,AS
+TRK,TRK,ID,Indonesia,AS
+SRI,SRI,ID,Indonesia,AS
+TSX,TSX,ID,Indonesia,AS
+BYQ,BYQ,ID,Indonesia,AS
+GLX,GLX,ID,Indonesia,AS
+GTO,GTO,ID,Indonesia,AS
+NAH,NAH,ID,Indonesia,AS
+TLI,TLI,ID,Indonesia,AS
+GEB,GEB,ID,Indonesia,AS
+KAZ,KAZ,ID,Indonesia,AS
+PLW,PLW,ID,Indonesia,AS
+MDC,MDC,ID,Indonesia,AS
+MNA,MNA,ID,Indonesia,AS
+PSJ,PSJ,ID,Indonesia,AS
+OTI,OTI,ID,Indonesia,AS
+TTE,TTE,ID,Indonesia,AS
+LUW,LUW,ID,Indonesia,AS
+UOL,UOL,ID,Indonesia,AS
+BTW,BTW,ID,Indonesia,AS
+PKN,PKN,ID,Indonesia,AS
+KBU,KBU,ID,Indonesia,AS
+MTW,MTW,ID,Indonesia,AS
+TJG,TJG,ID,Indonesia,AS
+BDJ,BDJ,ID,Indonesia,AS
+PKY,PKY,ID,Indonesia,AS
+SMQ,SMQ,ID,Indonesia,AS
+AHI,AHI,ID,Indonesia,AS
+DOB,DOB,ID,Indonesia,AS
+MAL,MAL,ID,Indonesia,AS
+NRE,NRE,ID,Indonesia,AS
+LAH,LAH,ID,Indonesia,AS
+SXK,SXK,ID,Indonesia,AS
+BJK,BJK,ID,Indonesia,AS
+LUV,LUV,ID,Indonesia,AS
+SQN,SQN,ID,Indonesia,AS
+AMQ,AMQ,ID,Indonesia,AS
+NAM,NAM,ID,Indonesia,AS
+TAX,TAX,ID,Indonesia,AS
+MLG,MLG,ID,Indonesia,AS
+CPF,CPF,ID,Indonesia,AS
+JOG,JOG,ID,Indonesia,AS
+SOC,SOC,ID,Indonesia,AS
+SUB,SUB,ID,Indonesia,AS
+SRG,SRG,ID,Indonesia,AS
+SUP,SUP,ID,Indonesia,AS
+NTI,NTI,ID,Indonesia,AS
+RSK,RSK,ID,Indonesia,AS
+KEQ,KEQ,ID,Indonesia,AS
+FKQ,FKQ,ID,Indonesia,AS
+INX,INX,ID,Indonesia,AS
+KNG,KNG,ID,Indonesia,AS
+RDE,RDE,ID,Indonesia,AS
+BXB,BXB,ID,Indonesia,AS
+MKW,MKW,ID,Indonesia,AS
+SOQ,SOQ,ID,Indonesia,AS
+TXM,TXM,ID,Indonesia,AS
+WSR,WSR,ID,Indonesia,AS
+BJW,BJW,ID,Indonesia,AS
+MOF,MOF,ID,Indonesia,AS
+ENE,ENE,ID,Indonesia,AS
+RTG,RTG,ID,Indonesia,AS
+ARD,ARD,ID,Indonesia,AS
+LBJ,LBJ,ID,Indonesia,AS
+KOE,KOE,ID,Indonesia,AS
+BUW,BUW,ID,Indonesia,AS
+MXB,MXB,ID,Indonesia,AS
+SQR,SQR,ID,Indonesia,AS
+TTR,TTR,ID,Indonesia,AS
+KDI,KDI,ID,Indonesia,AS
+BTU,BTU,MY,Malaysia,AS
+BLG,BLG,MY,Malaysia,AS
+LSM,LSM,MY,Malaysia,AS
+LGL,LGL,MY,Malaysia,AS
+KCH,KCH,MY,Malaysia,AS
+ODN,ODN,MY,Malaysia,AS
+LMN,LMN,MY,Malaysia,AS
+MKM,MKM,MY,Malaysia,AS
+LKH,LKH,MY,Malaysia,AS
+MUR,MUR,MY,Malaysia,AS
+BSE,BSE,MY,Malaysia,AS
+KPI,KPI,MY,Malaysia,AS
+BKM,BKM,MY,Malaysia,AS
+MYY,MYY,MY,Malaysia,AS
+SBW,SBW,MY,Malaysia,AS
+TGC,TGC,MY,Malaysia,AS
+LSU,LSU,MY,Malaysia,AS
+LWY,LWY,MY,Malaysia,AS
+SGG,SGG,MY,Malaysia,AS
+BBN,BBN,MY,Malaysia,AS
+SMM,SMM,MY,Malaysia,AS
+LDU,LDU,MY,Malaysia,AS
+TEL,TEL,MY,Malaysia,AS
+KGU,KGU,MY,Malaysia,AS
+SXS,SXS,MY,Malaysia,AS
+BKI,BKI,MY,Malaysia,AS
+LBU,LBU,MY,Malaysia,AS
+TMG,TMG,MY,Malaysia,AS
+GSA,GSA,MY,Malaysia,AS
+SPE,SPE,MY,Malaysia,AS
+PAY,PAY,MY,Malaysia,AS
+RNU,RNU,MY,Malaysia,AS
+SDK,SDK,MY,Malaysia,AS
+KUD,KUD,MY,Malaysia,AS
+TWU,TWU,MY,Malaysia,AS
+MZV,MZV,MY,Malaysia,AS
+BWN,BWN,BN,Brunei Darussalam,AS
+TKG,TKG,ID,Indonesia,AS
+PKU,PKU,ID,Indonesia,AS
+DUM,DUM,ID,Indonesia,AS
+RKO,RKO,ID,Indonesia,AS
+SEQ,SEQ,ID,Indonesia,AS
+TJB,TJB,ID,Indonesia,AS
+BDO,BDO,ID,Indonesia,AS
+CBN,CBN,ID,Indonesia,AS
+TSY,TSY,ID,Indonesia,AS
+BTH,BTH,ID,Indonesia,AS
+PPR,PPR,ID,Indonesia,AS
+TNJ,TNJ,ID,Indonesia,AS
+SIQ,SIQ,ID,Indonesia,AS
+HLP,HLP,ID,Indonesia,AS
+CXP,CXP,ID,Indonesia,AS
+PCB,PCB,ID,Indonesia,AS
+CGK,CGK,ID,Indonesia,AS
+LLG,LLG,ID,Indonesia,AS
+GNS,GNS,ID,Indonesia,AS
+AEG,AEG,ID,Indonesia,AS
+PDG,PDG,ID,Indonesia,AS
+MES,MES,ID,Indonesia,AS
+TJQ,TJQ,ID,Indonesia,AS
+NPO,NPO,ID,Indonesia,AS
+KTG,KTG,ID,Indonesia,AS
+MWK,MWK,ID,Indonesia,AS
+NTX,NTX,ID,Indonesia,AS
+PNK,PNK,ID,Indonesia,AS
+PSU,PSU,ID,Indonesia,AS
+SQG,SQG,ID,Indonesia,AS
+DJB,DJB,ID,Indonesia,AS
+PGK,PGK,ID,Indonesia,AS
+BKS,BKS,ID,Indonesia,AS
+PLM,PLM,ID,Indonesia,AS
+PDO,PDO,ID,Indonesia,AS
+RGT,RGT,ID,Indonesia,AS
+PDG,PDG,ID,Indonesia,AS
+MPC,MPC,ID,Indonesia,AS
+KLQ,KLQ,ID,Indonesia,AS
+TPK,TPK,ID,Indonesia,AS
+SBG,SBG,ID,Indonesia,AS
+MEQ,MEQ,ID,Indonesia,AS
+LSX,LSX,ID,Indonesia,AS
+LSW,LSW,ID,Indonesia,AS
+BTJ,BTJ,ID,Indonesia,AS
+SXT,SXT,MY,Malaysia,AS
+MEP,MEP,MY,Malaysia,AS
+SWY,SWY,MY,Malaysia,AS
+TPG,TPG,MY,Malaysia,AS
+TOD,TOD,MY,Malaysia,AS
+AOR,AOR,MY,Malaysia,AS
+BWH,BWH,MY,Malaysia,AS
+KBR,KBR,MY,Malaysia,AS
+KUA,KUA,MY,Malaysia,AS
+KTE,KTE,MY,Malaysia,AS
+IPH,IPH,MY,Malaysia,AS
+JHB,JHB,MY,Malaysia,AS
+KUL,KUL,MY,Malaysia,AS
+LGK,LGK,MY,Malaysia,AS
+MKZ,MKZ,MY,Malaysia,AS
+TGG,TGG,MY,Malaysia,AS
+PEN,PEN,MY,Malaysia,AS
+PKG,PKG,MY,Malaysia,AS
+RDN,RDN,MY,Malaysia,AS
+SZB,SZB,MY,Malaysia,AS
+AUT,AUT,TL,Timor-Leste,AS
+UAI,UAI,TL,Timor-Leste,AS
+DIC,DIC,TL,Timor-Leste,AS
+DIL,DIL,TL,Timor-Leste,AS
+BCH,BCH,TL,Timor-Leste,AS
+MPT,MPT,TL,Timor-Leste,AS
+OEC,OEC,TL,Timor-Leste,AS
+VIQ,VIQ,TL,Timor-Leste,AS
+ABU,ABU,ID,Indonesia,AS
+BJW,BJW,ID,Indonesia,AS
+LKA,LKA,ID,Indonesia,AS
+SAU,SAU,ID,Indonesia,AS
+SGQ,SGQ,ID,Indonesia,AS
+LBW,LBW,ID,Indonesia,AS
+BXT,BXT,ID,Indonesia,AS
+NNX,NNX,ID,Indonesia,AS
+TNB,TNB,ID,Indonesia,AS
+LPU,LPU,ID,Indonesia,AS
+SZH,SZH,ID,Indonesia,AS
+QPG,QPG,SG,Singapore,AS
+TGA,TGA,SG,Singapore,AS
+XSP,XSP,SG,Singapore,AS
+SIN,SIN,SG,Singapore,AS
+WWT,WWT,US,United States of America,NA
+BCD,BCD,PH,Philippines,AS
+MNI,MNI,MS,Montserrat,NA
+SKL,SKL,GB,United Kingdom of Great Britain and Northern Ireland,EU
+MUC,MUC,DE,Germany,EU
+ALH,ALH,AU,Australia,OC
+ABG,ABG,AU,Australia,OC
+AWN,AWN,AU,Australia,OC
+AUD,AUD,AU,Australia,OC
+MRP,MRP,AU,Australia,OC
+AXL,AXL,AU,Australia,OC
+AXC,AXC,AU,Australia,OC
+ADO,ADO,AU,Australia,OC
+AMX,AMX,AU,Australia,OC
+AMT,AMT,AU,Australia,OC
+AYL,AYL,AU,Australia,OC
+ABH,ABH,AU,Australia,OC
+ARY,ARY,AU,Australia,OC
+GYL,GYL,AU,Australia,OC
+ARM,ARM,AU,Australia,OC
+AAB,AAB,AU,Australia,OC
+AUU,AUU,AU,Australia,OC
+AWP,AWP,AU,Australia,OC
+AVG,AVG,AU,Australia,OC
+AYQ,AYQ,AU,Australia,OC
+AYR,AYR,AU,Australia,OC
+ACF,ACF,AU,Australia,OC
+ABM,ABM,AU,Australia,OC
+BCI,BCI,AU,Australia,OC
+ASP,ASP,AU,Australia,OC
+BDD,BDD,AU,Australia,OC
+BBE,BBE,AU,Australia,OC
+BNE,BNE,AU,Australia,OC
+OOL,OOL,AU,Australia,OC
+BKQ,BKQ,AU,Australia,OC
+CNS,CNS,AU,Australia,OC
+CTL,CTL,AU,Australia,OC
+BXG,BXG,AU,Australia,OC
+BVI,BVI,AU,Australia,OC
+BTX,BTX,AU,Australia,OC
+BQW,BQW,AU,Australia,OC
+BHQ,BHQ,AU,Australia,OC
+HTI,HTI,AU,Australia,OC
+BEU,BEU,AU,Australia,OC
+BRK,BRK,AU,Australia,OC
+BUC,BUC,AU,Australia,OC
+BLN,BLN,AU,Australia,OC
+LCN,LCN,AU,Australia,OC
+BLS,BLS,AU,Australia,OC
+BQB,BQB,AU,Australia,OC
+ISA,ISA,AU,Australia,OC
+MCY,MCY,AU,Australia,OC
+MKY,MKY,AU,Australia,OC
+BNK,BNK,AU,Australia,OC
+BSJ,BSJ,AU,Australia,OC
+GIC,GIC,AU,Australia,OC
+OKY,OKY,AU,Australia,OC
+BQL,BQL,AU,Australia,OC
+BMP,BMP,AU,Australia,OC
+PPP,PPP,AU,Australia,OC
+ROK,ROK,AU,Australia,OC
+BOX,BOX,AU,Australia,OC
+BME,BME,AU,Australia,OC
+BZD,BZD,AU,Australia,OC
+BWQ,BWQ,AU,Australia,OC
+BHS,BHS,AU,Australia,OC
+BRT,BRT,AU,Australia,OC
+TSV,TSV,AU,Australia,OC
+BLT,BLT,AU,Australia,OC
+BDB,BDB,AU,Australia,OC
+BUY,BUY,AU,Australia,OC
+ZBO,ZBO,AU,Australia,OC
+WEI,WEI,AU,Australia,OC
+BWB,BWB,AU,Australia,OC
+BVZ,BVZ,AU,Australia,OC
+CGV,CGV,AU,Australia,OC
+CLH,CLH,AU,Australia,OC
+CVQ,CVQ,AU,Australia,OC
+CSI,CSI,AU,Australia,OC
+CAZ,CAZ,AU,Australia,OC
+COJ,COJ,AU,Australia,OC
+CBY,CBY,AU,Australia,OC
+CBI,CBI,AU,Australia,OC
+CPD,CPD,AU,Australia,OC
+CRB,CRB,AU,Australia,OC
+CCL,CCL,AU,Australia,OC
+CNC,CNC,AU,Australia,OC
+CNJ,CNJ,AU,Australia,OC
+CBX,CBX,AU,Australia,OC
+CUD,CUD,AU,Australia,OC
+CED,CED,AU,Australia,OC
+CVC,CVC,AU,Australia,OC
+CFI,CFI,AU,Australia,OC
+LLG,LLG,AU,Australia,OC
+CXT,CXT,AU,Australia,OC
+CKI,CKI,AU,Australia,OC
+CTN,CTN,AU,Australia,OC
+CMQ,CMQ,AU,Australia,OC
+CMA,CMA,AU,Australia,OC
+CML,CML,AU,Australia,OC
+NIF,NIF,AU,Australia,OC
+CES,CES,AU,Australia,OC
+CNB,CNB,AU,Australia,OC
+ODL,ODL,AU,Australia,OC
+CUQ,CUQ,AU,Australia,OC
+OOM,OOM,AU,Australia,OC
+CDA,CDA,AU,Australia,OC
+CWW,CWW,AU,Australia,OC
+CYG,CYG,AU,Australia,OC
+CDQ,CDQ,AU,Australia,OC
+KCE,KCE,AU,Australia,OC
+CMD,CMD,AU,Australia,OC
+CUG,CUG,AU,Australia,OC
+CUY,CUY,AU,Australia,OC
+CWR,CWR,AU,Australia,OC
+CCW,CCW,AU,Australia,OC
+CWT,CWT,AU,Australia,OC
+DJR,DJR,AU,Australia,OC
+DBY,DBY,AU,Australia,OC
+DRN,DRN,AU,Australia,OC
+DNB,DNB,AU,Australia,OC
+DRB,DRB,AU,Australia,OC
+DFP,DFP,AU,Australia,OC
+DLK,DLK,AU,Australia,OC
+DDN,DDN,AU,Australia,OC
+DLV,DLV,AU,Australia,OC
+DMD,DMD,AU,Australia,OC
+DVR,DVR,AU,Australia,OC
+NLF,NLF,AU,Australia,OC
+DRD,DRD,AU,Australia,OC
+DVP,DVP,AU,Australia,OC
+DPO,DPO,AU,Australia,OC
+DHD,DHD,AU,Australia,OC
+DRR,DRR,AU,Australia,OC
+DKV,DKV,AU,Australia,OC
+DYA,DYA,AU,Australia,OC
+WDA,WDA,YE,Yemen,AS
+ECH,ECH,AU,Australia,OC
+EUC,EUC,AU,Australia,OC
+ETD,ETD,AU,Australia,OC
+ENB,ENB,AU,Australia,OC
+EIH,EIH,AU,Australia,OC
+ELC,ELC,AU,Australia,OC
+EMD,EMD,AU,Australia,OC
+ERB,ERB,AU,Australia,OC
+EPR,EPR,AU,Australia,OC
+EVD,EVD,AU,Australia,OC
+EVH,EVH,AU,Australia,OC
+EXM,EXM,AU,Australia,OC
+FRB,FRB,AU,Australia,OC
+KFE,KFE,AU,Australia,OC
+FLY,FLY,AU,Australia,OC
+FLS,FLS,AU,Australia,OC
+FVL,FVL,AU,Australia,OC
+FIK,FIK,AU,Australia,OC
+FOS,FOS,AU,Australia,OC
+FOT,FOT,AU,Australia,OC
+FIZ,FIZ,AU,Australia,OC
+GAH,GAH,AU,Australia,OC
+GBL,GBL,AU,Australia,OC
+GUH,GUH,AU,Australia,OC
+GOO,GOO,AU,Australia,OC
+GDD,GDD,AU,Australia,OC
+GGD,GGD,AU,Australia,OC
+GTS,GTS,AU,Australia,OC
+GET,GET,AU,Australia,OC
+GFN,GFN,AU,Australia,OC
+GBV,GBV,AU,Australia,OC
+GLT,GLT,AU,Australia,OC
+GUL,GUL,AU,Australia,OC
+GLG,GLG,AU,Australia,OC
+GEX,GEX,AU,Australia,OC
+GLI,GLI,AU,Australia,OC
+GLM,GLM,AU,Australia,OC
+GVP,GVP,AU,Australia,OC
+GPN,GPN,AU,Australia,OC
+GTE,GTE,AU,Australia,OC
+GFF,GFF,AU,Australia,OC
+GTT,GTT,AU,Australia,OC
+GEE,GEE,AU,Australia,OC
+GYP,GYP,AU,Australia,OC
+HWK,HWK,AU,Australia,OC
+HXX,HXX,AU,Australia,OC
+HVB,HVB,AU,Australia,OC
+HUB,HUB,AU,Australia,OC
+HIP,HIP,AU,Australia,OC
+HID,HID,AU,Australia,OC
+HCQ,HCQ,AU,Australia,OC
+HMG,HMG,AU,Australia,OC
+HLT,HLT,AU,Australia,OC
+HOK,HOK,AU,Australia,OC
+MHU,MHU,AU,Australia,OC
+HTU,HTU,AU,Australia,OC
+HSM,HSM,AU,Australia,OC
+HGD,HGD,AU,Australia,OC
+IDK,IDK,AU,Australia,OC
+IFL,IFL,AU,Australia,OC
+IFF,IFF,AU,Australia,OC
+IGH,IGH,AU,Australia,OC
+IKP,IKP,AU,Australia,OC
+INJ,INJ,AU,Australia,OC
+INM,INM,AU,Australia,OC
+IVW,IVW,AU,Australia,OC
+ISI,ISI,AU,Australia,OC
+IVR,IVR,AU,Australia,OC
+JAB,JAB,AU,Australia,OC
+JUN,JUN,AU,Australia,OC
+QJD,QJD,AU,Australia,OC
+JCK,JCK,AU,Australia,OC
+JUR,JUR,AU,Australia,OC
+UBU,UBU,AU,Australia,OC
+KAX,KAX,AU,Australia,OC
+KBY,KBY,AU,Australia,OC
+KCS,KCS,AU,Australia,OC
+KRA,KRA,AU,Australia,OC
+KNS,KNS,AU,Australia,OC
+KBB,KBB,AU,Australia,OC
+KFG,KFG,AU,Australia,OC
+KKP,KKP,AU,Australia,OC
+KRB,KRB,AU,Australia,OC
+KML,KML,AU,Australia,OC
+KPS,KPS,AU,Australia,OC
+KNI,KNI,AU,Australia,OC
+KWM,KWM,AU,Australia,OC
+KGY,KGY,AU,Australia,OC
+KGC,KGC,AU,Australia,OC
+KUG,KUG,AU,Australia,OC
+LWH,LWH,AU,Australia,OC
+LGH,LGH,AU,Australia,OC
+LNO,LNO,AU,Australia,OC
+LEL,LEL,AU,Australia,OC
+LDH,LDH,AU,Australia,OC
+IRG,IRG,AU,Australia,OC
+LTP,LTP,AU,Australia,OC
+LDC,LDC,AU,Australia,OC
+LSY,LSY,AU,Australia,OC
+LOC,LOC,AU,Australia,OC
+LOA,LOA,AU,Australia,OC
+LTV,LTV,AU,Australia,OC
+LUU,LUU,AU,Australia,OC
+LHG,LHG,AU,Australia,OC
+LRE,LRE,AU,Australia,OC
+LUT,LUT,AU,Australia,OC
+LER,LER,AU,Australia,OC
+LVO,LVO,AU,Australia,OC
+TGN,TGN,AU,Australia,OC
+LZR,LZR,AU,Australia,OC
+UBB,UBB,AU,Australia,OC
+AVV,AVV,AU,Australia,OC
+ABX,ABX,AU,Australia,OC
+MRG,MRG,AU,Australia,OC
+MBB,MBB,AU,Australia,OC
+XMC,XMC,AU,Australia,OC
+MFP,MFP,AU,Australia,OC
+MLR,MLR,AU,Australia,OC
+DGE,DGE,AU,Australia,OC
+MQA,MQA,AU,Australia,OC
+MKR,MKR,AU,Australia,OC
+MEB,MEB,AU,Australia,OC
+MIM,MIM,AU,Australia,OC
+SXE,SXE,AU,Australia,OC
+MGT,MGT,AU,Australia,OC
+MNG,MNG,AU,Australia,OC
+GSN,GSN,AU,Australia,OC
+MGV,MGV,AU,Australia,OC
+MQZ,MQZ,AU,Australia,OC
+HBA,HBA,AU,Australia,OC
+MHO,MHO,AU,Australia,OC
+MCV,MCV,AU,Australia,OC
+MQL,MQL,AU,Australia,OC
+XML,XML,AU,Australia,OC
+MIH,MIH,AU,Australia,OC
+MTQ,MTQ,AU,Australia,OC
+MJP,MJP,AU,Australia,OC
+LST,LST,AU,Australia,OC
+MBW,MBW,AU,Australia,OC
+MEL,MEL,AU,Australia,OC
+MMM,MMM,AU,Australia,OC
+MTL,MTL,AU,Australia,OC
+WME,WME,AU,Australia,OC
+ONR,ONR,AU,Australia,OC
+OXY,OXY,AU,Australia,OC
+MMG,MMG,AU,Australia,OC
+OOR,OOR,AU,Australia,OC
+MRZ,MRZ,AU,Australia,OC
+MET,MET,AU,Australia,OC
+MIN,MIN,AU,Australia,OC
+MQE,MQE,AU,Australia,OC
+MOV,MOV,AU,Australia,OC
+RRE,RRE,AU,Australia,OC
+MWB,MWB,AU,Australia,OC
+MYA,MYA,AU,Australia,OC
+MTD,MTD,AU,Australia,OC
+UTB,UTB,AU,Australia,OC
+MGB,MGB,AU,Australia,OC
+ONG,ONG,AU,Australia,OC
+MNQ,MNQ,AU,Australia,OC
+MUQ,MUQ,AU,Australia,OC
+MNE,MNE,AU,Australia,OC
+MYI,MYI,AU,Australia,OC
+MVK,MVK,AU,Australia,OC
+MXU,MXU,AU,Australia,OC
+MXD,MXD,AU,Australia,OC
+MBH,MBH,AU,Australia,OC
+RTY,RTY,AU,Australia,OC
+NMR,NMR,AU,Australia,OC
+NRA,NRA,AU,Australia,OC
+NAA,NAA,AU,Australia,OC
+RPM,RPM,AU,Australia,OC
+NBH,NBH,AU,Australia,OC
+NLS,NLS,AU,Australia,OC
+NAC,NAC,AU,Australia,OC
+QRM,QRM,AU,Australia,OC
+RVT,RVT,AU,Australia,OC
+NSV,NSV,AU,Australia,OC
+NSM,NSM,AU,Australia,OC
+NTN,NTN,AU,Australia,OC
+NUR,NUR,AU,Australia,OC
+NLL,NLL,AU,Australia,OC
+NUB,NUB,AU,Australia,OC
+ZNE,ZNE,AU,Australia,OC
+NYN,NYN,AU,Australia,OC
+OPI,OPI,AU,Australia,OC
+YOI,YOI,CA,Canada,NA
+XCO,XCO,AU,Australia,OC
+OLP,OLP,AU,Australia,OC
+ODD,ODD,AU,Australia,OC
+MOO,MOO,AU,Australia,OC
+RBS,RBS,AU,Australia,OC
+OAG,OAG,AU,Australia,OC
+ODR,ODR,AU,Australia,OC
+OSO,OSO,AU,Australia,OC
+OYN,OYN,AU,Australia,OC
+ADL,ADL,AU,Australia,OC
+PUG,PUG,AU,Australia,OC
+PMK,PMK,AU,Australia,OC
+PBO,PBO,AU,Australia,OC
+CCK,CCK,CC,Cocos (Keeling) Islands,AS
+PDE,PDE,AU,Australia,OC
+DRW,DRW,AU,Australia,OC
+PRD,PRD,AU,Australia,OC
+BEO,BEO,AU,Australia,OC
+GOV,GOV,AU,Australia,OC
+PPI,PPI,AU,Australia,OC
+JAD,JAD,AU,Australia,OC
+KTA,KTA,AU,Australia,OC
+KGI,KGI,AU,Australia,OC
+PKE,PKE,AU,Australia,OC
+PKT,PKT,AU,Australia,OC
+KNX,KNX,AU,Australia,OC
+PLO,PLO,AU,Australia,OC
+LEA,LEA,AU,Australia,OC
+EDR,EDR,AU,Australia,OC
+PQQ,PQQ,AU,Australia,OC
+PTJ,PTJ,AU,Australia,OC
+PHE,PHE,AU,Australia,OC
+PER,PER,AU,Australia,OC
+PEA,PEA,AU,Australia,OC
+KTR,KTR,AU,Australia,OC
+UMR,UMR,AU,Australia,OC
+XCH,XCH,CX,Christmas Island,AS
+UIR,UIR,AU,Australia,OC
+ULP,ULP,AU,Australia,OC
+UEE,UEE,AU,Australia,OC
+RMK,RMK,AU,Australia,OC
+RCM,RCM,AU,Australia,OC
+RAM,RAM,AU,Australia,OC
+ROH,ROH,AU,Australia,OC
+RBU,RBU,AU,Australia,OC
+RBC,RBC,AU,Australia,OC
+RMA,RMA,AU,Australia,OC
+RSB,RSB,AU,Australia,OC
+RTS,RTS,AU,Australia,OC
+RTP,RTP,AU,Australia,OC
+RHL,RHL,AU,Australia,OC
+NDS,NDS,AU,Australia,OC
+BWU,BWU,AU,Australia,OC
+CBR,CBR,AU,Australia,OC
+CFS,CFS,AU,Australia,OC
+CDU,CDU,AU,Australia,OC
+NSO,NSO,AU,Australia,OC
+SQC,SQC,AU,Australia,OC
+DBO,DBO,AU,Australia,OC
+SGO,SGO,AU,Australia,OC
+SIX,SIX,AU,Australia,OC
+ZGL,ZGL,AU,Australia,OC
+SGP,SGP,AU,Australia,OC
+DNM,DNM,AU,Australia,OC
+JHQ,JHQ,AU,Australia,OC
+SHT,SHT,AU,Australia,OC
+SBR,SBR,AU,Australia,OC
+SIO,SIO,AU,Australia,OC
+SHU,SHU,AU,Australia,OC
+STH,STH,AU,Australia,OC
+SNB,SNB,AU,Australia,OC
+NLK,NLK,NF,Norfolk Island,OC
+NOA,NOA,AU,Australia,OC
+SNH,SNH,AU,Australia,OC
+SCG,SCG,AU,Australia,OC
+SHQ,SHQ,AU,Australia,OC
+KSV,KSV,AU,Australia,OC
+SRN,SRN,AU,Australia,OC
+SYD,SYD,AU,Australia,OC
+HLS,HLS,AU,Australia,OC
+TMW,TMW,AU,Australia,OC
+WGA,WGA,AU,Australia,OC
+SWH,SWH,AU,Australia,OC
+SWC,SWC,AU,Australia,OC
+XTR,XTR,AU,Australia,OC
+TBL,TBL,AU,Australia,OC
+XTO,XTO,AU,Australia,OC
+TAQ,TAQ,AU,Australia,OC
+TBK,TBK,AU,Australia,OC
+TDR,TDR,AU,Australia,OC
+TEF,TEF,AU,Australia,OC
+TEM,TEM,AU,Australia,OC
+TAN,TAN,AU,Australia,OC
+XTG,XTG,AU,Australia,OC
+TYG,TYG,AU,Australia,OC
+TYB,TYB,AU,Australia,OC
+TKY,TKY,AU,Australia,OC
+TUM,TUM,AU,Australia,OC
+TYP,TYP,AU,Australia,OC
+THG,THG,AU,Australia,OC
+TCA,TCA,AU,Australia,OC
+TCW,TCW,AU,Australia,OC
+TRO,TRO,AU,Australia,OC
+YTU,YTU,CA,Canada,NA
+TWB,TWB,AU,Australia,OC
+UDA,UDA,AU,Australia,OC
+CZY,CZY,AU,Australia,OC
+USL,USL,AU,Australia,OC
+VCD,VCD,AU,Australia,OC
+VNR,VNR,AU,Australia,OC
+WLA,WLA,AU,Australia,OC
+WAV,WAV,AU,Australia,OC
+WMB,WMB,AU,Australia,OC
+SYU,SYU,AU,Australia,OC
+WIO,WIO,AU,Australia,OC
+WLC,WLC,AU,Australia,OC
+WAZ,WAZ,AU,Australia,OC
+WND,WND,AU,Australia,OC
+WNR,WNR,AU,Australia,OC
+WGT,WGT,AU,Australia,OC
+WYA,WYA,AU,Australia,OC
+WIT,WIT,AU,Australia,OC
+WKB,WKB,AU,Australia,OC
+WGE,WGE,AU,Australia,OC
+NTL,NTL,AU,Australia,OC
+WUN,WUN,AU,Australia,OC
+WPK,WPK,AU,Australia,OC
+WDI,WDI,AU,Australia,OC
+WOL,WOL,AU,Australia,OC
+QRR,QRR,AU,Australia,OC
+WLO,WLO,AU,Australia,OC
+WIN,WIN,AU,Australia,OC
+WUD,WUD,AU,Australia,OC
+WEW,WEW,AU,Australia,OC
+WRW,WRW,AU,Australia,OC
+WWI,WWI,AU,Australia,OC
+WYN,WYN,AU,Australia,OC
+BWT,BWT,AU,Australia,OC
+YLG,YLG,AU,Australia,OC
+OKR,OKR,AU,Australia,OC
+KYF,KYF,AU,Australia,OC
+XMY,XMY,AU,Australia,OC
+YUE,YUE,AU,Australia,OC
+NGA,NGA,AU,Australia,OC
+ORR,ORR,AU,Australia,OC
+KYI,KYI,AU,Australia,OC
+HPR,HPR,ZA,South Africa,AF
+ULX,ULX,ZA,South Africa,AF
+TDT,TDT,ZA,South Africa,AF
+HZV,HZV,ZA,South Africa,AF
+KHO,KHO,ZA,South Africa,AF
+MBM,MBM,ZA,South Africa,AF
+INY,INY,ZA,South Africa,AF
+TSD,TSD,ZA,South Africa,AF
+KIG,KIG,ZA,South Africa,AF
+PEK,PEK,CN,China,AS
+CIF,CIF,CN,China,AS
+CIH,CIH,CN,China,AS
+DSN,DSN,CN,China,AS
+DAT,DAT,CN,China,AS
+ERL,ERL,CN,China,AS
+HDG,HDG,CN,China,AS
+HET,HET,CN,China,AS
+ZBK,ZBK,ME,Montenegro,EU
+HLD,HLD,CN,China,AS
+NAY,NAY,CN,China,AS
+BAV,BAV,CN,China,AS
+SHP,SHP,CN,China,AS
+SJW,SJW,CN,China,AS
+TSN,TSN,CN,China,AS
+TGO,TGO,CN,China,AS
+HLH,HLH,CN,China,AS
+XIL,XIL,CN,China,AS
+YCU,YCU,CN,China,AS
+TYN,TYN,CN,China,AS
+BHY,BHY,CN,China,AS
+CGD,CGD,CN,China,AS
+HJJ,HJJ,CN,China,AS
+DYG,DYG,CN,China,AS
+CAN,CAN,CN,China,AS
+CSX,CSX,CN,China,AS
+HNY,HNY,CN,China,AS
+KWL,KWL,CN,China,AS
+MXZ,MXZ,CN,China,AS
+NNG,NNG,CN,China,AS
+SWA,SWA,CN,China,AS
+ZUH,ZUH,CN,China,AS
+SZX,SZX,CN,China,AS
+WUZ,WUZ,CN,China,AS
+XIN,XIN,CN,China,AS
+LZH,LZH,CN,China,AS
+ZHA,ZHA,CN,China,AS
+AYN,AYN,CN,China,AS
+CGO,CGO,CN,China,AS
+ENH,ENH,CN,China,AS
+LHK,LHK,CN,China,AS
+WUH,WUH,CN,China,AS
+LYA,LYA,CN,China,AS
+NNY,NNY,CN,China,AS
+SHS,SHS,CN,China,AS
+XFN,XFN,CN,China,AS
+YIH,YIH,CN,China,AS
+ZIZ,ZIZ,PK,Pakistan,AS
+HAK,HAK,CN,China,AS
+SYX,SYX,CN,China,AS
+FNJ,FNJ,KP,Korea (Democratic People's Republic of),AS
+AKA,AKA,CN,China,AS
+LHW,LHW,CN,China,AS
+DNH,DNH,CN,China,AS
+GOQ,GOQ,CN,China,AS
+GYU,GYU,CN,China,AS
+HZG,HZG,CN,China,AS
+INC,INC,CN,China,AS
+JNG,JNG,CN,China,AS
+JGN,JGN,CN,China,AS
+ZGC,ZGC,CN,China,AS
+IQN,IQN,CN,China,AS
+SIA,SIA,CN,China,AS
+XNN,XNN,CN,China,AS
+XIY,XIY,CN,China,AS
+ENY,ENY,CN,China,AS
+UYN,UYN,CN,China,AS
+CGJ,CGJ,ZM,Zambia,AF
+AVK,AVK,MN,Mongolia,AS
+LTI,LTI,MN,Mongolia,AS
+BYN,BYN,MN,Mongolia,AS
+UGA,UGA,MN,Mongolia,AS
+UGT,UGT,MN,Mongolia,AS
+HBU,HBU,MN,Mongolia,AS
+UUN,UUN,MN,Mongolia,AS
+COQ,COQ,MN,Mongolia,AS
+DLZ,DLZ,MN,Mongolia,AS
+HVD,HVD,MN,Mongolia,AS
+MXV,MXV,MN,Mongolia,AS
+ULN,ULN,MN,Mongolia,AS
+ULG,ULG,MN,Mongolia,AS
+DLU,DLU,CN,China,AS
+DIG,DIG,CN,China,AS
+JHG,JHG,CN,China,AS
+LJG,LJG,CN,China,AS
+LUM,LUM,CN,China,AS
+KMG,KMG,CN,China,AS
+SYM,SYM,CN,China,AS
+ZAT,ZAT,CN,China,AS
+XMN,XMN,CN,China,AS
+AQG,AQG,CN,China,AS
+CZX,CZX,CN,China,AS
+KHN,KHN,CN,China,AS
+FOC,FOC,CN,China,AS
+KOW,KOW,CN,China,AS
+HGH,HGH,CN,China,AS
+JDZ,JDZ,CN,China,AS
+JIU,JIU,CN,China,AS
+TNA,TNA,CN,China,AS
+JUZ,JUZ,CN,China,AS
+LCX,LCX,CN,China,AS
+LYG,LYG,CN,China,AS
+HYN,HYN,CN,China,AS
+LYI,LYI,CN,China,AS
+NGB,NGB,CN,China,AS
+NKG,NKG,CN,China,AS
+HFE,HFE,CN,China,AS
+PVG,PVG,CN,China,AS
+TAO,TAO,CN,China,AS
+JJN,JJN,CN,China,AS
+RUG,RUG,CN,China,AS
+SHA,SHA,CN,China,AS
+SZV,SZV,CN,China,AS
+TXN,TXN,CN,China,AS
+WEF,WEF,CN,China,AS
+WEH,WEH,CN,China,AS
+WHU,WHU,CN,China,AS
+WUX,WUX,CN,China,AS
+WUS,WUS,CN,China,AS
+WNZ,WNZ,CN,China,AS
+XUZ,XUZ,CN,China,AS
+YNZ,YNZ,CN,China,AS
+YNT,YNT,CN,China,AS
+YIW,YIW,CN,China,AS
+HSN,HSN,CN,China,AS
+NGQ,NGQ,CN,China,AS
+AVA,AVA,CN,China,AS
+BPX,BPX,CN,China,AS
+CKG,CKG,CN,China,AS
+DAX,DAX,CN,China,AS
+GYS,GYS,CN,China,AS
+KWE,KWE,CN,China,AS
+JZH,JZH,CN,China,AS
+LIA,LIA,CN,China,AS
+LXA,LXA,CN,China,AS
+LZO,LZO,CN,China,AS
+MIG,MIG,CN,China,AS
+NAO,NAO,CN,China,AS
+LZY,LZY,CN,China,AS
+TCZ,TCZ,CN,China,AS
+CTU,CTU,CN,China,AS
+WXN,WXN,CN,China,AS
+XIC,XIC,CN,China,AS
+YBP,YBP,CN,China,AS
+ACX,ACX,CN,China,AS
+AKU,AKU,CN,China,AS
+BPL,BPL,CN,China,AS
+IQM,IQM,CN,China,AS
+HMI,HMI,CN,China,AS
+KCA,KCA,CN,China,AS
+KRL,KRL,CN,China,AS
+KRY,KRY,CN,China,AS
+KHG,KHG,CN,China,AS
+SXJ,SXJ,CN,China,AS
+TCG,TCG,CN,China,AS
+HTN,HTN,CN,China,AS
+URC,URC,CN,China,AS
+YIN,YIN,CN,China,AS
+AOG,AOG,CN,China,AS
+CGQ,CGQ,CN,China,AS
+CNI,CNI,CN,China,AS
+CHG,CHG,CN,China,AS
+HRB,HRB,CN,China,AS
+HEK,HEK,CN,China,AS
+JIL,JIL,CN,China,AS
+JMU,JMU,CN,China,AS
+JNZ,JNZ,CN,China,AS
+YUS,YUS,CN,China,AS
+MDG,MDG,CN,China,AS
+OHE,OHE,CN,China,AS
+NDG,NDG,CN,China,AS
+DLC,DLC,CN,China,AS
+SHE,SHE,CN,China,AS
+YNJ,YNJ,CN,China,AS

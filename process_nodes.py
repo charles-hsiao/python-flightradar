@@ -17,6 +17,103 @@ def load_json(file_path):
     return data
 
 
+def process_all_flights(list_airports, list_countries, list_flights):
+
+    # Node table
+    countries_dict = {}
+    for country in list_countries:
+        country_code = country['alpha-2']
+        name = country['name']
+
+        countries_dict[country_code] = name
+
+    airports_dict = {}
+    list_all_airports = []
+    for airports in list_airports:
+        iata = airports['iata']
+        iso = airports['iso']
+        continent = airports['continent']
+        airports_dict[iata] = [iso, continent]
+
+        if iso in countries_dict:
+            country_name = countries_dict[iso]
+
+        list_all_airports.append([iata, iso, country_name, continent])
+
+    # Edge table
+    list_countries_appears = {}
+    countries_appears = 0
+
+    list_all_flights = []
+
+    for flights in list_flights:
+        from_airport = flights[1]
+        to_airport = flights[2]
+        capacity = flights[4]
+        if capacity == "Heavy":
+            airplane_capacity = 309
+        elif capacity == "Medium":
+            airplane_capacity = 184
+        elif capacity == "Light":
+            airplane_capacity = 11
+
+        list_all_flights.append([from_airport, to_airport, 'Directed', airplane_capacity])
+        # print(from_airport + ',' + to_airport + ',' + str(airplane_capacity))
+
+        # Statistics Only
+        from_airport_country = airports_dict[from_airport][0]
+        to_airport_country = airports_dict[to_airport][0]
+        if from_airport_country not in list_countries_appears:
+            list_countries_appears[from_airport_country] = country_name
+            countries_appears += 1
+        if to_airport_country not in list_countries_appears:
+            list_countries_appears[to_airport_country] = country_name
+            countries_appears += 1
+
+    # Process nodes(airports) csv
+    csv_nodes = 'dataset_processed/1-nodes-airports.csv'
+    with open(csv_nodes, 'w', newline='', encoding='utf-8') as csv_file:
+        writer = csv.writer(csv_file)
+        writer.writerow(['id', 'label', 'country_iso', 'country_name', 'continent'])
+        for airport in list_all_airports:
+            airport_code = airport[0]
+            airports_country_iso = airport[1]
+            airport_country_name = airport[2]
+            airport_continent = airport[3]
+            #print(airport_code + ',' + airports_country_iso + ',' + airport_country_name + ',' + airport_continent)
+            writer.writerow([airport_code, airport_code, airports_country_iso, airport_country_name, airport_continent])
+
+    # Process edge(flights) csv
+    csv_edges = 'dataset_processed/1-edges-flights.csv'
+    with open(csv_edges, 'w', newline='', encoding='utf-8') as csv_file:
+        writer = csv.writer(csv_file)
+        writer.writerow(['source', 'target', 'type', 'capacity'])
+        for flight in list_all_flights:
+            from_airport = flight[0]
+            to_airport = flight[1]
+            directed = flight[2]
+            airplane_capacity = flight[3]
+            #print(from_airport + ',' + to_airport + ',' + directed + ',' + str(airplane_capacity))
+            writer.writerow([from_airport, to_airport, directed, str(airplane_capacity)])
+
+    print('Countries appears: ' + str(countries_appears) + '/' + str(len(list_countries)))
+
+
+file_output = 'dataset_processed/output.csv'
+list_flights = load_csv(file_output)
+#print(list_flights)
+
+file_airports = 'dataset/airports_data.json'
+list_airports = load_json(file_airports)
+#print(list_airports)
+
+file_countries = 'dataset/countries_data.json'
+list_countries = load_json(file_countries)
+#print(list_countries)
+
+process_all_flights(list_airports, list_countries, list_flights)
+
+
 def process_international_flights(list_airports, list_countries, list_flights):
     airports_dict = {}
     for airports in list_airports:
@@ -41,8 +138,8 @@ def process_international_flights(list_airports, list_countries, list_flights):
     countries_appears = 0
 
     for flights in list_flights:
-        from_airports = flights[1]
-        to_airports = flights[2]
+        from_airport = flights[1]
+        to_airport = flights[2]
         capacity = flights[4]
         if capacity == "Heavy":
             airplane_capacity = 309
@@ -51,12 +148,12 @@ def process_international_flights(list_airports, list_countries, list_flights):
         elif capacity == "Light":
             airplane_capacity = 11
 
-        if from_airports in airports_dict:
-            if to_airports in airports_dict:
-                from_airport_country = airports_dict[from_airports][0]
-                from_airport_continent = airports_dict[from_airports][1]
-                to_airport_country = airports_dict[to_airports][0]
-                to_airport_continent = airports_dict[to_airports][1]
+        if from_airport in airports_dict:
+            if to_airport in airports_dict:
+                from_airport_country = airports_dict[from_airport][0]
+                from_airport_continent = airports_dict[from_airport][1]
+                to_airport_country = airports_dict[to_airport][0]
+                to_airport_continent = airports_dict[to_airport][1]
 
                 # Country list
                 if from_airport_country not in list_countries_appears:
@@ -65,7 +162,7 @@ def process_international_flights(list_airports, list_countries, list_flights):
                         list_countries_appears[from_airport_country] = [country_name, from_airport_continent]
                         countries_appears += 1
                     else:
-                        print('Country not found: ' + from_airport_country + ',' + from_airports)
+                        print('Country not found: ' + from_airport_country + ',' + from_airport)
 
                 if to_airport_country not in list_countries_appears:
                     if to_airport_country in countries_dict:
@@ -73,7 +170,7 @@ def process_international_flights(list_airports, list_countries, list_flights):
                         list_countries_appears[to_airport_country] = [country_name, to_airport_continent]
                         countries_appears += 1
                     else:
-                        print('Country not found: ' + to_airport_country + ',' + to_airports)
+                        print('Country not found: ' + to_airport_country + ',' + to_airport)
 
                 # Flight list
                 if from_airport_country != to_airport_country:
@@ -82,11 +179,11 @@ def process_international_flights(list_airports, list_countries, list_flights):
                 else:
                     domestic_flight += 1
             else:
-                print('Airport not found:' + to_airports)
+                print('Airport not found:' + to_airport)
         else:
-            print('Airport not found:' + from_airports)
+            print('Airport not found:' + from_airport)
 
-    # Process nodes(airports) csv
+    # Process nodes(countries) csv
     csv_nodes = 'dataset_processed/2-nodes-countries.csv'
     with open(csv_nodes, 'w', newline='', encoding='utf-8') as csv_file:
         writer = csv.writer(csv_file)
@@ -98,7 +195,7 @@ def process_international_flights(list_airports, list_countries, list_flights):
             #print(country_code + ',' + country_name + ',' + country_continent)
             writer.writerow([country_code, country_name, country_continent])
 
-    # Process edge(flights) csv
+    # Process edge(international flights) csv
     csv_edges = 'dataset_processed/2-edges-international-flights.csv'
     with open(csv_edges, 'w', newline='', encoding='utf-8') as csv_file:
         writer = csv.writer(csv_file)
@@ -118,18 +215,18 @@ def process_international_flights(list_airports, list_countries, list_flights):
 
 
 
-file_output = 'dataset_processed/output.csv'
-list_flights = load_csv(file_output)
+#file_output = 'dataset_processed/output.csv'
+#list_flights = load_csv(file_output)
 # print(list_flights)
 
-
-file_airports = 'dataset/airports_data.json'
-list_airports = load_json(file_airports)
+#file_airports = 'dataset/airports_data.json'
+#list_airports = load_json(file_airports)
 # print(list_airports)
 
-file_countries = 'dataset/countries_data.json'
-list_countries = load_json(file_countries)
+#file_countries = 'dataset/countries_data.json'
+#list_countries = load_json(file_countries)
 # print(list_countries)
 
-process_international_flights(list_airports, list_countries, list_flights)
+#process_international_flights(list_airports, list_countries, list_flights)
+
 
